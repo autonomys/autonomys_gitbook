@@ -7,10 +7,6 @@
 * [How does Autonomys Work?](autonomys-whitepaper/how-does-autonomys-work.md)
 * [Potential Applications](autonomys-whitepaper/potential-applications.md)
 
-## Pre-educational quiz
-
-* [Pre-educational quiz](pre-educational-quiz/pre-educational-quiz.md)
-
 ## Autonomys Solutions
 
 * [AutoID](autonomys-solutions/autoid/README.md)
