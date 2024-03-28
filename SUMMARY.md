@@ -31,7 +31,7 @@
   * [What is a DAO?](autonomys-solutions/autoco/what-is-a-dao.md)
   * [Challenges of participating in a DAO](autonomys-solutions/autoco/challenges-of-participating-in-a-dao.md)
   * [Auto Collective (AutoCo)](autonomys-solutions/autoco/auto-collective-autoco.md)
-  * [Unlocking the Power of Collective Intelligence: The Benefits of Being an AutoCo User](autonomys-solutions/autoco/unlocking-the-power-of-collective-intelligence-the-benefits-of-being-an-autoco-user.md)
+  * [Benefits of being an AutoCo user](autonomys-solutions/autoco/unlocking-the-power-of-collective-intelligence-the-benefits-of-being-an-autoco-user.md)
 * [AutoFi](autonomys-solutions/autofi/README.md)
   * [Introduction to DeFi](autonomys-solutions/autofi/introduction-to-defi.md)
   * [AutoFi Today](autonomys-solutions/autofi/autofi-today.md)
