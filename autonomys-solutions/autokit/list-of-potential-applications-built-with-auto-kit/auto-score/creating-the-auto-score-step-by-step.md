@@ -1,4 +1,4 @@
-# Creating the Auto Score step by step
+# Creating an Auto Score step by step
 
 The calculation of Auto Score for each entity with Auto ID will consist of multiple steps:
 
@@ -16,8 +16,8 @@ Unfortunately, this means that the Auto back-end server will learn about user’
 
 Nonetheless, the calculation method could be any of the following. Of course, anything besides a simple summation would become dramatically more difficult to implement in a zero knowledge proof.
 
-* summation of weights: Assume every proof-of-personhood registry or claim linked to an identifier has a certain weight. These weights, per user, can then be summed to represent her score. For example, if Alice is a) registered with WorldID and has a US state drivers license, b) this information is included on the Subspace registry and c) WorldID has weight 8 and the drivers license has weight 2, then Alice’s ‘human score’ is 10.
-* normalization method: We can use the previous approach, and then divide the sum by the max possible sum and multiply by 100. This will give each person’s score as a percentage
-* additional heuristics: We could always use the above methods with additional heuristics. For example, we could categorize each kind of claim into a category of evidence (ie retina scan, facial scan, passport, etc). Then, we could limit users to only getting a score per category, and summing up the weights of the different categories.
+* **Summation of Weights**: Assume every proof-of-personhood registry or claim linked to an identifier has a certain weight. These weights, per user, can then be summed to represent her score. For example, if Alice is a) registered with WorldID and has a US state drivers license, b) this information is included on the Subspace registry and c) WorldID has weight 8 and the drivers license has weight 2, then Alice’s ‘human score’ is 10.
+* **Normalization Method**: We can use the previous approach, and then divide the sum by the max possible sum and multiply by 100. This will give each person’s score as a percentage
+* **Additional Heuristics**: We could always use the above methods with additional heuristics. For example, we could categorize each kind of claim into a category of evidence (ie retina scan, facial scan, passport, etc). Then, we could limit users to only getting a score per category, and summing up the weights of the different categories.
 
 This is not a finalized process yet and we’re still researching more ideas on making the progress smooth from the user perspective but simultaneously keeping it thorough to ensure the consistent and confident division between human and AI entities or organizations.
