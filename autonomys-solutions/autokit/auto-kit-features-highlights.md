@@ -10,7 +10,7 @@ description: >-
 
 The main goal of Auto Kit is to create, verify, and revoke Auto ID (digital identity). As the list of supported features Auto ID expands, Auto Kit will assist in calculating functionality to calculate the Human score - the unique metrics to determine a human from AI online.
 
-The initial implementation will be done in Python. For a prototype implementation see [https://github.com/rg3l3dr/auto-sdk](https://github.com/rg3l3dr/auto-sdk).
+The initial implementation will be done in Python. For a prototype implementation see [this GitHub repo.](https://github.com/subspace/auto-kit)
 
 ### Auto ID Identity
 

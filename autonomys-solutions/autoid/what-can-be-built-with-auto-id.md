@@ -16,7 +16,7 @@ At Autonomys, we call this provenance detection and demonstration product Auto V
 
 #### Automated Detection of AI Generated Content
 
-Auto ID also provides a framework that allows anyone to detect the likelihood that a [malicious user](https://www.notion.so/AI-empowering-bad-actors-Auto-ID-counters-f19065320c2b4addb4331c2db83aa04b?pvs=21) publishes AI generated content on any platform, in a way that may be linked back to the AI provider, and even the malicious users account.
+Auto ID also provides a framework that allows anyone to detect the likelihood that a[ malicious user](../../problems/current-problems-with-ai-and-its-alignment/ai-empowering-bad-actors-auto-id-counters-action-needed.md) publishes AI generated content on any platform, in a way that may be linked back to the AI provider, and even the malicious users account.
 
 Let’s now turn to Eve who also uses OpenAI to routinely publish fake news and deepfake photographs on X to spread disinformation. How can Bob, X, and OpenAI know if this is happening? Let’s assume that Eve does not have her own Auto ID, but that OpenAI has decided to create surrogate Auto IDs for every user on its platform, and then jointly issues Auto IDs for each user based on their chosen AI model, similar to the setup above with Alice. This means that every time Eve generates content on OpenAI, they are still producing semantic hashes and signing using the joint Auto ID, internal to their platform. As one additional step, OpenAI adds every semantic hash to a hash table, for fast lookups, and then exposes this over its public API.
 
@@ -34,4 +34,4 @@ The more providers Alice has linked to her Auto ID, the more certainty the platf
 
 We now turn to Eve, who runs a bot farm and tries to generate as many fake accounts as possible on platforms for a variety of reasons. Before, platforms could only stop Even with captchas. Now Eve must generate or purchase multiple verified accounts across several well-known providers to obtain a reasonable human score, before she has any chance of even being able to create a new account, significantly raising the cost of sybil attacks.
 
-At Autonomys, we call this proof-of-personhood product Auto Score.
+At Autonomys, we call this proof-of-personhood product [Auto Score](../autokit/list-of-potential-applications-built-with-auto-kit/auto-score/).

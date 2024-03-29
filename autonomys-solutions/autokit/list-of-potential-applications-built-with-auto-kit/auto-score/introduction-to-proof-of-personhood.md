@@ -6,7 +6,7 @@ Proof of Personhood is a concept in the digital world designed to verify that a 
 
 Overall, Proof of Personhood attempts to bring the principle of "one person, one vote" to the digital domain, fostering environments that are fair, democratic, and respectful of human participation.
 
-To read more about the Proof-of-Personhood particularly based on World ID, refer to this article by Vitalik Buterin: [https://vitalik.eth.limo/general/2023/07/24/biometric.html](https://vitalik.eth.limo/general/2023/07/24/biometric.html)
+To read more about the Proof-of-Personhood particularly based on World ID, refer to [this article](https://vitalik.eth.limo/general/2023/07/24/biometric.html) by Vitalik Buterin.
 
 #### Why do we need to have a proof-of-personhood
 

@@ -10,9 +10,11 @@ Auto ID is a digital identity framework for the AI age. It gives everyone the ab
 
 #### Auto ID
 
-Autonomous Identity (Auto ID) is our solution to the problems an Agentic AI future will present the world. Auto ID is a new form of digital identity, rooted in public key cryptography, that may be issued to both humans and AI. Auto ID is based on the Auto PKI, a decentralized form of [Public Key Infrastructure (PKI)](https://www.notion.so/Public-Key-Infrastructure-00e12ae3c09e4957a4a28e90d44644e8?pvs=21) that anyone or anything may use to register and verify online identity.
+Autonomous Identity (Auto ID) is our solution to the problems an Agentic AI future will present the world. Auto ID is a new form of digital identity, rooted in public key cryptography, that may be issued to both humans and AI. Auto ID is based on the Auto PKI, a decentralized form of [Public Key Infrastructure (PKI) ](../autopki/public-key-infrastructure.md)that anyone or anything may use to register and verify online identity.
 
-Auto ID builds trust by allowing everyone to identify both AI and humans online, authenticate the content they produce, and authorize AI to act on their behalf. Unlike [World ID](https://whitepaper.worldcoin.org/#world-id), which may only be issued to humans through [the Orb](https://whitepaper.worldcoin.org/technical-implementation#the-orb), a biometric scanning device, Auto ID may be issued to any autonomous entity via an online [portal or API](https://www.notion.so/LetsID-ai-39a5aa87439d4bfc93a62da356a5832c?pvs=21). Entities may then attach any cryptographic identity claim, such as a World ID, to their Auto ID, allowing them to _compose_ a [proof-of-personhood](https://www.notion.so/Introduction-to-Proof-of-Personhood-4af8d88ccd1744828152054907f8be47?pvs=21).
+Auto ID builds trust by allowing everyone to identify both AI and humans online, authenticate the content they produce, and authorize AI to act on their behalf. Unlike [World ID](https://whitepaper.worldcoin.org/#world-id), which may only be issued to humans through [the Orb](https://whitepaper.worldcoin.org/technical-implementation#the-orb), a biometric scanning device, Auto ID may be issued to any autonomous entity [via an online portal or API](../autokit/list-of-potential-applications-built-with-auto-kit/letsid.ai/). Entities may then attach any cryptographic identity claim, such as a World ID, to their Auto ID, allowing them to _compose_ a [proof-of-personhood](https://www.notion.so/Introduction-to-Proof-of-Personhood-4af8d88ccd1744828152054907f8be47?pvs=21)[.](../autokit/list-of-potential-applications-built-with-auto-kit/auto-score/introduction-to-proof-of-personhood.md)
+
+&#x20;
 
 #### What is an Auto ID?
 
@@ -35,7 +37,7 @@ From these rules, we may derive several key properties of an Auto ID that benefi
 
 * _Verifiable_: Through the use of digital signatures, control over an Auto ID, and the legitimacy of any granted claims may be authenticated by anyone with the related public keys.
 * _Portable_: An Auto ID is a self-contained digital document that is not inherently tied to any particular online provider or public registry, allowing it to easily move across platforms.
-* _Backwards Compatible_: Auto IDs simple structure is compatible with X.509 [Public Key Infrastructure (PKI)](https://www.notion.so/Public-Key-Infrastructure-00e12ae3c09e4957a4a28e90d44644e8?pvs=21) certificates and the [Open ID Connect (OIDC)](https://www.notion.so/OAuth-and-OIDC-b1800b7c540e40db921bd933b73a443e?pvs=21) account model.
+* _Backwards Compatible_: Auto IDs simple structure is compatible with [X.509 Public Key Infrastructure (PKI)](../autopki/public-key-infrastructure.md) certificates and the [Open ID Connect (OIDC)](../../additional-learning/security-basics/oauth-and-oidc.md) account model.
 * _Secure_: Using mutual Transport Layer Security ([mTLS](https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-tls/)) , any two entities with an Auto ID may establish an authenticated and encrypted communication channel over a public network.
 * _Interoperable_: Since an Auto ID is based on a common, open standard, any entity with an Auto ID may grant claims against any other entity
 * _Linkable_: An Auto ID may act as a container for any number of identity claims or credentials, allowing it to act as a universal digital passport for any type of digital identity.

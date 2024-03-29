@@ -4,7 +4,7 @@ As we pointed out [before](introduction-to-proof-of-personhood.md), current solu
 
 Auto ID aims to provide an Auto Score, a probability rating that a given entity is a human. We will leverage the foundations laid by existing proof-of-personhood protocols, as well as other services that support identity claims, such as OIDC providers and government registries. Claims linking an Auto ID to a wide range of services will allow users to construct a profile that offers different levels of "proof" of their personhood.
 
-This information can then be aggregated into their Auto Score that can be presented to a service that requires some minimum probability of human-ness in order to interact with it. Creating an Auto Score from a user's identity claims can be approached in [various ways](https://www.notion.so/Auto-Score-Proof-of-Personhood-405b6c34b88a4078be3f6b78eb16930a?pvs=21), each tailored to specific use cases. Currently, we are actively researching and refining the scoring methodology.
+This information can then be aggregated into their Auto Score that can be presented to a service that requires some minimum probability of human-ness in order to interact with it. Creating an Auto Score from a user's identity claims can be approached in various ways, each tailored to specific use cases. Currently, we are actively researching and refining the scoring methodology.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-11 at 2.36.17 PM (1).png" alt=""><figcaption></figcaption></figure>
 

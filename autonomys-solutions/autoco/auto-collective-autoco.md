@@ -22,7 +22,7 @@ AutoCo consists of three core components:
 
 The key innovation is how AutoCo incorporates AI assistance into each of these DAO layers. Autonomy-trained AI models will augment the governance processes by summarizing discussions, providing information, and clearly presenting proposals to human participants. For voting, the AI ensures each stakeholder's preferences are accurately tallied based on their token stakes.
 
-Conversation around a proposal will happen off-chain in public forums which the AI assistant will be aware of while the on-chain activity is reserved for voting. The NOMIC token will determine the “weight” of a voter’s voice and that voice will be attached to an [Auto ID](https://www.notion.so/Autonomous-Identity-Auto-ID-07730fc66a714c16b75790c496c81755?pvs=21) which could represent a person or an AI entity. These three components are how we will unlock collaboration at planetary scale.
+Conversation around a proposal will happen off-chain in public forums which the AI assistant will be aware of while the on-chain activity is reserved for voting. The NOMIC token will determine the “weight” of a voter’s voice and that voice will be attached to an [Auto ID](../autoid/) which could represent a person or an AI entity. These three components are how we will unlock collaboration at planetary scale.
 
 #### Harnessing Collective Intelligence
 

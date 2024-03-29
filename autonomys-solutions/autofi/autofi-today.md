@@ -1,6 +1,6 @@
-# AutoFi Today
+# AutoFi today
 
-AutoFi presents an ecosystem of inherent smart contract arenas, developed atop the Autonomy network, catering to a variety of decentralized finance (DeFi) functionalities [pertinent to Auto Cash and Auto Coin.](https://www.notion.so/An-Introduction-to-Auto-Coin-and-Auto-Cash-a547f64e157f43a6a4410bd9b6c0c97c?pvs=21)
+AutoFi presents an ecosystem of inherent smart contract arenas, developed atop the Autonomy network, catering to a variety of decentralized finance (DeFi) functionalities [pertinent to Auto Cash and Auto Coin.](an-introduction-to-autocoin-and-autocash.md)
 
 This framework utilizes Auto ID as the cornerstone for conducting financial transactions and offerings.
 
@@ -10,9 +10,9 @@ The process starts with **AutoBridge**, a protocol facilitating asset transfer a
 
 Subsequent to asset transfer, **AutoSwap** facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value).
 
-For the purpose of converting Auto Coin to USDT, **AutoSwap** incorporates an Auto Coin <> USDT liquidity pool. These pools are critical for enabling trade by supplying liquidity via token pools managed by smart contracts (more about liquidity pools [here](https://www.notion.so/Introduction-to-DeFi-as-background-to-AutoFi-934357b52d7b4ccda7822ce043bfe168?pvs=21)).
+For the purpose of converting Auto Coin to USDT, **AutoSwap** incorporates an Auto Coin <> USDT liquidity pool. These pools are critical for enabling trade by supplying liquidity via token pools managed by smart contracts (more about liquidity pools [here](introduction-to-defi.md)).
 
-However, not every financial transaction within AutoFi requires bridging. Auto Coin tokens, acquired by farmers who pledge their unused disk space through the [Auto Peer app](https://www.notion.so/Auto-Peer-Web3-UI-Challenge-64728883fe074cfdbab18e623629775b?pvs=21), can be staked as well.
+However, not every financial transaction within AutoFi requires bridging. Auto Coin tokens, acquired by farmers who pledge their unused disk space through the[ Auto Peer app](../autopeer/), can be staked as well.
 
 **Staking Auto Coins?**
 

@@ -4,7 +4,7 @@ At this point, we’ve discussed in great detail what AutoID is and how blockcha
 
 #### What is the Auto Kit?
 
-Auto Kit is a Software Development Kit (SDK) that allows AI and Web developers to easily interact with the Autonomys Network through familiar programming languages like Python and Javascript, without needing to understand how blockchains or smart contracts work. It exposes simple APIs for issuing and verifying Auto IDs, as well as sending and accepting payments using Auto Cash. The key point in the section above is simplicity - every user interaction with Auto ID needs to be seamless, and there should be no barriers or ambiguity in any action the user takes, it just has to work out of the box. It’s powerful and essential, but simple and transparent at the same time.
+Auto Kit is a [Software Development Kit (SDK)](../../additional-learning/technology-basics/general-information-about-sdk.md) that allows AI and Web developers to easily interact with the Autonomys Network through familiar programming languages like Python and Javascript, without needing to understand how blockchains or smart contracts work. It exposes simple APIs for issuing and verifying Auto IDs, as well as sending and accepting payments using Auto Cash. The key point in the section above is simplicity - every user interaction with Auto ID needs to be seamless, and there should be no barriers or ambiguity in any action the user takes, it just has to work out of the box. It’s powerful and essential, but simple and transparent at the same time.
 
 #### What programming language is Auto Kit written with?
 

@@ -20,24 +20,24 @@ The vision of Autonomys is to safely accelerate the world’s transition to the 
 
 The following dynamic whitepaper describes the reasoning behind the implementation of the Autonomys network as well as its current state and roadmap.
 
-#### Auto ID
+#### [Auto ID](../autonomys-solutions/autoid/)
 
 To maintain online trust in the age of AI, we need a method for distinguishing between different kinds of _autonomous_ entities online. These include: natural entities, such as human beings and organizations; artificial entities, such as AI systems; or any combination thereof. Autonomous Identity (Auto ID) is our solution to this problem. Auto ID is a new form of digital identity, rooted in public key cryptography, that may be issued to both humans and AI. Auto ID is based on the Auto PKI, a decentralized form of Public Key Infrastructure (PKI) that anyone or anything may use to register and verify online identity.
 
 Auto ID builds trust by allowing everyone to identify both AI and humans online, authenticate the content they produce, and authorize AI to act on their behalf. Unlike World ID, which may only be issued to humans through the Orb, a biometric scanning device, Auto ID may be issued to any autonomous entity via an online portal or API. Entities may then attach any cryptographic identity claim, such as a World ID, to their Auto ID, allowing them to _compose_ a proof-of-personhood.
 
-#### Auto Coin
+#### [Auto Coin](../autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
 
 Auto Coin (ATC) is the native token of Autonomys. It is primarily used to pay the fees needed to process transactions on the network. Auto Coin has a capped supply of 21 billion coins under a deflationary emission schedule. New Auto Coin are issued directly to users who help secure the network with their free disk space. Any user may also stake their Auto Coin in order to earn a slice of transaction fees. Unlike Worldcoin, which may only be earned by those who physically register and receive a World ID, Auto Coin may be earned by anyone in the world with a home computer.
 
-#### Auto Cash
+#### [Auto Cash](../autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
 
 Auto Cash is a native algorithmic stablecoin that allows users to easily transact in pegged fiat currencies, such as USD (AUSD), EUR (AEUR), or YEN (AYEN). Auto Cash has a dynamic supply which is always capped by the total amount of storage shared with the network by all users. Any user may convert between Auto Coin and Auto Cash under a burn-and-mint model with a dynamic conversion rate which serves to automatically stabilize the peg. Unlike Worldcoin, which is a volatile crypto asset, Auto Cash is a stable, low-cost digital payment solution suited for everyday use-cases.
 
-#### Auto Kit
+#### [Auto Kit](../autonomys-solutions/autokit/)
 
 Auto Kit is a Software Development Kit (SDK) that allows AI and Web developers to easily interact with the Autonomys Network through familiar programming languages like Python and Javascript, without needing to understand how blockchains or smart contracts work. It exposes simple APIs for issuing and verifying Auto IDs, as well as sending and accepting payments using Auto Cash.
 
-#### Auto Peer
+#### [Auto Peer](../autonomys-solutions/autopeer/)
 
 Auto Peer is a cross-platform desktop application that allows anyone to easily share free storage in order to earn Auto Coin and help secure the Autonomys Network. Every Auto Peer also receives an Auto ID and has the ability to stake their portfolio of Auto Coin and Auto Cash to earn yield and provide liquidity to the network.

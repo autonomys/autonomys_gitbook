@@ -18,7 +18,7 @@ The constant product market maker algorithm ensures liquidity at all trade sizes
 
 Different protocols, like [Balancer](https://balancer.fi/) and [Curve](https://balancer.fi/), innovate on the liquidity pool concept by introducing pools with multiple assets and optimized algorithms for assets with similar values, reducing fees and slippage.
 
-Despite their benefits, liquidity pools carry risks, ~~including~~ including smart contract bugs, protocol changes, systemic market risks, and network congestion: important considerations warrant attention in the DeFi space
+Despite their benefits, liquidity pools carry risks, including smart contract bugs, protocol changes, systemic market risks, and network congestion: important considerations warrant attention in the DeFi space
 
 Projects like [Nexus Mutual](https://nexusmutual.io/) and [Opyn](https://v1.opyn.co/#/) aim to mitigate risks related to smart contract failures or deposit protection, with [Chainlink](https://chain.link/) providing essential oracle services ( which allow smart contracts to access real-world data and make decisions based on that data) for external data feeds.
 

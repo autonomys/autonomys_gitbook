@@ -6,7 +6,7 @@ A significant transformation awaits, with the Subspace Network evolving beyond i
 
 Autonomys stands out as the first identity and financial network accommodating both humans and AI. It offers unique opportunities for shared identities and financial transactions across both humans and AI, paving the way for an alternate future of autonomy. This vision for an autonomous economy and the age of autonomy presents a fresh perspective on the agentic AI-driven future, highlighting the transformative power of this network.
 
-The Autonomys Network, powered by Subspace hosts a number of the foundational tools required for our agentic future. Read on to discover and learn about them.
+The Autonomys Network, powered by Subspace hosts a number of the foundational tools required for our agentic future.
 
 
 
