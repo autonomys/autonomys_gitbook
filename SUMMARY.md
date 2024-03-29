@@ -20,7 +20,7 @@
 * [Autonomy's Suite one-pager](autonomys-solutions/autonomys-suite-one-pager.md)
 * [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
   * [What is a blockchain](autonomys-solutions/autonomys-network/what-is-a-blockchain.md)
-  * [The Blockchain Trilemma limits scalability](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)
+  * [The Blockchain Trilemma and the cost of scalability](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)
   * [Autonomys Network - an instance of the Subspace protocol](autonomys-solutions/autonomys-network/subspace-protocol.md)
   * [Autonomys Network is the first network designed for humans and AI](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
 * [AutoID](autonomys-solutions/autoid/README.md)
