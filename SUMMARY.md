@@ -13,15 +13,19 @@
 
 * [Competing Visions for our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
 * [Autonomy's Suite one-pager](autonomys-solutions/autonomys-suite-one-pager.md)
+* [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
+  * [What is a blockchain](autonomys-solutions/autonomys-network/what-is-a-blockchain.md)
+  * [What is a crypto currency](autonomys-solutions/autonomys-network/what-is-a-crypto-currency.md)
+  * [The blockchain trilemma](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)
+  * [How does the Autonomys Network fit into the AI alignment problem? Enter Autonomys.](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
+  * [Autonomys Network - an instance of the Subspace protocol (maybe change placement!)](autonomys-solutions/autonomys-network/subspace-protocol.md)
 * [AutoID](autonomys-solutions/autoid/README.md)
-  * [How does the Autonomys Network fit into the AI alignment problem? Enter Autonomys.](autonomys-solutions/autoid/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
   * [Autonomous Identity (AutoID)](autonomys-solutions/autoid/autonomous-identity-auto-id.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What can be built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
 * [AutoKit](autonomys-solutions/autokit/README.md)
   * [Auto Kit Introduction](autonomys-solutions/autokit/auto-kit-introduction.md)
-  * [General information about SDK](autonomys-solutions/autokit/general-information-about-sdk.md)
-  * [Auto Kit features highlights](autonomys-solutions/autokit/auto-kit-features-highlights.md)
+  * [AutoKit features highlights](autonomys-solutions/autokit/auto-kit-features-highlights.md)
   * [List of potential applications built with Auto Kit](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/README.md)
     * [Auto Score](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/README.md)
       * [Introduction to Proof-of-Personhood](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/introduction-to-proof-of-personhood.md)
@@ -50,10 +54,6 @@
 ## Learning
 
 * [Blockchain basics](learning/blockchain-basics/README.md)
-  * [What is a blockchain](learning/blockchain-basics/what-is-a-blockchain.md)
-  * [What is a crypto currency](learning/blockchain-basics/what-is-a-crypto-currency.md)
-  * [The blockchain trilemma](learning/blockchain-basics/the-blockchain-trilemma.md)
-  * [Autonomys Network - an instance of the Subspace protocol (maybe change placement!)](learning/blockchain-basics/subspace-protocol.md)
   * [DID & Verifiable Credentials](learning/blockchain-basics/did-and-verifiable-credentials.md)
   * [OAuth and OIDC](learning/blockchain-basics/oauth-and-oidc.md)
   * [Provenance in a generative world, CAI, C2PA](learning/blockchain-basics/provenance-in-a-generative-world-cai-c2pa.md)
@@ -64,6 +64,8 @@
   * [What is an AI Agent](learning/ai-basics/what-is-an-ai-agent.md)
   * [The coming age of Agentic AI](learning/ai-basics/the-coming-age-of-agentic-ai.md)
   * [Personal AI](learning/ai-basics/personal-ai.md)
+* [Basis pieces](learning/basis-pieces/README.md)
+  * [General information about SDK](learning/basis-pieces/general-information-about-sdk.md)
 
 ## Problems
 

@@ -1,4 +1,10 @@
-# Auto Kit features highlights
+---
+description: >-
+  This page is still being designed and be updated as soon as there is more
+  information available.
+---
+
+# AutoKit features highlights
 
 ## Auto SDK Design
 
