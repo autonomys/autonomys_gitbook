@@ -61,19 +61,20 @@
 
 * [Blockchain basics](learning/blockchain-basics/README.md)
   * [What is a crypto currency](learning/blockchain-basics/what-is-a-crypto-currency.md)
-  * [DID & Verifiable Credentials](learning/blockchain-basics/did-and-verifiable-credentials.md)
-  * [OAuth and OIDC](learning/blockchain-basics/oauth-and-oidc.md)
-  * [Provenance in a generative world, CAI, C2PA](learning/blockchain-basics/provenance-in-a-generative-world-cai-c2pa.md)
 * [AI Basics](learning/ai-basics/README.md)
   * [AI Changes Everything](problems/current-problems-with-ai-and-its-alignment/ai-changes-everything.md)
   * [What is an LLM](learning/ai-basics/what-is-an-llm.md)
   * [Open vs Closed models (to do!)](learning/ai-basics/open-vs-closed-models-to-do.md)
   * [Current State of AI](learning/ai-basics/current-state-of-ai.md)
+  * [Provenance in a generative world, CAI, C2PA](learning/ai-basics/provenance-in-a-generative-world-cai-c2pa.md)
   * [What is an AI Agent](learning/ai-basics/what-is-an-ai-agent.md)
   * [The coming age of Agentic AI](learning/ai-basics/the-coming-age-of-agentic-ai.md)
   * [Personal AI](learning/ai-basics/personal-ai.md)
 * [Basis pieces](learning/basis-pieces/README.md)
   * [General information about SDK](learning/basis-pieces/general-information-about-sdk.md)
+* [Security basics](learning/security-basics/README.md)
+  * [DID & Verifiable Credentials](learning/security-basics/did-and-verifiable-credentials.md)
+  * [OAuth and OIDC](learning/security-basics/oauth-and-oidc.md)
 
 ## Problems
 
