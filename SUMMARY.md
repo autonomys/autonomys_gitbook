@@ -59,8 +59,6 @@
 
 ## Learning
 
-* [Blockchain basics](learning/blockchain-basics/README.md)
-  * [What is a crypto currency](learning/blockchain-basics/what-is-a-crypto-currency.md)
 * [AI Basics](learning/ai-basics/README.md)
   * [AI Changes Everything](problems/current-problems-with-ai-and-its-alignment/ai-changes-everything.md)
   * [Current State of AI](learning/ai-basics/current-state-of-ai.md)
@@ -70,11 +68,12 @@
   * [The coming age of Agentic AI](learning/ai-basics/the-coming-age-of-agentic-ai.md)
   * [Open vs Closed models (to do!)](learning/ai-basics/open-vs-closed-models-to-do.md)
   * [Provenance in a generative world, CAI, C2PA](learning/ai-basics/provenance-in-a-generative-world-cai-c2pa.md)
-* [Basis pieces](learning/basis-pieces/README.md)
-  * [General information about SDK](learning/basis-pieces/general-information-about-sdk.md)
 * [Security basics](learning/security-basics/README.md)
   * [DID & Verifiable Credentials](learning/security-basics/did-and-verifiable-credentials.md)
   * [OAuth and OIDC](learning/security-basics/oauth-and-oidc.md)
+* [Technologies basics](learning/technologies-basics/README.md)
+  * [What is a crypto currency](learning/technologies-basics/what-is-a-crypto-currency.md)
+  * [General information about SDK](learning/technologies-basics/general-information-about-sdk.md)
 
 ## Problems
 
