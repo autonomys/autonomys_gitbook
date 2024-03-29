@@ -15,7 +15,6 @@
 * [Autonomy's Suite one-pager](autonomys-solutions/autonomys-suite-one-pager.md)
 * [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
   * [What is a blockchain](autonomys-solutions/autonomys-network/what-is-a-blockchain.md)
-  * [What is a crypto currency](autonomys-solutions/autonomys-network/what-is-a-crypto-currency.md)
   * [The Blockchain Trilemma limits scalability](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)
   * [Autonomys Network - an instance of the Subspace protocol](autonomys-solutions/autonomys-network/subspace-protocol.md)
   * [Autonomys Network is the first network designed for humans and AI](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
@@ -54,6 +53,7 @@
 ## Learning
 
 * [Blockchain basics](learning/blockchain-basics/README.md)
+  * [What is a crypto currency](learning/blockchain-basics/what-is-a-crypto-currency.md)
   * [DID & Verifiable Credentials](learning/blockchain-basics/did-and-verifiable-credentials.md)
   * [OAuth and OIDC](learning/blockchain-basics/oauth-and-oidc.md)
   * [Provenance in a generative world, CAI, C2PA](learning/blockchain-basics/provenance-in-a-generative-world-cai-c2pa.md)
