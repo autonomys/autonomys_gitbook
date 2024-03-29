@@ -16,7 +16,7 @@
 * [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
   * [What is a blockchain](autonomys-solutions/autonomys-network/what-is-a-blockchain.md)
   * [What is a crypto currency](autonomys-solutions/autonomys-network/what-is-a-crypto-currency.md)
-  * [The blockchain trilemma](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)
+  * [The Blockchain Trilemma limits scalability](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)
   * [How does the Autonomys Network fit into the AI alignment problem? Enter Autonomys.](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
   * [Autonomys Network - an instance of the Subspace protocol (maybe change placement!)](autonomys-solutions/autonomys-network/subspace-protocol.md)
 * [AutoID](autonomys-solutions/autoid/README.md)
