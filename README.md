@@ -1,5 +1,4 @@
 ---
-description: Introduction to the Autonomys Network's main learning resource.
 layout: landing
 ---
 
