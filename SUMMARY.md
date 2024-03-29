@@ -71,9 +71,9 @@
 * [Security basics](learning/security-basics/README.md)
   * [DID & Verifiable Credentials](learning/security-basics/did-and-verifiable-credentials.md)
   * [OAuth and OIDC](learning/security-basics/oauth-and-oidc.md)
-* [Technologies basics](learning/technologies-basics/README.md)
-  * [What is a crypto currency](learning/technologies-basics/what-is-a-crypto-currency.md)
-  * [General information about SDK](learning/technologies-basics/general-information-about-sdk.md)
+* [Technology basics](learning/technology-basics/README.md)
+  * [What is a crypto currency](learning/technology-basics/what-is-a-crypto-currency.md)
+  * [General information about SDK](learning/technology-basics/general-information-about-sdk.md)
 
 ## Problems
 
