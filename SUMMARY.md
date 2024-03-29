@@ -26,7 +26,7 @@
     * [Auto Score](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/README.md)
       * [Introduction to Proof-of-Personhood](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/introduction-to-proof-of-personhood.md)
       * [Our response - Auto Score](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/our-response-auto-score.md)
-      * [Using AutoScore in real-world](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/using-autoscore-in-real-world.md)
+      * [Using AutoScore in the real-world](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/using-autoscore-in-real-world.md)
       * [Creating the Auto Score step by step](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/creating-the-auto-score-step-by-step.md)
     * [LetsID.ai](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/letsid.ai/README.md)
       * [What is LetsID.ai](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/letsid.ai/what-is-letsid.ai.md)
