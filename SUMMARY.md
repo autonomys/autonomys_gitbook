@@ -75,13 +75,6 @@
   * [What is a crypto currency](learning/technology-basics/what-is-a-crypto-currency.md)
   * [General information about SDK](learning/technology-basics/general-information-about-sdk.md)
 
-## Problems
-
-* [Current problems with AI and its alignment](problems/current-problems-with-ai-and-its-alignment/README.md)
-  * [Sealing the Digital Trust Gap (action needed1)](problems/current-problems-with-ai-and-its-alignment/sealing-the-digital-trust-gap-action-needed.md)
-  * [Innovating Defense Against AI Deception in the Digital Age (action needed)](problems/current-problems-with-ai-and-its-alignment/innovating-defense-against-ai-deception-in-the-digital-age-action-needed.md)
-  * [What are the views for the future (WorldCoin, FetchAI TO EXPAND)](problems/current-problems-with-ai-and-its-alignment/what-are-the-views-for-the-future-worldcoin-fetchai-to-expand.md)
-
 ## Post educational quiz
 
 * [Post-educational quiz](post-educational-quiz/post-educational-quiz.md)
