@@ -13,6 +13,14 @@ HI is based on _humaism_, a moral philosophy for how we should design, employ, a
 
 Humaism is a reaction to the current practice of pursuing AI research for its own sake, as exemplified by the mission statement of [OpenAI](https://openai.com/) to create AGI. It provides an alternative path that resolves the existential threats to human existence, agency, and relevance presented by AGI. Humaism is inspired by Renaissance Humanism, humanistic philosophy, and the humanities. It prioritizes all human beings’ continued value, worth, and dignity. Humaism seeks to place AI firmly under human control. It sees individually tailored HI as a tool for human empowerment and self-actualization. Humaic AIs become our trusted companions and guardian angels.
 
+**Threats of AI Development**
+
+The existential consequences of failing to solve the alignment problem before a company like OpenAI achieves AGI include:
+
+1. **Extinction Threat**: misaligned super-intelligence may destroy the human race intentionally (an engineered virus) or accidentally (a paperclip maximizer).
+2. **Enslavement Threat**: the all-powerful nature of AGI suggests that the first group to unlock _and_ control it could very well use it to control the rest of humanity.
+3. **Replacement Threat:** even human-level AGI will cause massive job replacement for most of humanity and a meaningless future dominated by existential nihilism.
+
 The vision of humaism may be summarized within the humaic thesis.
 
 **THE HUMAIC THESIS** argues that the best way to protect humanity from the existential threat of AGI is to give everyone an individually-aligned HI guardian.
