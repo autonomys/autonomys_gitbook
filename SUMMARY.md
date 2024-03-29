@@ -13,7 +13,7 @@
 
 * [Humaic introduction](humaic/humaic-introduction.md)
 * [AI alignment](humaic/ai-alignment.md)
-* [Framing the Alignment Problem](humaic/framing-the-alignment-problem.md)
+* [Framing the Alignment Problem](problems/current-problems-with-ai-and-its-alignment/framing-the-alignment-problem.md)
 
 ## Autonomys Solutions
 
@@ -25,7 +25,7 @@
   * [Autonomys Network - an instance of the Subspace protocol](autonomys-solutions/autonomys-network/subspace-protocol.md)
   * [Autonomys Network is the first network designed for humans and AI](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
 * [AutoID](autonomys-solutions/autoid/README.md)
-  * [AI empowering bad actors](autonomys-solutions/autoid/ai-empowering-bad-actors-auto-id-counters-action-needed.md)
+  * [AI empowering bad actors](problems/current-problems-with-ai-and-its-alignment/ai-empowering-bad-actors-auto-id-counters-action-needed.md)
   * [Autonomous Identity (AutoID)](autonomys-solutions/autoid/autonomous-identity-auto-id.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What can be built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
@@ -65,7 +65,7 @@
   * [OAuth and OIDC](learning/blockchain-basics/oauth-and-oidc.md)
   * [Provenance in a generative world, CAI, C2PA](learning/blockchain-basics/provenance-in-a-generative-world-cai-c2pa.md)
 * [AI Basics](learning/ai-basics/README.md)
-  * [AI Changes Everything](learning/ai-basics/ai-changes-everything.md)
+  * [AI Changes Everything](problems/current-problems-with-ai-and-its-alignment/ai-changes-everything.md)
   * [What is an LLM](learning/ai-basics/what-is-an-llm.md)
   * [Open vs Closed models (to do!)](learning/ai-basics/open-vs-closed-models-to-do.md)
   * [Current State of AI](learning/ai-basics/current-state-of-ai.md)
@@ -78,7 +78,7 @@
 ## Problems
 
 * [Current problems with AI and its alignment](problems/current-problems-with-ai-and-its-alignment/README.md)
-  * [Sealing the Digital Trust Gap (action needed)](problems/current-problems-with-ai-and-its-alignment/sealing-the-digital-trust-gap-action-needed.md)
+  * [Sealing the Digital Trust Gap - action needed2](problems/current-problems-with-ai-and-its-alignment/sealing-the-digital-trust-gap-action-needed.md)
   * [Innovating Defense Against AI Deception in the Digital Age (action needed)](problems/current-problems-with-ai-and-its-alignment/innovating-defense-against-ai-deception-in-the-digital-age-action-needed.md)
   * [What are the views for the future (WorldCoin, FetchAI TO EXPAND)](problems/current-problems-with-ai-and-its-alignment/what-are-the-views-for-the-future-worldcoin-fetchai-to-expand.md)
 
