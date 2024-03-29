@@ -9,6 +9,11 @@
 * [How does Autonomys Work?](autonomys-whitepaper/how-does-autonomys-work.md)
 * [Potential Applications](autonomys-whitepaper/potential-applications.md)
 
+## Humaic
+
+* [Humaic introduction](humaic/humaic-introduction.md)
+* [AI alignment](humaic/ai-alignment.md)
+
 ## Autonomys Solutions
 
 * [Competing Visions for our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
