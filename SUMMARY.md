@@ -23,7 +23,7 @@
   * [The Blockchain Trilemma and the cost of scalability](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)
   * [Autonomys Network - an instance of the Subspace protocol](autonomys-solutions/autonomys-network/subspace-protocol.md)
   * [Autonomys Network is the first network designed for humans and AI](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
-* [Auto ID](autonomys-solutions/autoid/README.md)
+* [AutoID](autonomys-solutions/autoid/README.md)
   * [AI empowering bad actors](problems/current-problems-with-ai-and-its-alignment/ai-empowering-bad-actors-auto-id-counters-action-needed.md)
   * [Autonomous Identity (AutoID)](autonomys-solutions/autoid/autonomous-identity-auto-id.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
