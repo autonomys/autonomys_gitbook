@@ -1,6 +1,6 @@
 # What is an AI Agent
 
-In the context of artificial intelligence, an agent refers to an entity that perceives its environment through sensors and acts upon that environment through actuators to achieve certain goals or objectives.
+An [**agent**](https://aima.cs.berkeley.edu/) is just something that acts (_agent_ comes from the Latin _agere_, to do). Of course, all computer programs do something, but computer agents are expected to do more: operate autonomously, perceive their environment, persist over a prolonged time period, adapt to change, and create and pursue goals. A **rational agent** is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.
 
 An AI agent can be a software program, a robot, or any other system that exhibits autonomous behavior and decision-making capabilities. The key characteristics of an AI agent can include:
 

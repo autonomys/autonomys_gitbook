@@ -12,6 +12,8 @@ When you need to prove your identity to someone, like when renting an apartment,
 
 Self-sovereign identity aims to make identification more trustworthy, privacy-preserving and return ownership of your identity to you rather than organizations. Technical implementations including decentralized identifiers (DIDs), verifiable credentials, and zero-knowledge proofs are used to accomplish this vision.
 
+[Zero-knowledge proofs](https://chain.link/education/zero-knowledge-proof-zkp) are a way to prove something is true without revealing any information about it. Imagine you have a secret code to open a lock, but you don't want to tell anyone the code. With zero-knowledge proofs, you can prove to someone that you know the code without actually showing them the code.&#x20;
+
 <figure><img src="../../.gitbook/assets/Identity-concept.svg.png" alt=""><figcaption></figcaption></figure>
 
 #### Decentralized Identifiers
@@ -20,19 +22,15 @@ When you want to identify yourself online, you use things like a username, email
 
 But the problem is, these identities are provided and controlled by centralized companies or organizations. For example, Google owns your Gmail address.
 
-Decentralized Identifiers or DIDs are a new type of digital identity that doesn't belong to any company. Instead of someone giving you an identity, with DIDs you create your own "self-sovereign" identity using special cryptography.
+[Decentralized Identifiers](https://www.w3.org/TR/did-core/) or DIDs are a new type of digital identity that doesn't belong to any company. Instead of someone giving you an identity, with DIDs you create your own "self-sovereign" identity using special cryptography.
 
 A DID looks something like this weird string: "did:example:123456789abcdefghi". It's generated using blockchain-like distributed ledger technology, rather than coming from a centralized source.
 
-DIDs allow you to link Verifiable Credentials (VCs) containing verified claims about yourself like your name, age, qualifications etc. VCs are digital credentials that are cryptographically verified and linked to your DID.
+DIDs allow you to link [Verifiable Credentials](https://www.w3.org/TR/vc-data-model-2.0/) (VCs) containing verified claims about yourself like your name, age, qualifications etc. VCs are digital credentials that are cryptographically verified and linked to your DID.
 
 Having your own DID means you remain in full control of your digital identity. It can't be taken away, censored, or turned off by anyone else. You're not locked into using a particular company's service or ecosystem either.
 
 DIDs allow you to prove things about your identity in a trusted, decentralized way using advanced crypto like digital signatures and verifiable credentials. They help solve problems of identity and data ownership on the internet.
-
-[https://www.w3.org/TR/did-core/](https://www.w3.org/TR/did-core/)
-
-[https://www.w3.org/TR/vc-data-model-2.0/](https://www.w3.org/TR/vc-data-model-2.0/)
 
 #### **Identity and Access Management (IAM)**
 

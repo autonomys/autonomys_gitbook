@@ -1,4 +1,8 @@
-# AI Worms
+---
+description: Do we need this one in general?
+---
+
+# AI Worms (action needed)
 
 As autonomous agents assume a greater role in internet-based tasks, AI worms emerge as a new concern, [with a recent study](https://www.wired.com/story/here-come-the-ai-worms/) shedding light on this development.
 

@@ -1,6 +1,6 @@
 # Personal AI
 
-In the previous articles we briefly covered what is an LLM, how development of transformers were essential to the tools that we use today and discussed the current trend of Agentic AI which aims to solving solution in a more meaningful and sometimes creative way. But there’s more to it! Imagine if the agent wasn’t only using the publicly available information about the world and it’s training dataset, but were able to know more about you, your set of rules and beliefs, your background and your opinions about anything and provided a unique answer which was aligned with your vision of the world. That is exactly what Personal Agentic AI is.
+In the previous articles we briefly covered what an LLM is, how development of transformers were essential to the tools that we use today and discussed the current trend of Agentic AI which aims to use AI in a more meaningful and sometimes creative way. But there’s more to it! Imagine if the agent wasn’t only using the publicly available information about the world and it’s training dataset, but was able to know more about you, your set of rules and beliefs, your background and your opinions about anything and provide a unique answer which was aligned with your view of the world. That is exactly what Personal Agentic AI is.
 
 Here are some first attempts to popularize personal AI agents:
 
@@ -8,7 +8,7 @@ Here are some first attempts to popularize personal AI agents:
 * [Langchain](https://www.langchain.com/agents) is the leading tool for [building agents](https://python.langchain.com/docs/modules/agents/) using models like GPT-4 through the Open AI API. They have lots of [articles](https://blog.langchain.dev/planning-agents/) on their [blog](https://blog.langchain.dev/) and many webinars describing how this works.
 * OpenAI recently published [Practices for Governing Agentic AI systems](https://openai.com/research/practices-for-governing-agentic-ai-systems) to explain the dangers and risks of agents. ChatGPT is partially agentic. GPTs and Open AI [assistants](https://platform.openai.com/docs/assistants/overview) both allow for developing semi-agentic AI.
 * Popular movie [Her](https://en.wikipedia.org/wiki/Her\_\(film\)) shows well what a personal AI agent that starts as AGI and becomes ASI would look like.
-* [PersonalAI](https://www.youtube.com/watch?v=SLgo4fRQjzM) which essentially creates your digital twin, with representation of your memory(Memory Stack) and your personal talking style (Personal Language Model), that chats with your friends instead of you.
+* [PersonalAI](https://www.youtube.com/watch?v=SLgo4fRQjzM) which essentially creates your digital twin, with representation of your memory (Memory Stack) and your personal talking style (Personal Language Model), that chats with your friends instead of you.
 
 **Agent Decision-Making and Planning**
 

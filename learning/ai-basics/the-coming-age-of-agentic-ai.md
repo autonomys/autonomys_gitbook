@@ -20,5 +20,3 @@ Early toy examples of dedicated AI agents included Baby AGI and Auto-GPT, which 
 **Agentic AI Safety**
 
 For these reasons, AI experts are becoming increasingly concerned about the risks associated with mass adoption of AI agents. These concerns have led to early proposals to define a [governance framework for Agentic AI.](https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf)
-
-While we broadly agree with these concerns, in this work we approach the issue from a more practical perspective. We argue that a _key missing component_ within the Agentic AI safety landscape is an open standard for identifying, authenticating, and authorizing AI agents across the public Interent. In other words, how may we establish a framework for Agent Auth that will allow us to establish trust with agents acting on our behalf?

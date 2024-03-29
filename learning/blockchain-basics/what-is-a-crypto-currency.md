@@ -1,6 +1,6 @@
 # What is a crypto currency
 
-A cryptocurrency is a form of digital or virtual currency that is secured by cryptography, making it nearly impossible to counterfeit or double-spend. Cryptocurrencies are decentralized networks based on blockchain.
+A cryptocurrency is a form of digital or virtual currency that is secured by [cryptography](https://www.fortinet.com/resources/cyberglossary/what-is-cryptography) making it nearly impossible to counterfeit or double-spend. Cryptocurrencies are decentralized networks based on blockchain.
 
 Here are some key features of cryptocurrencies:
 
@@ -11,13 +11,13 @@ Here are some key features of cryptocurrencies:
 5. Limited Supply: Most cryptocurrencies have a limited and predetermined supply, which is defined by code and cannot be manipulated by any central authority.
 6. Global: Cryptocurrencies can be transferred globally, rapidly, and at a relatively low cost compared to traditional cross-border money transfers.
 
-Some of the most well-known cryptocurrencies include Bitcoin (BTC) and Ethereum (ETH). Cryptocurrencies have gained popularity due to their potential for secure, borderless transactions and as an alternative to traditional fiat currencies.
+Some of the most well-known cryptocurrencies include Bitcoin (BTC) and Ethereum (ETH). Cryptocurrencies have gained popularity due to their potential for secure, borderless, anonymous transactions and as an alternative to traditional fiat currencies.
 
 However, their use and regulation remain a subject of ongoing debate, with concerns around price volatility, potential use in illicit activities, and environmental impact from the high energy consumption required for mining some cryptocurrencies.
 
 Obtaining cryptocurrency can be achieved primarily through two methods: buying and mining or farming, in some contexts.
 
-**Are crypto coin and token the same?**
+**Are crypto coins and tokens the same?**
 
 Crypto coins, such as Bitcoin or Ethereum, are native to their own blockchain. They are designed to function as digital currency and are used to store value or make transactions.
 

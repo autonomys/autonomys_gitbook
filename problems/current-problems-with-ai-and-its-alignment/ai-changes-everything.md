@@ -6,7 +6,7 @@ Discussions on Artificial General Intelligence (AGI) – AI with human-equivalen
 
 The of Artificial Super Intelligence (ASI) can swiftly follow: an evolution that represents a shift from machines that can perform any intellectual task that a human being can (Artificial General Intelligence - AGI,) to machines that surpass the cognitive performance of humans in virtually all domains of interest (Artificial Super Intelligence - ASI) seems inevitable, particularly considering the prospects of recursive self-improvement and intelligence explosions.
 
-![inflection.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/562415b3-26fd-44e9-a7cf-40b1a8253627/d6b1533a-603d-4963-ac0c-f380229f4087/inflection.jpg)
+<figure><img src="../../.gitbook/assets/inflection.jpg" alt="" width="350"><figcaption></figcaption></figure>
 
 A graph from a presentation by NVIDIA's Head of Research – representing one of the world's highest-valued companies – illustrates an impending surge in technological intelligence, likened to the sharp upturn of a hockey stick, signaling an unparalleled era of transformation set to unfold at unprecedented speed.
 
