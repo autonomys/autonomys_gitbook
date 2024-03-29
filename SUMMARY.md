@@ -11,6 +11,7 @@
 
 ## Autonomys Solutions
 
+* [Competing Visions for our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
 * [Autonomy's Suite one-pager](autonomys-solutions/autonomys-suite-one-pager.md)
 * [AutoID](autonomys-solutions/autoid/README.md)
   * [How does the Autonomys Network fit into the AI alignment problem? Enter Autonomys.](autonomys-solutions/autoid/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
