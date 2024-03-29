@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Autonomys Academy](README.md)
+* [Welcome to The Autonomys Academy](README.md)
 
 ## Autonomys Whitepaper
 
