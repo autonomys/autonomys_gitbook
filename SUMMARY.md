@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome to The Autonomys Academy](README.md)
+* [A preface for OG Subspacers](readme.md)
 
 ## Autonomys Whitepaper
 
-* [A preface for OG Subspacers](<README (1).md>)
 * [The first network for Humans and AI](autonomys-whitepaper/the-first-network-for-humans-and-ai.md)
 * [How does Autonomys Work?](autonomys-whitepaper/how-does-autonomys-work.md)
 * [Potential Applications](autonomys-whitepaper/potential-applications.md)
