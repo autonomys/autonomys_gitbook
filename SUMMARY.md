@@ -12,7 +12,6 @@
 ## Humaic
 
 * [Humaic Intelligence (HI) introduction](humaic/humaic-intelligence-hi-introduction.md)
-* [Framing the Alignment Problem](problems/current-problems-with-ai-and-its-alignment/framing-the-alignment-problem.md)
 
 ## Autonomys Solutions
 
