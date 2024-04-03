@@ -30,7 +30,7 @@
   * [What can be built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
 * [AutoKit](autonomys-solutions/autokit/README.md)
   * [Auto Kit Introduction](autonomys-solutions/autokit/auto-kit-introduction.md)
-  * [AutoKit features highlights](autonomys-solutions/autokit/auto-kit-features-highlights.md)
+  * [Auto Kit features highlights](autonomys-solutions/autokit/auto-kit-features-highlights.md)
   * [List of potential applications built with Auto Kit](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/README.md)
     * [Auto Score](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/README.md)
       * [Introduction to Proof-of-Personhood](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score/introduction-to-proof-of-personhood.md)

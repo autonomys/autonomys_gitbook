@@ -4,9 +4,9 @@ description: >-
   information available.
 ---
 
-# AutoKit features highlights
+# Auto Kit features highlights
 
-## Auto SDK Design
+## Auto Kit Design
 
 The main goal of Auto Kit is to create, verify, and revoke Auto ID (digital identity). As the list of supported features Auto ID expands, Auto Kit will assist in calculating functionality to calculate the Human score - the unique metrics to determine a human from AI online.
 
@@ -23,14 +23,14 @@ The initial implementation will be done in Python. For a prototype implementatio
 
 ### Auto ID Authentication
 
-* Sign data
-* Verify signature
-* Mutual authentication - mTLS
-* Associate provable identity claims with an entity
-  * OIDC ID tokens
+* Sign data.
+* Verify signature.
+* Mutual authentication - mTLS.
+* Associate provable identity claims with an entity.
+  * OIDC ID tokens.
 
 ### Auto ID Authorization
 
-* Delegate claim to entity
-* Delegate OAuth claim to entity
-  * Manage refresh tokens
+* Delegate claim to entity.
+* Delegate OAuth claim to entity.
+  * Manage refresh tokens.
