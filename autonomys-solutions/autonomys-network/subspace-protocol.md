@@ -1,4 +1,8 @@
-# Autonomys Network - an instance of the Subspace protocol (maybe change placement!)
+# Autonomys Network - an instance of the Subspace protocol
+
+The Autonomys Network is an instance of the Subspace protocol which has a number of custom domains that deliver products such as [Auto ID](../autoid/) and [AutoCo](../autoco/) among others.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The Subspace protocol is a Layer 1 blockchain that offers us a number of exciting and desirable properties. It has a novel Proof of Archival Storage consensus, provides limitless scalability, is eco-friendly compared to other chains and is designed to encourage decentralisation from the inside out. It addresses all three sides of the [blockchain trilemma](the-blockchain-trilemma.md) which is a concept that suggests it's challenging to achieve three key properties in a blockchain network simultaneously: decentralization, security, and scalability. Decentralization means the network isn't controlled by a central authority, security refers to the network's resistance to attacks, and scalability is the network's ability to handle a large number of transactions.
 
@@ -11,5 +15,3 @@ Subspace addresses the blockchain trilemma through its innovative design and tec
 Subspace's approach involves a combination of advanced cryptographic techniques, a novel consensus algorithm, and a unique data storage system. These components work together to ensure that the network remains decentralized, secure, and scalable. For example, [cryptographic primitives](https://subnomicon.subspace.network/docs/consensus/consensus/crypto\_primitives/) enhance security, while the [archiving system](https://subnomicon.subspace.network/docs/consensus/consensus/archiving/) aids in scalability by efficiently managing blockchain data.
 
 In summary, Subspace's solution to the blockchain trilemma involves a balanced approach that doesn't sacrifice one property for another. By innovating in consensus mechanisms, data management, and network participation, Subspace aims to provide a blockchain platform that is decentralized, secure, and scalable. For those interested in the intricate details of how these solutions are implemented, the provided links to The Subnomicon serve as a gateway to a more in-depth analysis of Subspace's technologies and methodologies.
-
-The Autonomys Network is an instance of the Subspace protocol which has a number of custom domains that deliver products such as [Auto ID](../../autonomys-solutions/autoid/) and [AutoCo](../../autonomys-solutions/autoco/) among others.
