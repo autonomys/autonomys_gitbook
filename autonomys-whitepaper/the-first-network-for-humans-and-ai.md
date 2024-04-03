@@ -1,3 +1,7 @@
+---
+description: We pronounce "Autonomys" the same as "autonomous"
+---
+
 # The first network for Humans and AI
 
 **Introducing Autonomys**
