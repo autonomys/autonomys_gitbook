@@ -17,7 +17,6 @@
 ## Autonomys Solutions
 
 * [Competing Visions for our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
-* [Autonomy's Suite one-pager](autonomys-solutions/autonomys-suite-one-pager.md)
 * [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
   * [What is a blockchain](autonomys-solutions/autonomys-network/what-is-a-blockchain.md)
   * [The Blockchain Trilemma and the cost of scalability](autonomys-solutions/autonomys-network/the-blockchain-trilemma.md)

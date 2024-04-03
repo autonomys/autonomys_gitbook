@@ -1,6 +1,6 @@
 # Our response - Auto Score
 
-As we pointed out [before](introduction-to-proof-of-personhood.md), current solutions to proof-of-personhood suffer from a trade-off between security and user-friendliness. Most solutions have a clear disadvantage: social voting is not scalable. Worldcoin’s orbs, which analyze biometric data, could present a backdoor that would hamper them from supporting the revocation of identity when a problem gets identified. To be scalable, efficient and secure, the system should have no biometrics collection, should be open-source from top to bottom and should have a mechanism for claiming and re-issuing the identity.
+As we pointed out [before](introduction-to-proof-of-personhood.md), current solutions to proof-of-personhood suffer from a trade-off between security and user-friendliness. To be scalable, efficient, and secure, the system should have no biometrics collection, should be open-source from top to bottom, and should have a mechanism for claiming and re-issuing the identity.
 
 Auto ID aims to provide an Auto Score, a probability rating that a given entity is a human. We will leverage the foundations laid by existing proof-of-personhood protocols, as well as other services that support identity claims, such as OIDC providers and government registries. Claims linking an Auto ID to a wide range of services will allow users to construct a profile that offers different levels of "proof" of their personhood.
 
