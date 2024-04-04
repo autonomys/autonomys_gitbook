@@ -9,7 +9,7 @@ The essence of farming revolves around the utilization of unused storage on farm
 
 Both paths have their audiences but they are common in that they use Auto ID to identify the farmer. The motivations for individuals to engage in farming are multifaceted. Primarily, it offers a means to earn ATC, which can be seen as a form of passive income. Beyond financial incentives, farmers contribute to the decentralization and robustness of the network, fostering a community-driven approach to data storage and security. This participation not only strengthens the network but also aligns with broader ideals of decentralization and privacy in the digital age by providing key infrastructure for the Autonomys stack and products.
 
-<figure><img src="../../.gitbook/assets/v3.png" alt=""><figcaption><p>The ATC economic flywheel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/v4.png" alt=""><figcaption><p>The ATC growth flywheel</p></figcaption></figure>
 
 Earning ATC through farming is an enticing prospect for many. ATC serves multiple purposes within the Autonomys ecosystem; it can be used for transactions, governance, and as a stake in securing the network further. The versatility of ATC extends beyond the core protocol, as it holds potential for exchange into other cryptocurrencies or fiat currencies, thereby offering liquidity and wider financial opportunities.
 
