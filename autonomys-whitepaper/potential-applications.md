@@ -9,7 +9,7 @@ Below is an overview of several potential applications that could be built eithe
 3. **Auto Verify** is a framework for demonstrating and detecting the provenance of AI generated content based on semantic hashing and digital signatures. It allows AI service providers to easily document and track content produced by their models, while also allowing any online platform to easily authenticate the authenticity of content published by their users.
 4. **Auto Auth** is an Open ID Connect (OIDC) compatible login and authentication system that allows users to login to existing websites and apps with their Auto ID. It may also be implemented as an Auth0 integration to allow Auto Auto to be the default signup flow.
 5. **Agent ID** is a framework for AI developers and service providers that allows for the identification, authentication, and authorization of autonomous AI agents acting on behalf of human users in a secure and trustworthy manner.
-6. [**Auto PKI**](../autonomys-solutions/autopki/autopki.md) is a framework for deploying unique instances of the Auto ID registry for application or industry specific use cases, such a or consortium based identity systems.
+6. [**Auto PKI**](../autonomys-solutions/auto-pki/auto-pki.md) is a framework for deploying unique instances of the Auto ID registry for application or industry specific use cases, such a or consortium based identity systems.
 
 [**Autonomous Finance (AutoFi)**](../autonomys-solutions/autofi/)
 

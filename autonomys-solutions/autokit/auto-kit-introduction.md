@@ -1,6 +1,6 @@
 # Auto Kit Introduction
 
-At this point, we’ve discussed in great detail what AutoID is and how blockchain finally finds a real use case scenario and becomes a guardrail for AI to make sure humanity and AI can safely coexist together and collaborate effectively at scale. The question is - what would drive the adoption? How do we ensure that the idea behind AutoID is heard and understood? How do we onboard millions and billions of users? The answer to all those questions is Auto Kit.
+At this point, we’ve discussed in great detail what Auto ID is and how blockchain finally finds a real use case scenario and becomes a guardrail for AI to make sure humanity and AI can safely coexist together and collaborate effectively at scale. The question is - what would drive the adoption? How do we ensure that the idea behind AutoID is heard and understood? How do we onboard millions and billions of users? The answer to all those questions is Auto Kit.
 
 #### What is the Auto Kit?
 
@@ -12,7 +12,7 @@ The initial implementation is written with Python - one of the most easily reada
 
 #### What programming language can I use to interact with Auto Kit?
 
-We are primarily focusing on AI developers who use Python and Web-Developers who use JavaScript. As the Auto ecosystem evolves to encompass AutoFi and AutoCo, the SDK will expand its capabilities to support development on top of these additional platforms, enabling developers to build a wide range of applications and services within the Auto ecosystem. This is an exciting journey and we’re more than happy to consider any community contributions.
+We are primarily focusing on AI developers who use Python and Web-Developers who use JavaScript. As the Auto ecosystem evolves to encompass Auto Fi and AutoCo, the SDK will expand its capabilities to support development on top of these additional platforms, enabling developers to build a wide range of applications and services within the Auto ecosystem. This is an exciting journey and we’re more than happy to consider any community contributions.
 
 #### Core components of Auto Kit
 

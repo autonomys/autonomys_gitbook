@@ -1,14 +1,14 @@
-# AutoPeer
+# Auto Peer
 
 **Running a blockchain node can be difficult**
 
 One major barrier to widespread adoption of blockchain and decentralized technologies has been the technical expertise required for participation. Running node software from the command line is a daunting task for most average users. This accessibility hurdle threatens to limit blockchain ecosystems to a small cluster of highly technical enthusiasts.
 
-**Enter AutoPeer**
+**Enter Auto Peer**
 
-AutoPeer offers a solution by abstracting away the complexities through an intuitive graphical interface (GUI). By seamlessly handling the backend node operations, AutoPeer allows users to contribute their unused storage space to secure the Autonomy Network — we call this farming on the network.
+Auto Peer offers a solution by abstracting away the complexities through an intuitive graphical interface (GUI). By seamlessly handling the backend node operations, Auto Peer allows users to contribute their unused storage space to secure the Autonomy Network — we call this farming on the network.
 
-AutoPeer provides several key features to simplify the farming process:
+Auto Peer provides several key features to simplify the farming process:
 
 **Configuration**: Users can easily configure their reward address, node location, multiple farms, and P2P ports through the user-friendly interface.
 

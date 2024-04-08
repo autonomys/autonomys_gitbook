@@ -6,11 +6,11 @@ This framework utilizes Auto ID as the cornerstone for conducting financial tran
 
 **How?**
 
-The process starts with **AutoBridge**, a protocol facilitating asset transfer across blockchain networks (e.g., moving AutoCoin from Autonomy's Consensus Chain to Ethereum).
+The process starts with **Auto Bridge**, a protocol facilitating asset transfer across blockchain networks (e.g., moving AutoCoin from Autonomy's Consensus Chain to Ethereum).
 
-Subsequent to asset transfer, **AutoSwap** facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value).
+Subsequent to asset transfer, **Auto Swap** facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value).
 
-For the purpose of converting Auto Coin to USDT, **AutoSwap** incorporates an Auto Coin <> USDT liquidity pool. These pools are critical for enabling trade by supplying liquidity via token pools managed by smart contracts (more about liquidity pools [here](introduction-to-defi.md)).
+For the purpose of converting Auto Coin to USDT, **Auto Swap** incorporates an Auto Coin <> USDT liquidity pool. These pools are critical for enabling trade by supplying liquidity via token pools managed by smart contracts (more about liquidity pools [here](introduction-to-defi.md)).
 
 However, not every financial transaction within AutoFi requires bridging. Auto Coin tokens, acquired by farmers who pledge their unused disk space through the[ Auto Peer app](../autopeer/), can be staked as well.
 
