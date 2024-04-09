@@ -12,7 +12,7 @@ The initial implementation is written with Python - one of the most easily reada
 
 #### What programming language can I use to interact with Auto Kit?
 
-We are primarily focusing on AI developers who use Python and Web-Developers who use JavaScript. As the Auto ecosystem evolves to encompass Auto Fi and AutoCo, the SDK will expand its capabilities to support development on top of these additional platforms, enabling developers to build a wide range of applications and services within the Auto ecosystem. This is an exciting journey and we’re more than happy to consider any community contributions.
+We are primarily focusing on AI developers who use Python and Web-Developers who use JavaScript. As the Auto ecosystem evolves to encompass AutoFi and AutoCo, the SDK will expand its capabilities to support development on top of these additional platforms, enabling developers to build a wide range of applications and services within the Auto ecosystem. This is an exciting journey and we’re more than happy to consider any community contributions.
 
 #### Core components of Auto Kit
 

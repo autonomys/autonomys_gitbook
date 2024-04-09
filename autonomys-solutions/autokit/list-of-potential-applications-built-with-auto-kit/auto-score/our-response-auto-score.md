@@ -10,7 +10,7 @@ This information can then be aggregated into their Auto Score that can be presen
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-11 at 2.36.24 PM.png" alt=""><figcaption></figcaption></figure>
 
-**Essence of the Solution**: We propose a service that supports varying levels of proof with corresponding levels of user-friendliness. We will create an interface for proof-of-personhood—a registry that aggregates all evidence of personhood. It may contain very little evidence or an abundance of evidence. It is completely optional to the user. The amount and quality of evidence will contribute to a user’s “auto score”—a score that indicates the likelihood of a particular user being human.
+**Essence of the Solution**: We propose a service that supports varying levels of proof with corresponding levels of user-friendliness. We will create an interface for proof-of-personhood—a registry that aggregates all evidence of personhood. It may contain very little evidence or an abundance of evidence. It is completely optional to the user. The amount and quality of evidence will contribute to a user’s Auto Score - a score that indicates the likelihood of a particular user being human.
 
 
 
