@@ -1,37 +1,43 @@
 # Humaic Intelligence (HI) introduction
 
+## What is Humaic Intelligence?
+
 Humaic Intelligence (HI) is a human-centric approach to building human-aligned AI systems which empower, extend, and enhance individual human beings. Many humaic systems have already been proposed and built. Peter Thiel’s [Palantir](https://www.palantir.com/) emerged from early attempts at humaic AI to fight online [fraud at Paypal](https://en.wikipedia.org/wiki/Zero\_to\_One). Elon Musk started [Neuralink](https://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs) to build humaic hardware. [PersonalAI](https://www.personal.ai/) and [InflectionAI](https://inflection.ai/about) are building humaic chatbots that can already be used today. [MercuryOS](https://www.mercuryos.com/) is a humaic operating system. On the other hand, ChatGPT, alongside nearly all popular LLMs made today, are not humaic. Instead, they represent a stepping stone towards AGI, which lies at the opposite end of the spectrum from HI.
 
 [<mark style="color:orange;">**humaic \[hue-may-ick\]**</mark>\
 _<mark style="color:orange;">adjective</mark>_\ <mark style="color:orange;">A portmanteau of human and AI, which describes any system that combines the best qualities of each, in a symbiotic fashion.</mark>](#user-content-fn-1)[^1]
 
+## Humaism
+
 HI is based on _humaism_, a moral philosophy for how we should design, employ, and control artificial intelligence. Humaism revolves around three core principles:
 
-1. **Humanistic:** it is rooted within the humanities, not science or engineering. It treats AI as a means for improving the human condition, not as an end in itself.
-2. **Human-Centric**: it begins by aligning AI to individual humans, not the entire society. Group alignment may then emerge naturally through social discourse.
-3. **Human-Right:** it treats access to AI as a basic human right, not as a product to be bought or sold. We need Universal HI, not Universal Basic Income (UBI).
+* **Humanistic:** it is rooted within the humanities, not science or engineering. It treats AI as a means for improving the human condition, not as an end in itself.
+* **Human-Centric**: it begins by aligning AI to individual humans, not the entire society. Group alignment may then emerge naturally through social discourse.
+* **Human-Right:** it treats access to AI as a basic human right, not as a product to be bought or sold. We need Universal HI, not Universal Basic Income (UBI).
 
 Humaism is a reaction to the current practice of pursuing AI research for its own sake, as exemplified by the mission statement of [OpenAI](https://openai.com/) to create AGI. It provides an alternative path that resolves the existential threats to human existence, agency, and relevance presented by AGI. Humaism is inspired by Renaissance Humanism, humanistic philosophy, and the humanities. It prioritizes all human beings’ continued value, worth, and dignity. Humaism seeks to place AI firmly under human control. It sees individually tailored HI as a tool for human empowerment and self-actualization. Humaic AIs become our trusted companions and guardian angels.
 
-**Threats of AI Development**
+## **Threats of AI Development**
 
 The existential consequences of failing to solve the alignment problem before a company like OpenAI achieves AGI include:
 
-1. **Extinction Threat**: misaligned super-intelligence may destroy the human race intentionally (an engineered virus) or accidentally (a paperclip maximizer).
-2. **Enslavement Threat**: the all-powerful nature of AGI suggests that the first group to unlock _and_ control it could very well use it to control the rest of humanity.
-3. **Replacement Threat:** even human-level AGI will cause massive job replacement for most of humanity and a meaningless future dominated by existential nihilism.
+* **Extinction Threat**: misaligned super-intelligence may destroy the human race intentionally (an engineered virus) or accidentally (a paperclip maximizer).
+* **Enslavement Threat**: the all-powerful nature of AGI suggests that the first group to unlock _and_ control it could very well use it to control the rest of humanity.
+* **Replacement Threat:** even human-level AGI will cause massive job replacement for most of humanity and a meaningless future dominated by existential nihilism.
+
+## Humaic Thesis
 
 The vision of humaism may be summarized within the humaic thesis.
 
 **THE HUMAIC THESIS** argues that the best way to protect humanity from the existential threat of AGI is to give everyone an individually-aligned HI guardian.
 
-1. <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">extinction threats</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">are solved through</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">bottom-up alignment</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">of HI.</mark>
-2. <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">enslavement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">disappears once we have</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">universal access</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">to HI.</mark>
-3. <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">replacement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">falls away if we treat HI as a</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">vital companion</mark>_<mark style="color:orange;">.</mark>
+* <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">extinction threats</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">are solved through</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">bottom-up alignment</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">of HI.</mark>
+* <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">enslavement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">disappears once we have</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">universal access</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">to HI.</mark>
+* <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">replacement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">falls away if we treat HI as a</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">vital companion</mark>_<mark style="color:orange;">.</mark>
 
-**The Humaic Stack**
+## **The Humaic Stack**
 
-Before creating Humaic Intelligence, we must throw away the book and forget how systems like ChatGPT are built. We must start over from first principles, using humaism as a guide. This path leads us to the seven-layered humaic stack — a technical blueprint for designing open-source HI systems that can compete with AGI at scale.&#x20;
+Before creating Humaic Intelligence, we must throw away the book and forget how systems like ChatGPT are built. We must start over from first principles, using humaism as a guide. This path leads us to the **seven-layered humaic stack** — a technical blueprint for designing open-source HI systems that can compete with AGI at scale.&#x20;
 
 1. **Synthetic Data**: instead of brute-force training on the entire Internet, we need to train HI on smaller, high-quality data sets personalized to each user. This could involve [leveraging retrievers](https://jalammar.github.io/illustrated-retrieval-transformer/) for factual data while only training on smaller [synthetic data sets](https://arxiv.org/abs/2306.11644) as needed for tasks like [reading, writing](https://arxiv.org/abs/2305.07759) and [arithmetic](https://arxiv.org/abs/2307.03381?utm\_source=substack\&utm\_medium=email).
 2. **Small Models**: instead of large cloud models, HI must be small enough to run on personal devices, maintaining privacy while keeping the user in control. Models like [Llama](https://ai.meta.com/llama/), [Falcon](https://falconllm.tii.ae/), and [Orca](https://www.microsoft.com/en-us/research/publication/orca-progressive-learning-from-complex-explanation-traces-of-gpt-4/) are on the right path, while techniques like [LoRA](https://github.com/microsoft/LoRA) and [quantization](https://huggingface.co/blog/4bit-transformers-bitsandbytes) are making it possible to run them on consumer hardware.
@@ -41,7 +47,11 @@ Before creating Humaic Intelligence, we must throw away the book and forget how 
 6. **Open Collaboration:** instead of just interacting with their users, HIs should be able to [interact directly with each other](https://arxiv.org/abs/2304.03442), while acting to facilitate human communication. Web3 could enable this in global, permissionless, and trustless manner; by providing the infrastructure for [identity](https://www.w3.org/TR/did-core/), [payments](https://medium.com/alliancedao/the-convergence-of-ai-and-web-3-opportunities-and-challenges-45c28105e513) and [collaboration](https://blog.aragon.org/ai-daos-the-future-of-daos-powered-by-artificial-intelligence/).
 7. **Collective Intelligence**: instead of monolithic, singular AGI for its own sake, we need a [collective super-intelligence](https://en.wikipedia.org/wiki/Collective\_intelligence) powered by the people, which reflects the diversity of human culture and values. This intelligence would be implicitly aligned through bottom-up social consensus, facilitated by our AI companions.
 
+## Humaic Consensus
+
 Both the humaic stack and the humaic thesis are predicated on the central idea of _**humaic consensus**,_ or the idea that humans, when paired with their AI companions, will be able to work together more effectively at scale, as AI will allow us to more easily unlock the _emergent_ collective super-intelligence of the group.
+
+## Open Collective Intelligence (OCI)
 
 The logical extension of _humaic consensus_ is _**Open Collective Intelligence**_** (OCI)** — the antithesis to AGI. OCI is based on the idea that collectively aligned super-intelligence could arise organically from the bottom-up, unlocking the collective intelligence of humanity in a manner that is both safe and beneficial to all. In its most open and secure form, OCI would be powered by Web3. This requires giving every human access to a personal AI and a self-sovereign identity, while connecting them through a blockchain-based Decentralized Autonomous Organization (DAO). **OCI** removes the need for UBI since it allows everyone to maintain their economic relevance while allowing personal identity to remain private and permissionless.
 

@@ -1,8 +1,8 @@
-# What can be built with Auto ID
+# What Can Be Built with Auto ID
 
 ## What can be built with Auto ID?
 
-#### Demonstrating Provenance for AI Generated Content
+### Demonstrating Provenance for AI Generated Content
 
 Auto ID allows honest users who publish content online to demonstrate if and how the content was AI generated, in a manner that anyone can verify, with a high degree of certainty. Lets explore an example with our trusty friends Alice and Bob. Note that most of the below workflow woud be automated in any actual implementation.
 
@@ -14,7 +14,7 @@ Now when Alice publishes her content to X, she can include the content along wit
 
 At Autonomys, we call this provenance detection and demonstration product Auto Verify.
 
-#### Automated Detection of AI Generated Content
+### Automated Detection of AI Generated Content
 
 Auto ID also provides a framework that allows anyone to detect the likelihood that a[ malicious user](../../problems/current-problems-with-ai-and-its-alignment/ai-empowering-bad-actors-auto-id-counters-action-needed.md) publishes AI generated content on any platform, in a way that may be linked back to the AI provider, and even the malicious users account.
 
@@ -24,7 +24,7 @@ Now X decides that it would like to start verifying the provenance of all conten
 
 X may then combine this with its existing internal methods for detecting misinformation and if they determine the content is malicous they can send an automated notification to OpenAI that the user who produced this hash may be spreading misinformation. This can then be evaluated internally by OpenAI, likely in an automated fashion, to flag or even suspend Eve’s account. Note that even if Eve were to modify the output text or post-process the images, semantic hashing techniques would still return a near match with high-probability.
 
-#### Prove that you are a Human Being Online
+### Prove that you are a Human Being Online
 
 Auto ID also provides a framework that allows honest humans to prove to existing apps and platforms that they probably actually are a human, and not a bot or AI account. This would allow users to more easily authenticate online by removing cumbersome sign-up and sign-on forms, as well as the increasingly difficult captcha puzzles we have all grown to hate.
 
@@ -34,11 +34,9 @@ Let’s say Alice is an honest human who would simply like to create an account 
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-
-
 Let’s assume Alice has several existing online identities through well-known identity providers (such as Google or Twitter) who can attest that she has a verified email and phone number, and she has already linked these accounts to her Auto ID. If the new platform implements sign-on with Auto ID, then it may easily see that Alice does have verifiable accounts with many well-known providers.
 
-
+### Proof-of-Personhood
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

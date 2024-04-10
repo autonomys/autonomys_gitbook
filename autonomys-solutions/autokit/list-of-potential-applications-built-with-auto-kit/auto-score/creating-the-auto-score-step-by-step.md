@@ -1,4 +1,6 @@
-# Creating an Auto Score step by step
+# Creating an Auto Score Step by Step
+
+## Calculating Auto Score
 
 The calculation of Auto Score for each entity with Auto ID will consist of multiple steps:
 
