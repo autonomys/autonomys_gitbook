@@ -64,7 +64,7 @@
   * [What is an AI Agent](additional-learning/ai-basics/what-is-an-ai-agent.md)
   * [The coming age of Agentic AI](additional-learning/ai-basics/the-coming-age-of-agentic-ai.md)
   * [Open vs Closed models](additional-learning/ai-basics/open-vs-closed-models-to-do.md)
-  * [Provenance in a generative world, CAI, C2PA](additional-learning/ai-basics/provenance-in-a-generative-world-cai-c2pa.md)
+  * [Provenance in a Generative World](additional-learning/ai-basics/provenance-in-a-generative-world-cai-c2pa.md)
 * [Security Basics](additional-learning/security-basics/README.md)
   * [DID & Verifiable Credentials](additional-learning/security-basics/did-and-verifiable-credentials.md)
   * [OAuth and OIDC](additional-learning/security-basics/oauth-and-oidc.md)

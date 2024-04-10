@@ -4,7 +4,7 @@ layout: landing
 
 # Welcome to Autonomys Academy
 
-Hello! Thanks for taking the time to check out our learning resources. Within these pages you will find all the information you need to understand what Autonomys is all about and the products we are building on the Autonomys Network.
+Hello! Thanks for taking the time to check our learning resource out. Within these pages, you will find all the information you need to understand what Autonomys is all about and the products we are building on the Autonomys Network.
 
 Please note that this site is still a work in progress. Some products are still having their finer points specified and this MVP of the education plan may not flow quite as nicely as we'd like it to just yet. With that in mind, please do send us feedback about anything you find that is materially wrong or any gaps in the learning journey we ask you to take here. You will find a form at the bottom of the navigation bar.
 
