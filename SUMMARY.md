@@ -72,10 +72,6 @@
   * [What is a Cryptocurrency](additional-learning/technology-basics/what-is-a-crypto-currency.md)
   * [General information about SDK](additional-learning/technology-basics/general-information-about-sdk.md)
 
-## Post educational quiz
-
-* [Post-educational quiz](post-educational-quiz/post-educational-quiz.md)
-
 ## Have any feedback for us?
 
 * [Fill out this form if you have any feedback!](have-any-feedback-for-us/fill-out-this-form-if-you-have-any-feedback.md)
