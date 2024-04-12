@@ -35,9 +35,25 @@ The vision of humaism may be summarized within the humaic thesis.
 * <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">enslavement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">disappears once we have</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">universal access</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">to HI.</mark>
 * <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">replacement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">falls away if we treat HI as a</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">vital companion</mark>_<mark style="color:orange;">.</mark>
 
+<div>
+
+<figure><img src="../.gitbook/assets/transparency (2).jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/collab (1).jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/autonomy (1).jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## **The Humaic Stack**
 
 Before creating Humaic Intelligence, we must throw away the book and forget how systems like ChatGPT are built. We must start over from first principles, using humaism as a guide. This path leads us to the **seven-layered humaic stack** — a technical blueprint for designing open-source HI systems that can compete with AGI at scale.&#x20;
+
+
 
 1. **Synthetic Data**: instead of brute-force training on the entire Internet, we need to train HI on smaller, high-quality data sets personalized to each user. This could involve [leveraging retrievers](https://jalammar.github.io/illustrated-retrieval-transformer/) for factual data while only training on smaller [synthetic data sets](https://arxiv.org/abs/2306.11644) as needed for tasks like [reading, writing](https://arxiv.org/abs/2305.07759) and [arithmetic](https://arxiv.org/abs/2307.03381?utm\_source=substack\&utm\_medium=email).
 2. **Small Models**: instead of large cloud models, HI must be small enough to run on personal devices, maintaining privacy while keeping the user in control. Models like [Llama](https://ai.meta.com/llama/), [Falcon](https://falconllm.tii.ae/), and [Orca](https://www.microsoft.com/en-us/research/publication/orca-progressive-learning-from-complex-explanation-traces-of-gpt-4/) are on the right path, while techniques like [LoRA](https://github.com/microsoft/LoRA) and [quantization](https://huggingface.co/blog/4bit-transformers-bitsandbytes) are making it possible to run them on consumer hardware.

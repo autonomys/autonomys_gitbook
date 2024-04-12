@@ -27,6 +27,7 @@
   * [Autonomous Identity (Auto ID)](autonomys-solutions/autoid/autonomous-identity-auto-id.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
+  * [Technical Implementation of Auto ID](autonomys-solutions/autoid/technical-implementation-of-auto-id.md)
 * [Auto Kit](autonomys-solutions/autokit/README.md)
   * [Auto Kit Introduction](autonomys-solutions/autokit/auto-kit-introduction.md)
   * [Auto Kit Features Highlights](autonomys-solutions/autokit/auto-kit-features-highlights.md)
@@ -51,7 +52,7 @@
   * [Auto Peer](autonomys-solutions/autopeer/autopeer.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
 * [Auto PKI](autonomys-solutions/auto-pki/README.md)
-  * [Public Key Infrastructure](autonomys-solutions/auto-pki/public-key-infrastructure.md)
+  * [Public Key Infrastructure](autonomys-solutions/autopki/public-key-infrastructure.md)
   * [Auto PKI](autonomys-solutions/auto-pki/auto-pki.md)
 
 ## Additional Learning

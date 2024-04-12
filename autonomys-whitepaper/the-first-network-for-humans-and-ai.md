@@ -2,7 +2,7 @@
 description: We pronounce "Autonomys" the same as "autonomous"
 ---
 
-# The first network for Humans and AI
+# The First Network for Humans and AI
 
 **Introducing Autonomys**
 
@@ -10,9 +10,13 @@ Autonomys is the world’s first digital identity and financial network that is 
 
 Autonomys primarily consists of two key primitives: Auto ID, a new digital identity standard that may be issued to both Humans and AI, and Auto Cash, a stable and scalable digital currency. Anyone can help secure the Autonomys network by using the Auto Peer app and earn Auto Coin, the native token, in return. AI and Web developers may easily interact with the network using the Auto Kit developer SDK.
 
-The Autonomys network is powered by the subspace blockchain protocol, a novel consensus mechanism that securely scales as the number of users grows, allowing the network to support the transaction needs of every Human and AI on the planet. Autonomys is based on several years of original research, initially funded by the US National Science Foundation (NSF), and has been developed at Humaic Labs, the leading R\&D company in the field of Human AI cooperation.
+The Autonomys network is powered by the subspace blockchain protocol, a novel consensus mechanism that securely scales as the number of users grows, allowing the network to support the transaction needs of every Human and AI on the planet. Autonomys is based on several years of original research, initially funded by the US National Science Foundation (NSF), and has been developed at Humaic Labs, the leading R\&D company in the field of Human AI cooperation.\
+\
+![](../.gitbook/assets/IMG\_6015.JPG)\
+\
+Autonomys is based on the idea of Humaic Intelligence (HI), a human-centric approach to AI safety that focuses on creating individually-aligned AI systems which can empower, extend, and enhance all human beings.&#x20;
 
-Autonomys is based on the idea of Humaic Intelligence (HI), a human-centric approach to AI safety that focuses on creating individually-aligned AI systems which can empower, extend, and enhance all human beings. Ultimately, Autonomys seeks to be a platform for humaic consensus, a system where humans, when paired with their AI companions, will be able to work together more effectively at scale, as AI will allow us to more easily unlock the _emergent_ collective super-intelligence of all humanity.
+Ultimately, Autonomys seeks to be a platform for humaic consensus, a system where humans, when paired with their AI companions, will be able to work together more effectively at scale, as AI will allow us to more easily unlock the _emergent_ collective super-intelligence of all humanity.
 
 While similar to a project like Worldcoin on the surface, Autonomys is based on a very different set of core assumptions regarding the relationship between humanity, blockchains, and AI.
 
@@ -20,7 +24,13 @@ While similar to a project like Worldcoin on the surface, Autonomys is based on 
 2. Worldcoin seeks to use blockchain as tool for issuing Universal Basic Income (UBI) to humans in order to counteract the effects of AI driven job displacement. We believe that if AI is instead designed to amplify and complement human intelligence, rather than replace it, then blockchains can serve as economic infrastructure for Humans and AI working together.
 3. Worldcoin does not address the key problem of AI alignment and safety, assuming that it will somehow be solved on its own or by others. We instead see blockchain technology as a key missing component in the AI safety debate and a critical platform for aligning both Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI), by providing guardrails.
 
-The vision of Autonomys is to safely accelerate the world’s transition to the autonomous economy, a decentralized economy where all autonomous entities, be they natural humans or artificially intelligent systems, may trust, transact, and collaborate with one another. This vision stands in stark contrast to Worldcoin, which instead seeks to accelerate the obsolescence of human beings and formalize their dependence on centralized companies like Open AI through a system of universal basic slavery.
+The vision of Autonomys is to safely accelerate the world’s transition to the autonomous economy, a decentralized economy where all autonomous entities, be they natural humans or artificially intelligent systems, may trust, transact, and collaborate with one another.&#x20;
+
+<figure><img src="../.gitbook/assets/DALL·E 2024-04-11 12.25.57 - Autonomous entities, appearing as sophisticated silhouettes in a color palette of black, navy, blue, lavender, white, and off-white, are engaging in a.webp" alt=""><figcaption><p>The vision of Autonomys is to safely accelerate the world’s transition to the autonomous economy, a decentralized economy where all autonomous entities, be they natural humans or artificially intelligent systems, may trust, transact, and collaborate with one another. </p></figcaption></figure>
+
+The vision of Autonomys is to safely accelerate the world’s transition to the autonomous economy, a decentralized economy where all autonomous entities, be they natural humans or artificially intelligent systems, may trust, transact, and collaborate with one another.&#x20;
+
+This vision stands in stark contrast to Worldcoin, which instead seeks to accelerate the obsolescence of human beings and formalize their dependence on centralized companies like Open AI through a system of universal basic slavery.
 
 The following dynamic whitepaper describes the reasoning behind the implementation of the Autonomys network as well as its current state and roadmap.
 
