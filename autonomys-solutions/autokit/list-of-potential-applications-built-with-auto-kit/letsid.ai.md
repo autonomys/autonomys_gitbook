@@ -1,4 +1,4 @@
-# What is LetsID.ai
+# LetsID.ai
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Introduction to Proof-of-Personhood
+# Proof-of-Personhood
 
 ## Introduction to Proof-of-Personhood
 
@@ -25,9 +25,6 @@ Proof of personhood is valuable because it solves a lot of anti-spam and anti-co
 * [**BrightID**](https://brightid.gitbook.io/brightid/getting-verified): you join a video call "verification party" with other users, where everyone verifies each other. Higher levels of verification are available via [Bitu](https://medium.com/brightid/what-is-markaz-verification-level-47397372c8eb), a system in which you can get verified if enough other Bitu-verified users vouch for you.
 * [**Idena**](http://idena.network/): you play a captcha game at a specific point in time (to prevent people from participating multiple times); part of the captcha game involves creating and verifying captchas that will then be used to verify others.
 * [**Circles**](https://circles.garden/): an existing Circles user vouches for you. Circles is unique in that it does not attempt to create a "globally verifiable ID"; rather, it creates a graph of trust relationships, where someone's trustworthiness can only be verified from the perspective of your own position in that graph.
-
-<!---->
-
 * **Privacy Concerns**: Many Proof-of-Personhood systems require users to submit personal information or undergo verification processes that could compromise their privacy. Projects like WorldCoin, which use biometric data, have raised concerns about how this sensitive information is stored, protected, and potentially misused.
 * **Exclusion and Accessibility**: These systems might inadvertently exclude individuals who lack access to the necessary technology or are uncomfortable with the verification process. For example, people without smartphones or those who are wary of providing biometric data might be left out.
 * **Implementation Complexity**: Setting up a Proof-of-Personhood system that is both secure and user-friendly is complex. The challenge of distinguishing between individuals without infringing on their privacy or freedom can lead to technical and ethical dilemmas.
