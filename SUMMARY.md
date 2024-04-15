@@ -48,6 +48,7 @@
   * [Introduction to DeFi](autonomys-solutions/autofi/introduction-to-defi.md)
   * [AutoFi Today](autonomys-solutions/autofi/autofi-today.md)
   * [An Introduction to Auto Coin and Auto Cash](autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
+  * [AutoBridge](autonomys-solutions/autofi/autobridge.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Auto Peer](autonomys-solutions/autopeer/autopeer.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)

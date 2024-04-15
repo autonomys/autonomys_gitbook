@@ -1,12 +1,12 @@
-# AutoFi today
+# AutoFi Today
 
-AutoFi presents an ecosystem of inherent smart contract arenas, developed atop the Autonomy network, catering to a variety of decentralized finance (DeFi) functionalities [pertinent to Auto Cash and Auto Coin.](an-introduction-to-autocoin-and-autocash.md)
+AutoFi presents an ecosystem of inherent smart contract arenas, developed atop the Autonomys network, catering to a variety of decentralized finance (DeFi) functionalities [pertinent to Auto Cash and Auto Coin.](an-introduction-to-autocoin-and-autocash.md)
 
 This framework utilizes Auto ID as the cornerstone for conducting financial transactions and offerings.
 
 **How?**
 
-The process starts with **Auto Bridge**, a protocol facilitating asset transfer across blockchain networks (e.g., moving AutoCoin from Autonomy's Consensus Chain to Ethereum).
+The process starts with [**AutoBridge**](https://app.gitbook.com/o/EeTXK1Jqr6YmDZHX7gSq/s/DTGc8IP3S5s2AQxQdJti/\~/changes/91/autonomys-solutions/autofi/autobridge), a protocol facilitating asset transfer across blockchain networks (e.g., moving AutoCoin from Autonomy's Consensus Chain to Ethereum).
 
 Subsequent to asset transfer, **Auto Swap** facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value).
 

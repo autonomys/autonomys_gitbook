@@ -20,6 +20,12 @@ Below is an overview of several potential applications that could be built eithe
 * **Auto Bridge** is a cross-chain bridging protocol that allows users to transport assets between blockchain networks, providing liquidity other DeFi ecosystems.
 * **Auto Rails** is framework for deploying unique instances of a cryptocurrency under a seperate rollup such as a Central Bank Digital Currency (CBDC) or CeFi stablecoin.
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/DALL·E 2024-04-12 15.05.47 - Visualize a futuristic office designed with high-tech efficiency and sleek minimalism in mind. The office features various currencies merging into dig (1).webp" alt="" width="375"><figcaption><p>AutoFi presents an ecosystem of inherent smart contract arenas, developed atop the Autonomys network, catering to a variety of decentralized finance (DeFi) functionalities</p></figcaption></figure>
+
+</div>
+
 ## [**Autonomous Collective (AutoCo)**](../autonomys-solutions/autoco/)
 
 * **Nomic DAO** is the native governance protocol of the Autonomys network, with voting rights based on possession of the Nomic governance token.

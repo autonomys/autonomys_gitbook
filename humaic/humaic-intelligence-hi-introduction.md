@@ -35,9 +35,11 @@ The vision of humaism may be summarized within the humaic thesis.
 * <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">enslavement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">disappears once we have</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">universal access</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">to HI.</mark>
 * <mark style="color:orange;">The</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">replacement threat</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">falls away if we treat HI as a</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">vital companion</mark>_<mark style="color:orange;">.</mark>
 
-<div>
 
-<figure><img src="../.gitbook/assets/transparency (2).jpg" alt=""><figcaption></figcaption></figure>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/transparency (2).jpg" alt=""><figcaption><p>Our core values.</p></figcaption></figure>
 
  
 
