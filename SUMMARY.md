@@ -37,6 +37,8 @@
 * [AutoFi](autonomys-solutions/autofi/README.md)
   * [An Introduction to Auto Coin and Auto Cash](autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
   * [AutoBridge](autonomys-solutions/autofi/autobridge.md)
+  * [AutoSwap](autonomys-solutions/autofi/autoswap.md)
+  * [AutoLoan](autonomys-solutions/autofi/autoloan.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
 * [Auto PKI](autonomys-solutions/auto-pki.md)

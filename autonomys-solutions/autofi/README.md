@@ -8,7 +8,7 @@ This framework utilizes Auto ID as the cornerstone for conducting financial tran
 
 The process starts with [**AutoBridge**](https://app.gitbook.com/o/EeTXK1Jqr6YmDZHX7gSq/s/DTGc8IP3S5s2AQxQdJti/\~/changes/91/autonomys-solutions/autofi/autobridge), a protocol facilitating asset transfer across blockchain networks (e.g., moving AutoCoin from Autonomy's Consensus Chain to Ethereum).
 
-Subsequent to asset transfer, **Auto Swap** facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value).
+Subsequent to asset transfer, [**Auto Swap**](https://app.gitbook.com/o/EeTXK1Jqr6YmDZHX7gSq/s/DTGc8IP3S5s2AQxQdJti/\~/changes/93/autonomys-solutions/autofi/autoswap) facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value).
 
 For the purpose of converting Auto Coin to USDT, **Auto Swap** incorporates an Auto Coin <> USDT liquidity pool. These pools are critical for enabling trade by supplying liquidity via token pools managed by smart contracts (more about liquidity pools [here](../../additional-learning/technology-basics/introduction-to-defi.md)).
 
@@ -25,3 +25,4 @@ Once operators pool and lock-up the necessary amount of Auto Coins from their no
 **Why would operators and nominators be motivated to deposit and stake more Auto Coins than the minimum required?**
 
 The generation of a new block and the accumulation of Auto Coins depend on the operator’s selection as "slot leaders," a process directly influenced by the volume of Auto Coins staked by the operators and their nominators. This mechanism motivates farmers to increase their stakes, thereby enhancing their operators' chances of being elected as slot leaders and earning Auto Coin. Similarly, operators are motivated to attract as many nominators as possible (up to a maximum of 256) to amplify their stake.
+

@@ -1,4 +1,4 @@
-# An Introduction to AutoCoin and AutoCash
+# An Introduction to Auto Coin and Auto Cash
 
 Our belief holds that AI can lead to increased decentralization and autonomy, given the right framework for success. The emphasis on autonomy includes both humans and AI as independent entities that, when collaborating, can achieve more than the sum of the parts through collective autonomy.
 
@@ -12,6 +12,7 @@ Stablecoins, in turn, preserve a constant value over time by linking their worth
 
 How does that work?
 
-To maintain Auto Cash's stable value, the protocol adds (mints) more Auto Cash to circulation when its value increases (always capped by the total amount of storage shared with the network by all users) or removes(burns) some when it decreases.
+Auto Cash maintains its stability through a unique mechanism that ties its supply to the total storage capacity pledged by farmers to the Autonomys network. By staking their storage space, farmers not only contribute to the security and scalability of the network but also play a crucial role in regulating the supply of Auto Cash. As more storage is added to the network, the supply of Auto Cash can grow, allowing for increased liquidity and adoption. Conversely, if storage is reduced, the supply of Auto Cash is adjusted accordingly, ensuring that the stablecoin remains fully collateralized and maintains its peg to the underlying currency.
 
-Through this burn-and-mint model, Auto Cash maintains its value. Holders of Auto Coin can then convert to Auto Cash to purchase other currencies like USD EUR, or YEN. Unlike the volatile Worldcoin, Auto Cash offers a stable, affordable digital payment solution for everyday use.
+This innovative approach creates a symbiotic relationship between farmers and the AutoFi ecosystem. Farmers are incentivized to provide storage through staking rewards in the form of Auto Coin (ATC), the native token of the Autonomys network. These rewards not only compensate farmers for their vital role in securing the network but also allow them to participate in the growth and governance of the AutoFi ecosystem.
+
