@@ -1,6 +1,6 @@
 # OAuth and OIDC
 
-#### O Auth 2.0
+## O Auth 2.0
 
 [OAuth 2.0](https://oauth.net/2/) is an industry-standard protocol for authorization that provides a secure way for applications to access user data or perform actions on behalf of the user without requiring the user to share their credentials directly with the application. OAuth 2.0 allows users to grant limited access to their accounts or resources to third-party applications through an authorization server.
 
@@ -8,7 +8,7 @@ The significance of OAuth 2.0 lies in its ability to enhance security and user p
 
 <figure><img src="../../.gitbook/assets/abstract_flow.png" alt=""><figcaption></figcaption></figure>
 
-#### **OpenID Connect (OIDC)**
+## **OpenID Connect (OIDC)**
 
 While OAuth 2.0 focuses on authorization, [OIDC](https://www.microsoft.com/en-us/security/business/security-101/what-is-openid-connect-oidc) adds an identity layer to the process, allowing applications to receive identity information from an authorization server.
 

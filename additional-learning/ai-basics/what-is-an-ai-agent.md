@@ -1,8 +1,10 @@
 # What is an AI Agent
 
+## Agents
+
 An [**agent**](https://aima.cs.berkeley.edu/) is just something that acts (_agent_ comes from the Latin _agere_, to do). Of course, all computer programs do something, but computer agents are expected to do more: operate autonomously, perceive their environment, persist over a prolonged time period, adapt to change, and create and pursue goals. A **rational agent** is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.
 
-An AI agent can be a software program, a robot, or any other system that exhibits autonomous behavior and decision-making capabilities. The key characteristics of an AI agent can include:
+An AI agent can be a software program, a robot, or any other system that exhibits autonomous behavior and decision-making capabilities. The 5 key characteristics of an AI agent can include:
 
 1. Perception: The ability to perceive and interpret the external environment through sensors, such as cameras, microphones, or other types of input devices.
 2. Reasoning: The ability to process the perceived information, reason about it, and make decisions based on that reasoning.
@@ -11,6 +13,8 @@ An AI agent can be a software program, a robot, or any other system that exhibit
 5. Autonomy: AI agents can operate independently, without direct human control or intervention, to achieve their goals.
 
 Let’s compare a typical LLM like ChatGPT4 to an Agent built with the OpenAI API. They would work similarly when asked a simple question requiring a definitive answer, essentially because they “find” the references to it in their training dataset. But, as soon as they’re given a task, or asked a question that can’t be answered without some additional research, the difference becomes more clear. Imagine you’ve asked the GPT and your Agent how to fix world hunger. GPT is likely going to provide the most common answer available on the web statistically when an Agentic AI might have another approach. It would start self-prompting some additional questions: does the hunger reasoning in the new world have the same underlying reasoning compared to the countries located in the old world? It could use the internet to check if there are any recent events, like wars or pandemics which affected the state of hunger in the world. After doing some initial research, it would try to find a solution for each specific group of people and combine them all in one complete response.
+
+### AI Agents vs LLMs
 
 As you can see from the example above, the AI Agent is one step closer to AGI compared to LLM, due to its ability to self-prompt, use other available tools like the internet, other LLMs, and sometimes a database to deepen the knowledge on a subject before providing an answer. AI agents can analyze the surroundings and context, reason about available information, and take action to maximize their chances of success. Unlike transformers, which are specialized for processing text, AI agents have a broader range of applications, including robotics, gaming, virtual assistants, and autonomous vehicles.
 

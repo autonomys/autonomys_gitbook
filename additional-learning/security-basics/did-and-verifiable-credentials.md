@@ -1,6 +1,6 @@
 # DID & Verifiable Credentials
 
-#### **Self-Sovereign Identity (SSI):**
+## **Self-Sovereign Identity (SSI):**
 
 Normally, when you want to prove who you are, you show an ID card or document that was issued by someone else, like the government or a company. This is called a "centralized identity" because those organizations are in control of your identity.
 

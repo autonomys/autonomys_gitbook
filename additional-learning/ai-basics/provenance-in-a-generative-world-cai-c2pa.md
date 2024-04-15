@@ -1,8 +1,12 @@
 # Provenance in a Generative World
 
+## The Rise of Fakes
+
 The rising tide of AI-generated content poses an existential threat to the integrity and authenticity of digital information. As AI becomes more sophisticated and accessible, the ability to mass-produce convincing yet entirely artificial content has the potential to erode public trust and disrupt industries reliant on genuine content creation.
 
 Establishing **provenance** - the record or documentation of where something originated and how it has been handled or modified over time - is crucial to combating this threat.
+
+### Organizations
 
 Organizations like the Content Authenticity Initiative (CAI) and the Coalition for Content Provenance and Authenticity (C2PA) are at the vanguard of combating this crisis.
 

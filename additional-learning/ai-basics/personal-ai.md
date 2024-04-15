@@ -10,7 +10,7 @@ Here are some first attempts to popularize personal AI agents:
 * Popular movie [Her](https://en.wikipedia.org/wiki/Her\_\(film\)) shows well what a personal AI agent that starts as AGI and becomes ASI would look like.
 * [PersonalAI](https://www.youtube.com/watch?v=SLgo4fRQjzM) which essentially creates your digital twin, with representation of your memory (Memory Stack) and your personal talking style (Personal Language Model), that chats with your friends instead of you.
 
-**Agent Decision-Making and Planning**
+## **Agent Decision-Making and Planning**
 
 From managing your investments to meal planning for your family, your personal AI agent juggles a myriad of tasks and objectives. To make optimal decisions aligning with your long-term goals and priorities, it employs advanced decision-making and planning strategies.
 
@@ -18,7 +18,7 @@ Using decision-theoretic models, your agent evaluates the potential outcomes and
 
 In domains lacking full predictability, like negotiating major purchases or fielding open-ended queries, your AI leverages game theory and reinforcement learning. It constructs models of the other agents' behaviors and updates its own response strategies based on their actions and your feedback, continually learning to make better decisions tailored just for you.
 
-**Agent Learning**
+## **Agent Learning**
 
 What makes your personal AI agent truly remarkable is its ability to continuously learn, adapt, and grow more personalized with each interaction and new experience. It's an ever-evolving repository of your preferences, habits, and idiosyncrasies.
 

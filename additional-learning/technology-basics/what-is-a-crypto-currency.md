@@ -1,8 +1,10 @@
 # What is a Cryptocurrency
 
+## Features of Cryptocurrency
+
 A cryptocurrency is a form of digital or virtual currency that is secured by [cryptography](https://www.fortinet.com/resources/cyberglossary/what-is-cryptography) making it nearly impossible to counterfeit or double-spend. Cryptocurrencies are decentralized networks based on blockchain technology.
 
-Here are some key features of cryptocurrencies:
+Here are 6 key features of cryptocurrencies:
 
 1. Decentralized: Cryptocurrencies are not issued or controlled by any central authority like a government or bank. They operate in a decentralized manner across a peer-to-peer network.
 2. Secure: Transactions in cryptocurrencies are secured through the use of cryptography, making them highly secure and difficult to counterfeit.
@@ -17,7 +19,7 @@ However, their use and regulation remain a subject of ongoing debate, with conce
 
 Obtaining cryptocurrency can be achieved primarily through two methods: buying and mining or farming, in some contexts.
 
-### **Are crypto coins and tokens the same?**
+## **Are crypto coins and tokens the same?**
 
 Crypto coins, such as Bitcoin or Ethereum, are native to their own blockchain. They are designed to function as digital currency and are used to store value or make transactions.
 

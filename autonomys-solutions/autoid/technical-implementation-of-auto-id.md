@@ -2,7 +2,7 @@
 
 ### Agent ID
 
-We propose a hybrid solution to the agent trust problem, referred to as Agent ID, which combines elements of a standard PKI system, existing IAM frameworks, and leading SSI proposals. Agent ID gives AI developers and Agent Providers (APs) a simple, open standard for securely identifying, authenticating, and authorizing AI agents online. Agent ID provides the following concrete benefits:
+We propose a hybrid solution to the agent trust problem, referred to as Agent ID, which combines elements of a standard PKI system, existing IAM frameworks, and leading SSI proposals. Agent ID gives AI developers and Agent Providers (APs) a simple, open standard for securely identifying, authenticating, and authorizing AI agents online. Agent ID provides the three following concrete benefits:
 
 1. _Simplicity_: Agent ID drastically simplifies the problem of building trustworthy agents, saving developers the significant time required to design and build their own system from scratch.\
    Interoperability:&#x20;
