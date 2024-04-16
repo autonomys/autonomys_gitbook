@@ -17,9 +17,9 @@ A detailed examination of the primary features and operations of AutoLoan's cryp
 
 **Managing Risks:** The protocol applies decentralised risk evaluation tools that adjust interest rates and liquidate collateral automatically, responding to market fluctuations.
 
-Broader Blockchain Inclusion: The service incorporates cross-chain technologies, which allows the acceptance of diverse blockchain assets as security, thus enhancing the utility of the platform.
+**Broader Blockchain Inclusion:** The service incorporates cross-chain technologies, which allows the acceptance of diverse blockchain assets as security, thus enhancing the utility of the platform.
 
-🖥️ Interface Design: The system emphasises a user-friendly design to simplify the processes of lending and borrowing for all users.
+**Interface Design:** The system emphasises a user-friendly design to simplify the processes of lending and borrowing for all users.
 
-🔒 Ensuring Safety and Adherence: The platform upholds advanced safety measures and complies with legal regulations, including data protection and anti-money laundering and know your customer protocols.
+**Ensuring Safety and Adherence:** The platform upholds advanced safety measures and complies with legal regulations, including data protection and anti-money laundering and know your customer protocols.
 
