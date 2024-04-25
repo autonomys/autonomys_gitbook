@@ -22,7 +22,7 @@ Humaism is a reaction to the current practice of pursuing AI research for its ow
 The existential consequences of failing to solve the alignment problem before a company like OpenAI achieves AGI include:
 
 * **Extinction Threat**: misaligned super-intelligence may destroy the human race intentionally (an engineered virus) or accidentally (a paperclip maximizer).
-* **Enslavement Threat**: the all-powerful nature of AGI suggests that the first group to unlock _and_ control it could very well use it to control the rest of humanity.
+* **Enslavement Threat**: the unprecedented power of AGI suggests that the first group to unlock _and_ control it could very well use it to control the rest of humanity.
 * **Replacement Threat:** even human-level AGI will cause massive job replacement for most of humanity and a meaningless future dominated by existential nihilism.
 
 ## Humaic Thesis

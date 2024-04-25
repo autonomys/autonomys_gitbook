@@ -2,9 +2,11 @@
 
 ## Blockchain Trilemma
 
-The concept of the **"Blockchain Trilemma"** is like a challenging puzzle in a video game, where you must balance three important powers, but you can't have them all at full strength at the same time. In the world of blockchain, these three powers are **security, scalability, and decentralization**. The trilemma suggests that any blockchain system can only achieve two of these attributes at their peak, but not all three simultaneously.
+The concept of the **"Blockchain Trilemma"** is like a challenging puzzle in a video game, where you must balance three important powers, but you can't have them all at full strength at the same time. In the world of blockchain, these three powers are **security, scalability, and decentralization**. The trilemma suggests that any blockchain system can only achieve two of these attributes at their peak...
 
-### **Understanding the Trilemma:**
+
+
+**Understanding the Trilemma:**
 
 1. **Security**: This is the shield of the blockchain, protecting it from attacks and ensuring that all transactions are safe and untampered with. High security means that it's nearly impossible for hackers to change transaction records or attack the network.
 2. **Scalability**: Think of this as the speed and space of the blockchain. Scalability means the blockchain can handle a large number of transactions quickly and efficiently, without getting bogged down.

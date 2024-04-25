@@ -12,7 +12,7 @@ Autonomys primarily consists of two key primitives: Auto ID, a new digital ident
 
 The Autonomys network is powered by the subspace blockchain protocol, a novel consensus mechanism that securely scales as the number of users grows, allowing the network to support the transaction needs of every Human and AI on the planet. Autonomys is based on several years of original research, initially funded by the US National Science Foundation (NSF), and has been developed at Humaic Labs, the leading R\&D company in the field of Human AI cooperation.\
 \
-![](../.gitbook/assets/IMG\_6015.JPG)\
+<img src="../.gitbook/assets/IMG_6015.JPG" alt="" data-size="original">\
 \
 Autonomys is based on the idea of Humaic Intelligence (HI), a human-centric approach to AI safety that focuses on creating individually-aligned AI systems which can empower, extend, and enhance all human beings.&#x20;
 
