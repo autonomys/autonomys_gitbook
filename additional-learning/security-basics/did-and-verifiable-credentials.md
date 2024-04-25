@@ -16,7 +16,7 @@ Self-sovereign identity aims to make identification more trustworthy, privacy-pr
 
 <figure><img src="../../.gitbook/assets/Identity-concept.svg.png" alt=""><figcaption></figcaption></figure>
 
-#### Decentralized Identifiers
+### Decentralized Identifiers
 
 When you want to identify yourself online, you use things like a username, email address, or website URL. These are analogous to your "digital name".
 
@@ -32,7 +32,7 @@ Having your own DID means you remain in full control of your digital identity. I
 
 DIDs allow you to prove things about your identity in a trusted, decentralized way using advanced crypto like digital signatures and verifiable credentials. They help solve problems of identity and data ownership on the internet.
 
-#### **Identity and Access Management (IAM)**
+### **Identity and Access Management (IAM)**
 
 Imagine your house has many rooms and some rooms are off-limits or private. Identity and Access Management (IAM) is a system that controls who is allowed to enter which rooms and what they can do there.
 
