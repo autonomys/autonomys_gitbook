@@ -39,11 +39,11 @@ The vision of humaism may be summarized within the humaic thesis.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/transparency (2).jpg" alt=""><figcaption><p>Our core values.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/transparency (2).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/collab (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collab (1).jpg" alt=""><figcaption><p>Our core values.</p></figcaption></figure>
 
  
 

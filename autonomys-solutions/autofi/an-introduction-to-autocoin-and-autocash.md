@@ -10,7 +10,7 @@ However, the demand for and cost of blockspace can lead to varying demand of Aut
 
 Stablecoins, in turn, preserve a constant value over time by linking their worth to stable assets. Enter Auto Cash, Autonomys’ stablecoin. The stability of Auto Cash depends on a dynamic supply of storage in the network.
 
-How does that work?
+**How does that work?**
 
 Auto Cash maintains its stability through a unique mechanism that ties its supply to the total storage capacity pledged by farmers to the Autonomys network. By staking their storage space, farmers not only contribute to the security and scalability of the network but also play a crucial role in regulating the supply of Auto Cash. As more storage is added to the network, the supply of Auto Cash can grow, allowing for increased liquidity and adoption. Conversely, if storage is reduced, the supply of Auto Cash is adjusted accordingly, ensuring that the stablecoin remains fully collateralized and maintains its peg to the underlying currency.
 

@@ -10,6 +10,8 @@ Here are some first attempts to popularize personal AI agents:
 * Popular movie [Her](https://en.wikipedia.org/wiki/Her\_\(film\)) shows well what a personal AI agent that starts as AGI and becomes ASI would look like.
 * [PersonalAI](https://www.youtube.com/watch?v=SLgo4fRQjzM) which essentially creates your digital twin, with representation of your memory (Memory Stack) and your personal talking style (Personal Language Model), that chats with your friends instead of you.
 
+<figure><img src="../../.gitbook/assets/rabbitr1.webp" alt="" width="375"><figcaption><p>Rabbit R1 - example of personal AI portable device</p></figcaption></figure>
+
 ## **Agent Decision-Making and Planning**
 
 From managing your investments to meal planning for your family, your personal AI agent juggles a myriad of tasks and objectives. To make optimal decisions aligning with your long-term goals and priorities, it employs advanced decision-making and planning strategies.

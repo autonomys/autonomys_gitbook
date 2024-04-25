@@ -2,11 +2,7 @@
 
 AutoBridge, a protocol that enables asset movement across different blockchain platforms, focusing on transfers between the Autonomys blockchain and Ethereum. This system aims to streamline asset transfers, enhance network liquidity, bolster security, ensure scalable operations, and maintain transparency.
 
-<div align="left">
-
 <figure><img src="../../.gitbook/assets/DALL·E 2024-04-15 12.04.03 - A futuristic De-Fi bridge arching majestically over a digital divide, crafted from smooth black and navy materials with accents of blue and lavender g.webp" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
 
 **Cross-Chain Functionality:** The protocol incorporates three bridges that facilitate asset transfers in various forms, such as native and wrapped tokens, between the Autonomys blockchain and Ethereum.
 
