@@ -8,7 +8,7 @@ Auto Kit is a [Software Development Kit (SDK)](../../additional-learning/technol
 
 ### What programming language is Auto Kit written with?
 
-The initial implementation is written with Python - one of the most easily readable programming languages in the world. It’s fully open source and can be viewed here (to do: link to the Github). The implementation of AutoID is also open source (to do: link to Github) and written in one of the most secure programming languages - Rust.
+The initial implementation is written with Python - one of the most easily readable programming languages in the world. It’s fully open source and can be viewed [here](https://github.com/subspace/auto-kit). The implementation of AutoID is also open source and written in one of the most secure programming languages - Rust.
 
 We are primarily focusing on AI developers who use Python and Web-Developers who use JavaScript. As the Auto ecosystem evolves to encompass AutoFi and AutoCo, the SDK will expand its capabilities to support development on top of these additional platforms, enabling developers to build a wide range of applications and services within the Auto ecosystem. This is an exciting journey and we’re more than happy to consider any community contributions.
 
