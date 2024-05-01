@@ -2,11 +2,7 @@
 
 ## Autonomous Identity
 
-Auto ID is a digital identity framework for the AI age. It gives everyone the ability to distinguish between humans and AI online by providing developers with the tools they need to easily identify, authenticate, and authorize humans and their AI systems. Auto is built on the three following core beliefs.
-
-1. To maintain online trust in the age of AI, we need a method for distinguishing between different kinds of _**autonomous**_ entities online. These include: natural entities, such as human beings and organizations; artificial entities, such as AI systems; or some combination thereof.
-2. To maximize _**autonomy**_, or freedom, for all entities across the Internet, an ideal digital identity framework should only provide a few key building blocks, allowing developers composable flexibility to express a variety of digital trust models, which entities may opt-into based on their preferences.
-3. To manage the ever-increasing complexity required to maintain online trust, we must leverage _**automation**_ to the greatest extent possible. This includes supporting password-free authentication, smart credential management platforms, and AI assistance where appropriate.
+Auto ID introduces a decentralized identity system for both humans and AI, enabling the verification of digital identities and the origin of content in an increasingly AI-integrated world. It fosters trust by providing a secure framework for entities to authenticate content and delegate authority, laying the groundwork for a future where interactions between humans and AI are transparent and trustworthy.
 
 ### Auto ID
 

@@ -20,7 +20,6 @@
   * [Autonomys Network is the First Network Designed for Humans and AI](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
   * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autonomys-network/execute-transactions-or-nominate-stake-to-earn-atc.md)
 * [Auto ID](autonomys-solutions/autoid/README.md)
-  * [Autonomous Identity (Auto ID)](autonomys-solutions/autoid/autonomous-identity-auto-id.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
   * [Technical Implementation of Auto ID](autonomys-solutions/autoid/technical-implementation-of-auto-id.md)
