@@ -2,7 +2,7 @@
 
 ## Active and Passive Ways to Earn From Staking ATC&#x20;
 
-Many will get involved with the network by [becoming a famer](../autopeer/farm-to-earn-atc.md) as its low barriers to entry and [Auto Peer](../autopeer/) interface make it a very easy way to participate. Here we look at other ways to contribute to the network while earning ATC.
+Many will get involved with the network by [becoming a farmer](../autopeer/farm-to-earn-atc.md) as its low barriers to entry and [Auto Peer](../autopeer/) interface make it a very easy way to participate. Here we look at other ways to contribute to the network while earning ATC.
 
 Let's investigate the innovative roles of operator and nominator within the Autonomys Network - a network powered by the Subspace protocol. An operator, in this context, is an entity or individual who runs a node responsible for validating transactions on the limitless number of individual decoupled execution environments on the network. These environments are known as [domains](https://subnomicon.subspace.network/docs/decex/overview#domains) and share the security of the consensus network [farmers](../autopeer/farm-to-earn-atc.md) provide. This role is pivotal, as it ensures the smooth operation and security of the blockchain, making operators key players in the network's ecosystem.
 

@@ -14,4 +14,4 @@ A DAO, or Decentralized Autonomous Organization, is an organization that is gove
 
 The key principles of a DAO are decentralized governance, autonomous execution of rules through smart contracts, and transparency of operations on the blockchain. This allows for collective decision-making and management without a centralized authority, enabling new forms of decentralized organizations and collaboration.
 
-If we boil intelligence down to the decisions it makes being a function of its knowledge and alignment, along with ensuring voting is as fast and frictionless as possible, we can see that a DAO can facilitate [much more](https://www.notion.so/Auto-Collective-AutoCo-14d5141343124f59ae6754f925074437?pvs=21) than the traditional use cases such as funding or protocol governance.
+If we boil intelligence down to the decisions it makes being a function of its knowledge and alignment, along with ensuring voting is as fast and frictionless as possible, we can see that a DAO can facilitate much more than the traditional use cases such as funding or protocol governance.
