@@ -1,6 +1,6 @@
 # AutoSwap
 
-AutoSwap delivers comprehensive solutions for token exchange and liquidity management, with a focus on security and user experience, augmented by cross-chain functionality and precise analytics.
+AutoSwap delivers comprehensive solutions for token exchange and liquidity management, with a focus on security and user experience, augmented by cross-chain functionality and precise analytics. The implementation of AutoSwap is expected in collaboration with one of the established players in the market.&#x20;
 
 <figure><img src="../../.gitbook/assets/DALL·E 2024-04-15 12.55.49 - AutoSwap De-Fi, a complex digital finance interface displayed on a futuristic screen. The interface features panels of glowing black and navy surround.webp" alt=""><figcaption></figcaption></figure>
 

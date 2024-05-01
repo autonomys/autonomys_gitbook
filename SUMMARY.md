@@ -9,10 +9,6 @@
 * [How does Autonomys Work?](autonomys-whitepaper/how-does-autonomys-work.md)
 * [Potential Applications](autonomys-whitepaper/potential-applications.md)
 
-## Humaic
-
-* [Humaic Intelligence (HI) introduction](humaic/humaic-intelligence-hi-introduction.md)
-
 ## Autonomys Solutions
 
 * [Competing Visions for Our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)

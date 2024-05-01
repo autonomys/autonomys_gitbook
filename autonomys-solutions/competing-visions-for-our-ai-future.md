@@ -17,7 +17,7 @@ Envisioning a new era of autonomy, we see an opportunity to reconstruct societal
 
 ### **Building and Aligning AGI**
 
-* Utilize Autonomys' blockchain expertise and Humaic's AI technology to develop and implement ethical frameworks and governance models that ensure AGI systems align with human values and ethical standards.
+* Utilize Autonomys Suite to develop and implement ethical frameworks and governance models that ensure AGI systems align with human values and ethical standards.
 * Foster partnerships with leading academic institutions to advance collaborative research focused on the ethical development and practical application of AGI technologies.
 * Enhance transparency and accountability in AGI development through the deployment of blockchain-based governance mechanisms.
 
