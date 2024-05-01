@@ -18,7 +18,6 @@
 * [Competing Visions for Our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
 * [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
   * [Autonomys Network is the First Network Designed for Humans and AI](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
-  * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autonomys-network/execute-transactions-or-nominate-stake-to-earn-atc.md)
 * [Auto ID](autonomys-solutions/autoid/README.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
@@ -40,6 +39,7 @@
   * [AutoLoan](autonomys-solutions/autofi/autoloan.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
+  * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-atc.md)
 * [Auto PKI](autonomys-solutions/auto-pki.md)
 
 ## Additional Learning
