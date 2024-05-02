@@ -10,7 +10,7 @@ Autonomys is the world’s first digital identity and financial network that is 
 
 Autonomys primarily consists of two key primitives: Auto ID, a new digital identity standard that may be issued to both Humans and AI, and Auto Cash, a stable and scalable digital currency. Anyone can help secure the Autonomys network by using the Auto Peer app and earn Auto Coin, the native token, in return. AI and Web developers may easily interact with the network using the Auto Kit developer SDK.
 
-The Autonomys network is powered by the subspace blockchain protocol, a novel consensus mechanism that securely scales as the number of users grows, allowing the network to support the transaction needs of every Human and AI on the planet. Autonomys is based on several years of original research, initially funded by the US National Science Foundation (NSF), and has been developed at Humaic Labs, the leading R\&D company in the field of Human AI cooperation.\
+The Autonomys network is powered by the subspace blockchain protocol, a novel consensus mechanism that securely scales as the number of users grows, allowing the network to support the transaction needs of every Human and AI on the planet. Autonomys is based on several years of original research, initially funded by the US National Science Foundation (NSF). \
 
 
 <figure><img src="../.gitbook/assets/IMG_6015.JPG" alt="" width="375"><figcaption></figcaption></figure>
@@ -47,9 +47,9 @@ Auto Coin (ATC) is the native token of Autonomys. It is primarily used to pay th
 
 Auto Cash is a native algorithmic stablecoin that allows users to easily transact in pegged fiat currencies, such as USD (AUSD), EUR (AEUR), or YEN (AYEN). Auto Cash has a dynamic supply which is always capped by the total amount of storage shared with the network by all users. Any user may convert between Auto Coin and Auto Cash under a burn-and-mint model with a dynamic conversion rate which serves to automatically stabilize the peg. Unlike Worldcoin, which is a volatile crypto asset, Auto Cash is a stable, low-cost digital payment solution suited for everyday use-cases.
 
-#### [Auto Kit](../autonomys-solutions/autokit/)
+#### [Auto ](../autonomys-solutions/autokit/)<mark style="color:blue;">SDK</mark>
 
-Auto Kit is a Software Development Kit (SDK) that allows AI and Web developers to easily interact with the Autonomys Network through familiar programming languages like Python and Javascript, without needing to understand how blockchains or smart contracts work. It exposes simple APIs for issuing and verifying Auto IDs, as well as sending and accepting payments using Auto Cash.
+Auto SDK is a Software Development Kit that allows AI and Web developers to easily interact with the Autonomys Network through familiar programming languages like Python and Javascript, without needing to understand how blockchains or smart contracts work. It exposes simple APIs for issuing and verifying Auto IDs, as well as sending and accepting payments using Auto Cash.
 
 #### [Auto Peer](../autonomys-solutions/autopeer/)
 

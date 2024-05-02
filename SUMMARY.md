@@ -12,8 +12,7 @@
 ## Autonomys Solutions
 
 * [Competing Visions for Our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
-* [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
-  * [Autonomys Network is the First Network Designed for Humans and AI](autonomys-solutions/autonomys-network/how-does-the-autonomys-network-fit-into-the-ai-alignment-problem-enter-autonomys..md)
+* [Autonomys Network](autonomys-solutions/autonomys-network.md)
 * [Auto ID](autonomys-solutions/autoid/README.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
