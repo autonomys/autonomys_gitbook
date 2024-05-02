@@ -1,3 +1,9 @@
+---
+description: >-
+  The implementation of Auto Loan is expected in collaboration with one of the
+  established players in the market.
+---
+
 # Auto Loan
 
 **Auto Loan** offers an innovative financial platform where participants can effortlessly lend and borrow **Auto Coin** and **Auto Cash**, leveraging automated transactions that not only simplify processes, but also enable users to accrue interest efficiently. The service uses crypto assets such as ATC as collateral, ensuring liquidity without the necessity of liquidating assets. This system is bolstered by smart contracts that are both secure and efficient, undergoing rigorous audits to manage loans, ensure security, and facilitate interest accumulation.
