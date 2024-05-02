@@ -1,8 +1,8 @@
-# List of Potential Applications Built with Auto Kit
+# List of Potential Applications Built with Auto SDK
 
 ## List of potential applications
 
-Below is an overview of several potential applications that could be built either off-chain with Auto Kit or deployed on-chain as smart control rollups.
+Below is an overview of several potential applications that could be built either off-chain with Auto SDK or deployed on-chain as smart control rollups.
 
 ### **Autonomys Identity (Auto ID)**
 
