@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to Autonomys Academy](README.md)
-* [A Preface for OG Subspacers](readme.md)
+* [A Preface for OG Subspacers](preface.md)
 
 ## Autonomys Whitepaper
 
