@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Welcome to Autonomys Academy
 
 Hello! Thanks for taking the time to check our learning resource out. Within these pages, you will find all the information you need to understand what Autonomys is all about and the products we are building on the Autonomys Network.
