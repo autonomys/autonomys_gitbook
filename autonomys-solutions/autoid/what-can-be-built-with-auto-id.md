@@ -12,17 +12,7 @@ Now every time Alice generates content using her GPT she can produce a digital s
 
 Now when Alice publishes her content to X, she can include the content along with a short _proof-of-provenance_ which includes the joint signature of the original semantic hash, and her signature of the final semantic hash. The X platform may then verify this proof, using the public keys for each Auto ID in the registry, and compare the similarity between the two hashes. If they fall within a pre-defined range then X may render a seal, perhaps a green smiling robot icon, that demonstrates this is verified AI content. Now Bob, who follows Alice religiously on X, can then inspect the content and see further details such as the AI model, provider, and timestamp for the signature and be assured that it was AI generated and know that Alice honestly volunteered this information. Note that this not only applies to text, but any form of AI content which a semantic embedding may be computed over, including images, audio, and videos.
 
-At Autonomys, we call this provenance detection and demonstration product Auto Verify.
-
-### Automated Detection of AI Generated Content
-
-Auto ID also provides a framework that allows anyone to detect the likelihood that a[ malicious user](../../additional-learning/ai-basics/ai-empowering-bad-actors-auto-id-counters-action-needed.md) publishes AI generated content on any platform, in a way that may be linked back to the AI provider, and even the malicious users account.
-
-Let’s now turn to Eve who also uses OpenAI to routinely publish fake news and deepfake photographs on X to spread disinformation. How can Bob, X, and OpenAI know if this is happening? Let’s assume that Eve does not have her own Auto ID, but that OpenAI has decided to create surrogate Auto IDs for every user on its platform, and then jointly issues Auto IDs for each user based on their chosen AI model, similar to the setup above with Alice. This means that every time Eve generates content on OpenAI, they are still producing semantic hashes and signing using the joint Auto ID, internal to their platform. As one additional step, OpenAI adds every semantic hash to a hash table, for fast lookups, and then exposes this over its public API.
-
-Now X decides that it would like to start verifying the provenance of all content uploaded to its platform, which is not already self-provided (as was the case with Alice). Every time a new tweet or image is submitted, X computes the embedding and semantic hash in the same manner as before, but it now checks OpenAI’s provenance API, receiving a response if there are any hashes in their system which lie within a certain similarity range. If X receives a positive match it may then flag the content as likely AI generated, and render a seal, perhaps a red horned robot icon, that alerts honest users like Bob to the fact that is content is likely AI generated.
-
-X may then combine this with its existing internal methods for detecting misinformation and if they determine the content is malicous they can send an automated notification to OpenAI that the user who produced this hash may be spreading misinformation. This can then be evaluated internally by OpenAI, likely in an automated fashion, to flag or even suspend Eve’s account. Note that even if Eve were to modify the output text or post-process the images, semantic hashing techniques would still return a near match with high-probability.
+At Autonomys, we call this provenance detection and demonstration product **Auto Verify**.
 
 ### Prove that you are a Human Being Online
 
