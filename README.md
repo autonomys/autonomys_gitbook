@@ -1,15 +1,5 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
+layout: landing
 ---
 
 # Welcome to Autonomys Academy
