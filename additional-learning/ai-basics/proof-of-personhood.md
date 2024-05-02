@@ -33,5 +33,3 @@ Proof of personhood is valuable because it solves a lot of anti-spam and anti-co
 * **Centralization Risks**: Some Proof-of-Personhood projects rely on centralized databases or verification authorities, which could become targets for attacks or abuse. This centralization contradicts the decentralized ethos of many online communities and blockchain projects.
 * **Legal and Regulatory Challenges**: Navigating the legal landscape with technologies that handle sensitive personal data, especially on a global scale, can be fraught with challenges. Compliance with laws like GDPR in Europe, which protects individual data privacy, adds another layer of complexity.
 * **Cultural and Ethical Implications**: The concept of what constitutes proof of one's personhood varies culturally and philosophically. Projects like these delve into deep ethical territories about identity and existence in the digital age, which may not have universally accepted answers.
-
-#### Our solution Auto Score - will be expanded on in the next section

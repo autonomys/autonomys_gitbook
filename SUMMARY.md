@@ -25,7 +25,7 @@
   * [Benefits of Being an AutoCo User](autonomys-solutions/autoco/unlocking-the-power-of-collective-intelligence-the-benefits-of-being-an-autoco-user.md)
 * [AutoFi](autonomys-solutions/autofi/README.md)
   * [An Introduction to Auto Coin and Auto Cash](autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
-  * [AutoBridge](autonomys-solutions/autofi/autobridge.md)
+  * [Auto Bridge](autonomys-solutions/autofi/auto-bridge.md)
   * [AutoSwap](autonomys-solutions/autofi/autoswap.md)
   * [AutoLoan](autonomys-solutions/autofi/autoloan.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
