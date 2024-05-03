@@ -1,6 +1,6 @@
 # Auto SDK
 
-At this point, we’ve discussed in great detail what Auto ID is and how blockchain finally finds a real use case scenario and becomes a guardrail for AI to make sure humanity and AI can safely coexist together and collaborate effectively at scale. The question is - what would drive the adoption? How do we ensure that the idea behind AutoID is heard and understood? How do we onboard millions and billions of users? The answer to all those questions is Auto Kit.
+At this point, we’ve discussed in great detail what Auto ID is and how blockchain finally finds a real use case scenario and becomes a guardrail for AI to make sure humanity and AI can safely coexist together and collaborate effectively at scale. The question is - what would drive the adoption? How do we ensure that the idea behind AutoID is heard and understood? How do we onboard millions and billions of users? The answer to all those questions is Auto SDK.
 
 ## What is the Auto SDK?
 
