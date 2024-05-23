@@ -11,7 +11,7 @@ Below is an overview of several potential applications that could be built eithe
 * **Agent ID** is a framework for AI developers and service providers that allows for the identification, authentication, and authorization of autonomous AI agents acting on behalf of human users in a secure and trustworthy manner.
 * **Auto PKI** is a framework for deploying unique instances of the Auto ID registry for application or industry specific use cases, such a or consortium based identity systems.
 
-## [**Autonomous Finance (AutoFi)**](../autonomys-solutions/autofi/)
+## **Autonomous Finance (AutoFi)**
 
 * **Auto Pay** is simple payment integration that allows merchants to receive Auto Coin as a form of payment for online goods and services, turning Auto Coin into an online debit card.
 * **Auto Save** is an automated staking protocol that allows holders of Auto Coin to re-stake earnings, turning every auto account into an interest bearing savings account.

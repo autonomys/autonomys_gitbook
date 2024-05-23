@@ -12,7 +12,8 @@
 ## Autonomys Solutions
 
 * [Competing Visions for Our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
-* [Autonomys Network](autonomys-solutions/autonomys-network.md)
+* [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
+  * [An Introduction to Auto Coin](autonomys-solutions/autonomys-network/an-introduction-to-autocoin-and-autocash.md)
 * [Auto ID](autonomys-solutions/autoid/README.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
@@ -22,9 +23,6 @@
     * [LetsID.ai](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/letsid.ai.md)
 * [AutoCo](autonomys-solutions/autoco/README.md)
   * [Benefits of Being an AutoCo User](autonomys-solutions/autoco/unlocking-the-power-of-collective-intelligence-the-benefits-of-being-an-autoco-user.md)
-* [AutoFi](autonomys-solutions/autofi/README.md)
-  * [An Introduction to Auto Coin](autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
-  * [Auto Bridge and Auto Swap](autonomys-solutions/autofi/auto-bridge-and-auto-swap.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
   * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-atc.md)

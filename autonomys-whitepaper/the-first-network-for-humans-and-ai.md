@@ -39,7 +39,7 @@ To maintain online trust in the age of AI, we need a method for distinguishing b
 
 Auto ID builds trust by allowing everyone to identify both AI and humans online, authenticate the content they produce, and authorize AI to act on their behalf. Unlike World ID, which may only be issued to humans through the Orb, a biometric scanning device, Auto ID may be issued to any autonomous entity via an online portal or API. Entities may then attach any cryptographic identity claim, such as a World ID, to their Auto ID, allowing them to _compose_ a proof-of-personhood.
 
-#### [Auto Coin](../autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
+#### [Auto Coin](../autonomys-solutions/autonomys-network/an-introduction-to-autocoin-and-autocash.md)
 
 Auto Coin (ATC) is the native token of Autonomys. It is primarily used to pay the fees needed to process transactions on the network. Auto Coin has a capped supply of 21 billion coins under a deflationary emission schedule. New Auto Coin are issued directly to users who help secure the network with their free disk space. Any user may also stake their Auto Coin in order to earn a slice of transaction fees. Unlike Worldcoin, which may only be earned by those who physically register and receive a World ID, Auto Coin may be earned by anyone in the world with a home computer.
 
