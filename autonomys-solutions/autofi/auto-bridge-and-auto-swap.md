@@ -1,3 +1,9 @@
+---
+description: >-
+  We invite visionary trailblazers to implement these products on our new
+  frontier full of possibilities
+---
+
 # Auto Bridge and Auto Swap
 
 **AutoBridge** is a protocol that enables asset movement across different blockchain platforms.

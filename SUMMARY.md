@@ -23,9 +23,8 @@
 * [AutoCo](autonomys-solutions/autoco/README.md)
   * [Benefits of Being an AutoCo User](autonomys-solutions/autoco/unlocking-the-power-of-collective-intelligence-the-benefits-of-being-an-autoco-user.md)
 * [AutoFi](autonomys-solutions/autofi/README.md)
-  * [An Introduction to Auto Coin and Auto Cash](autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
+  * [An Introduction to Auto Coin](autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
   * [Auto Bridge and Auto Swap](autonomys-solutions/autofi/auto-bridge-and-auto-swap.md)
-  * [Auto Loan](autonomys-solutions/autofi/auto-loan.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
   * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-atc.md)
@@ -54,7 +53,6 @@
   * [General Information about SDK](additional-learning/technology-basics/general-information-about-sdk.md)
   * [What is a DAO?](additional-learning/technology-basics/what-is-a-dao.md)
   * [Challenges of Participating in a DAO](additional-learning/technology-basics/challenges-of-participating-in-a-dao.md)
-  * [Introduction to DeFi](additional-learning/technology-basics/introduction-to-defi.md)
 
 ## Have any feedback for us?
 

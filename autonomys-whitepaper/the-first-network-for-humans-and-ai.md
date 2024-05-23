@@ -8,7 +8,7 @@ description: We pronounce "Autonomys" the same as "autonomous"
 
 Autonomys is the world’s first digital identity and financial network that is built for both Humans and AI, making it easy for anyone to safely participate in the emerging autonomous economy. The mission of Autonomys is to provide a global digital root of trust which all autonomous entities interacting online may leverage to help them distinguish between Humans and AI online, verify the authenticity and provenance of online content, delegate online access rights to AI assistants, send digital payments to one another, and collaborate more effectively at scale.
 
-Autonomys primarily consists of two key primitives: Auto ID, a new digital identity standard that may be issued to both Humans and AI, and Auto Cash, a stable and scalable digital currency. Anyone can help secure the Autonomys network by using the Auto Peer app and earn Auto Coin, the native token, in return. AI and Web developers may easily interact with the network using the Auto Kit developer SDK.
+Autonomys primarily consists of two key primitives: Auto ID, a new digital identity standard that may be issued to both Humans and AI, and Auto Coin, the network's native token. Anyone can help secure the Autonomys network by using the Auto Peer app and earn Auto Coin in return. AI and Web developers may easily interact with the network using the Auto Kit developer SDK.
 
 The Autonomys network is powered by the subspace blockchain protocol, a novel consensus mechanism that securely scales as the number of users grows, allowing the network to support the transaction needs of every Human and AI on the planet. Autonomys is based on several years of original research, initially funded by the US National Science Foundation (NSF). \
 
@@ -43,14 +43,10 @@ Auto ID builds trust by allowing everyone to identify both AI and humans online,
 
 Auto Coin (ATC) is the native token of Autonomys. It is primarily used to pay the fees needed to process transactions on the network. Auto Coin has a capped supply of 21 billion coins under a deflationary emission schedule. New Auto Coin are issued directly to users who help secure the network with their free disk space. Any user may also stake their Auto Coin in order to earn a slice of transaction fees. Unlike Worldcoin, which may only be earned by those who physically register and receive a World ID, Auto Coin may be earned by anyone in the world with a home computer.
 
-#### [Auto Cash](../autonomys-solutions/autofi/an-introduction-to-autocoin-and-autocash.md)
-
-Auto Cash is a native algorithmic stablecoin that allows users to easily transact in pegged fiat currencies, such as USD (AUSD), EUR (AEUR), or YEN (AYEN). Auto Cash has a dynamic supply which is always capped by the total amount of storage shared with the network by all users. Any user may convert between Auto Coin and Auto Cash under a burn-and-mint model with a dynamic conversion rate which serves to automatically stabilize the peg. Unlike Worldcoin, which is a volatile crypto asset, Auto Cash is a stable, low-cost digital payment solution suited for everyday use-cases.
-
 #### [Auto ](../autonomys-solutions/autokit/)<mark style="color:blue;">SDK</mark>
 
-Auto SDK is a Software Development Kit that allows AI and Web developers to easily interact with the Autonomys Network through familiar programming languages like Python and Javascript, without needing to understand how blockchains or smart contracts work. It exposes simple APIs for issuing and verifying Auto IDs, as well as sending and accepting payments using Auto Cash.
+Auto SDK is a Software Development Kit that allows AI and Web developers to easily interact with the Autonomys Network through familiar programming languages like Python and Javascript, without needing to understand how blockchains or smart contracts work. It exposes simple APIs for issuing and verifying Auto IDs, as well as sending and accepting payments using Auto Coin.
 
 #### [Auto Peer](../autonomys-solutions/autopeer/)
 
-Auto Peer is a cross-platform desktop application that allows anyone to easily share free storage in order to earn Auto Coin and help secure the Autonomys Network. Every Auto Peer also receives an Auto ID and has the ability to stake their portfolio of Auto Coin and Auto Cash to earn yield and provide liquidity to the network.
+Auto Peer is a cross-platform desktop application that allows anyone to easily share free storage in order to earn Auto Coin and help secure the Autonomys Network. Every Auto Peer also receives an Auto ID and has the ability to stake their portfolio of Auto Coin to earn yield and provide liquidity to the network.

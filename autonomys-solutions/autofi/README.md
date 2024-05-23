@@ -1,12 +1,12 @@
 # AutoFi
 
-AutoFi presents an ecosystem of inherent smart contract arenas, developed atop the Autonomys network, catering to a variety of decentralized finance (DeFi) functionalities [pertinent to Auto Cash and Auto Coin.](an-introduction-to-autocoin-and-autocash.md) This framework utilizes Auto ID as the cornerstone for conducting financial transactions and offerings.
+AutoFi presents an ecosystem of inherent smart contract arenas, developed atop the Autonomys network, catering to a variety of decentralized finance (DeFi) functionalities [pertinent to Auto Coin.](an-introduction-to-autocoin-and-autocash.md) This framework utilizes Auto ID as the cornerstone for conducting financial transactions and offerings.
 
 **How?**
 
 The process starts with **AutoBridge**, a protocol facilitating asset transfer across blockchain networks (e.g., moving AutoCoin from Autonomy's Consensus Chain to Ethereum).
 
-Subsequent to asset transfer, **Auto Swap** facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value). For the purpose of converting Auto Coin to USDT, **Auto Swap** incorporates an Auto Coin <> USDT liquidity pool. These pools are critical for enabling trade by supplying liquidity via token pools managed by smart contracts (more about liquidity pools [here](../../additional-learning/technology-basics/introduction-to-defi.md)).
+Subsequent to asset transfer, **Auto Swap** facilitates the conversion of Auto Coin into a stablecoin, a digital currency designed to maintain a stable value by anchoring its worth to stable assets (such as the [USDT stablecoin](https://tether.to/en/), tied to the US dollar's value). For the purpose of converting Auto Coin to USDT, **Auto Swap** incorporates an Auto Coin <> USDT liquidity pool. These pools are critical for enabling trade by supplying liquidity via token pools managed by smart contracts (more about liquidity pools [here](broken-reference)).
 
 However, not every financial transaction within AutoFi requires bridging. Auto Coin tokens, acquired by farmers who pledge their unused disk space through the[ Auto Peer app](../autopeer/), can be staked as well.
 

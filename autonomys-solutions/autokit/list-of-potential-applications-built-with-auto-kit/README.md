@@ -15,10 +15,10 @@ Below is an overview of several potential applications that could be built eithe
 
 ### **Autonomous Finance (AutoFi)**
 
-* **Auto Pay** is simple payment integration that allows merchants to receive Auto Cash as a form of payment for online goods and services, turning Auto Cash into an online debit card.
-* **Auto Save** is an automated staking protocol that allows holders of Auto Coin and Auto Cash to re-stake earnings, turning every auto account into an interest bearing savings account.
-* **Auto Loan** is an automated, collateralized lending and borrowing protocol that allows users to lend Auto Coin and Auto Cash while earning interest.
-* **Auto Swap** is an automated Decentralized Exchange (DEX) for converting tokens between Auto Coin and all Auto Cash fiat pairs, allowing users to easily move money globally.
+* **Auto Pay** is simple payment integration that allows merchants to receive Auto Coin as a form of payment for online goods and services, turning Auto Coin into an online debit card.
+* **Auto Save** is an automated staking protocol that allows holders of Auto Coin to re-stake earnings, turning every auto account into an interest bearing savings account.
+* **Auto Loan** is an automated, collateralized lending and borrowing protocol that allows users to lend Auto Coin while earning interest.
+* **Auto Swap** is an automated Decentralized Exchange (DEX) for converting tokens between Auto Coin fiat pairs, allowing users to easily move money globally.
 * **Auto Bridge** is a cross-chain bridging protocol that allows users to transport assets between blockchain networks, providing liquidity other DeFi ecosystems.
 * **Auto Rails** is framework for deploying unique instances of a cryptocurrency under a seperate rollup such as a Central Bank Digital Currency (CBDC) or CeFi stablecoin.
 

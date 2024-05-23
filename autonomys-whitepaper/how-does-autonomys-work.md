@@ -8,7 +8,7 @@ Autonomys revolves around Auto ID, a composable digital identity standard that m
 
 ## Autonomys and AutoFi
 
-Auto ID also serves as the basis for autonomous decentralized finance (AutoFi). AutoFi is system of native smart contract rollups for sending, minting, burning, swapping, borrowing, lending, and bridging Auto Cash and Auto Coin. Every AutoFi address resolves to an Auto ID, which may be controlled by a human user, an autonomous AI agent, or some combination thereof.
+Auto ID also serves as the basis for autonomous decentralized finance (AutoFi). AutoFi is system of native smart contract rollups for sending, minting, burning, swapping, borrowing, lending, and bridging Auto Coin. Every AutoFi address resolves to an Auto ID, which may be controlled by a human user, an autonomous AI agent, or some combination thereof.
 
 ## Autonomys and AutoCo
 
