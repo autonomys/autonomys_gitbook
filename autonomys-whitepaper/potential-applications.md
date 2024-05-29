@@ -26,8 +26,3 @@ Below is an overview of several potential applications that could be built eithe
 
 </div>
 
-## [**Autonomous Collective (AutoCo)**](../autonomys-solutions/autoco/)
-
-* **Nomic DAO** is the native governance protocol of the Autonomys network, with voting rights based on possession of the Nomic governance token.
-* **Auto DAO** is a framework for deploying unique instances of an Auto Collective for application specific or private use-cases that employ AI facilitated governance.
-* **Global DAO** is an open network of Auto DAOs that supports humaic consensus and Open Collective Intelligence (OCI) at global scale, providing a decentralized, bottom-up alternative to centralized, monolithic AGI and ASI.

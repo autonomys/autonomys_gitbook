@@ -5,8 +5,7 @@
 
 ## Autonomys Whitepaper
 
-* [The First Network for Humans and AI](autonomys-whitepaper/the-first-network-for-humans-and-ai.md)
-* [How does Autonomys Work?](autonomys-whitepaper/how-does-autonomys-work.md)
+* [Defining Your Destiny in the Age of AI](autonomys-whitepaper/the-first-network-for-humans-and-ai.md)
 * [Potential Applications](autonomys-whitepaper/potential-applications.md)
 
 ## Autonomys Solutions
@@ -21,8 +20,6 @@
   * [List of Potential Applications Built with Auto SDK](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/README.md)
     * [Auto Score](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score.md)
     * [LetsID.ai](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/letsid.ai.md)
-* [AutoCo](autonomys-solutions/autoco/README.md)
-  * [Benefits of Being an AutoCo User](autonomys-solutions/autoco/unlocking-the-power-of-collective-intelligence-the-benefits-of-being-an-autoco-user.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
   * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-atc.md)

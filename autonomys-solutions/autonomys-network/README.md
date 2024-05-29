@@ -6,7 +6,7 @@ description: An instance of the Subspace Protocol
 
 ## The Subspace Protocol
 
-The Autonomys Network is an instance of the Subspace protocol which has a number of custom domains that deliver products such as [Auto ID](../autoid/) and [AutoCo](../autoco/) among others. Because Auto is built on domains, its design and implementation can be easily iterated on without hassle, unlike the core Subspace protocol.
+The Autonomys Network is an instance of the Subspace protocol which has a number of custom domains that deliver products such as [Auto ID](../autoid/) among others. Because Auto is built on domains, its design and implementation can be easily iterated on without hassle, unlike the core Subspace protocol.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
