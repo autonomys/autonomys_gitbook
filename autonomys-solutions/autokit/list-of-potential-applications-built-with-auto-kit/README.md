@@ -21,9 +21,3 @@ Below is an overview of several potential applications that could be built eithe
 * **Auto Swap** is an automated Decentralized Exchange (DEX) for converting tokens between Auto Coin fiat pairs, allowing users to easily move money globally.
 * **Auto Bridge** is a cross-chain bridging protocol that allows users to transport assets between blockchain networks, providing liquidity other DeFi ecosystems.
 * **Auto Rails** is framework for deploying unique instances of a cryptocurrency under a seperate rollup such as a Central Bank Digital Currency (CBDC) or CeFi stablecoin.
-
-### **Autonomous Collective (AutoCo)**
-
-* **Nomic DAO** is the native governance protocol of the Autonomys network, with voting rights based on possession of the Nomic governance token.
-* **Auto DAO** is a framework for deploying unique instances of an Auto Collective for application specific or private use-cases that employ AI facilitated governance.
-* **Global DAO** is an open network of Auto DAOs that supports humaic consensus and Open Collective Intelligence (OCI) at global scale, providing a decentralized, bottom-up alternative to centralized, monolithic AGI and ASI.
