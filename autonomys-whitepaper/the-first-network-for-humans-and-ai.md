@@ -12,7 +12,7 @@ Central to this mission is the Autonomys Network, powered by the innovative Subs
 
 [Autonomys Identity (Auto ID) ](../autonomys-solutions/autoid/)is the key to self-sovereign identity in the age of AI. Auto ID empowers you to prove your humanity without subjecting yourself to invasive biometric scans. It allows you to control your AI’s permissions and authenticate AI-generated content, ensuring that you maintain authority over your digital footprint.
 
-In contrast to projects like [Worldcoin](https://worldcoin.org/) that promote a future of Universal Basic Income (UBI) and relinquished agency, Autonomys empowers you to benefit from your effort and capability. Our platform enables you to learn cutting-edge AI technology, develop your own AI agents, and collaborate with AI to amplify your potential. We provide the tools, but you drive the outcome.
+In contrast to projects like Worldcoin that promote a future of Universal Basic Income (UBI) and relinquished agency, Autonomys empowers you to benefit from your effort and capability. Our platform enables you to learn cutting-edge AI technology, develop your own AI agents, and collaborate with AI to amplify your potential. We provide the tools, but you drive the outcome.
 
 We are standing at the precipice of a new era, one where the fusion of human and artificial intelligence will redefine the very fabric of our society. In this pivotal moment, Autonomys invites you to claim your stake in this future.
 
