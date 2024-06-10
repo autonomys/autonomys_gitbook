@@ -8,7 +8,7 @@ description: An instance of the Subspace Protocol
 
 The Autonomys Network is an instance of the Subspace protocol which has a number of custom domains that deliver products such as [Auto ID](../autoid/) among others. Because Auto is built on domains, its design and implementation can be easily iterated on without hassle, unlike the core Subspace protocol.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 The Subspace protocol is a Layer 1 blockchain that offers us a number of exciting and desirable properties. It has a novel Proof of Archival Storage consensus, provides limitless scalability, is eco-friendly compared to other chains and is designed to encourage decentralization from the inside out. It addresses all three sides of the [blockchain trilemma](../../additional-learning/technology-basics/the-blockchain-trilemma.md) which is a concept that suggests it's challenging to achieve three key properties in a blockchain network simultaneously: decentralization, security, and scalability. Decentralization means the network isn't controlled by a central authority, security refers to the network's resistance to attacks, and scalability is the network's ability to handle a large number of transactions.
 

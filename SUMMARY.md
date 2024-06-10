@@ -3,10 +3,35 @@
 * [Welcome to Autonomys Academy](README.md)
 * [A Preface for OG Subspacers](<README (1).md>)
 
-## Autonomys Whitepaper
+## Autonomys Vision
 
-* [Defining Your Destiny in the Age of AI](autonomys-whitepaper/the-first-network-for-humans-and-ai.md)
-* [Potential Applications](autonomys-whitepaper/potential-applications.md)
+* [Defining Your Destiny in the Age of AI](autonomys-vision/the-first-network-for-humans-and-ai.md)
+* [Potential Applications](autonomys-vision/potential-applications.md)
+
+## Subspace Protocol
+
+* [Introduction](subspace-protocol/introduction.md)
+* [Architecture Overview](subspace-protocol/architecture-overview.md)
+* [Advancing Blockchain](subspace-protocol/advancing-blockchain.md)
+* [Terminology](subspace-protocol/terminology.md)
+* [Consensus](subspace-protocol/consensus/README.md)
+  * [Genesis](subspace-protocol/consensus/genesis.md)
+  * [Data Flow](subspace-protocol/consensus/data-flow.md)
+  * [Proof-of-Archival-Storage](subspace-protocol/consensus/proof-of-archival-storage/README.md)
+    * [Archiving](subspace-protocol/consensus/proof-of-archival-storage/archiving.md)
+    * [Plotting](subspace-protocol/consensus/proof-of-archival-storage/plotting.md)
+    * [Farming](subspace-protocol/consensus/proof-of-archival-storage/farming.md)
+  * [Proof-of-Time](subspace-protocol/consensus/proof-of-time.md)
+  * [Security](subspace-protocol/consensus/security.md)
+* [Network Architecture](subspace-protocol/network-architecture/README.md)
+  * [Distributed Storage Network](subspace-protocol/network-architecture/distributed-storage-network.md)
+  * [Networking Protocols](subspace-protocol/network-architecture/networking-protocols.md)
+* [Decoupled Execution](subspace-protocol/decoupled-execution/README.md)
+  * [Domains](subspace-protocol/decoupled-execution/domains/README.md)
+    * [Nova EVM](subspace-protocol/decoupled-execution/domains/nova-evm.md)
+    * [Taxonomy](subspace-protocol/decoupled-execution/domains/taxonomy.md)
+  * [Staking](subspace-protocol/decoupled-execution/staking.md)
+* [Rewards & Fees](subspace-protocol/rewards-and-fees.md)
 
 ## Autonomys Solutions
 
@@ -17,9 +42,8 @@
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
 * [Auto SDK](autonomys-solutions/autokit/README.md)
-  * [List of Potential Applications Built with Auto SDK](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/README.md)
-    * [Auto Score](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score.md)
-    * [LetsID.ai](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/letsid.ai.md)
+  * [Auto Score](autonomys-solutions/autokit/auto-score.md)
+  * [LetsID.ai](autonomys-solutions/autokit/letsid.ai.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
   * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-atc.md)

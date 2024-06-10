@@ -22,17 +22,17 @@ Let’s say Alice is an honest human who would simply like to create an account 
 
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Let’s assume Alice has several existing online identities through well-known identity providers (such as Google or Twitter) who can attest that she has a verified email and phone number, and she has already linked these accounts to her Auto ID. If the new platform implements sign-on with Auto ID, then it may easily see that Alice does have verifiable accounts with many well-known providers.
 
 ### Proof-of-Personhood
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The more providers Alice has linked to her Auto ID, the more certainty the platform can have that she actually is a human, and even that she actually is Alice, should Alice choose to make her identity public. Alice can even link emerging proof-of-personhood systems to her Auto ID, such as World ID, which leverages biometrics to register unique human identities in a privacy preserving manner. We can even quantify the notion of how likely an Auto ID is to belong to a human as its _human score_, as a probability between 0 and 1. We could say that any Auto ID with a sufficiently high human score is an _implicitly_ _verified_ Auto ID. Any platform that integrates with Auto ID could then require that valid accounts have a certain human score, potentially present if a user holds an Auto verified account on their profile, and even allow the user to expose their actual human identity to promote further trust in their profile.\
 
 
 We now turn to Eve, who runs a bot farm and tries to generate as many fake accounts as possible on platforms for a variety of reasons. Before, platforms could only stop Even with captchas. Now Eve must generate or purchase multiple verified accounts across several well-known providers to obtain a reasonable human score, before she has any chance of even being able to create a new account, significantly raising the cost of sybil attacks.
 
-At Autonomys, we call this proof-of-personhood product [Auto Score](../autokit/list-of-potential-applications-built-with-auto-kit/auto-score.md).
+At Autonomys, we call this proof-of-personhood product [Auto Score](../autokit/auto-score.md).

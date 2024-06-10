@@ -1,8 +1,8 @@
 ---
-description: An introduction from our CEO Jeremiah Wagstaff
+description: An introduction from Subspace co-founder Jeremiah Wagstaff
 ---
 
-# A preface for OG Subspacers
+# A Preface for OG Subspacers
 
 What is subspace? This is a question I am often asked, and lately have been asking myself more and more. As the original author of the subspace white paper and the co-founder of the company building subspace, I feel uniquely qualified to answer this question. Subspace is a novel consensus protocol and technical architecture that allows for the establishment of a network of secure, scalable, decentralized, and energy-efficient blockchains. The vision of the subspace protocol has always been to create the foundation for the next generation of global digital infrastructure. But, to be clear, subspace is still _just a technology_. This technology is certainly noteworthy, as it solves _all_ of the core technical challenges facing blockchains and it does actually pave the road for mass adoption of blockchain-based applications and services. However, the subspace protocol itself does not address the far more difficult question of why we need scalable blockchain infrastructure in the first place.
 

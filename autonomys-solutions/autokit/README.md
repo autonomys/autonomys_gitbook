@@ -8,6 +8,6 @@ Auto SDK ([Software Development Kit](../../additional-learning/technology-basics
 
 ### What programming language is Auto SDK written with?
 
-The initial implementation is written with Python - one of the most easily readable programming languages in the world. It’s fully open source and can be viewed here. The implementation of AutoID is also open source and written in one of the most secure programming languages - Rust.
+The initial implementation is written in TypeScript - one of the most commonly used programming languages in the world. It’s fully open source and can be viewed [here](https://github.com/subspace/auto-sdk). The implementation of AutoID is also open source and written in one of the most secure programming languages - Rust.
 
-Anyone who knows Python or JavaScript will be able to utilize Auto SDK to. As the Auto ecosystem evolves to encompass AutoFi and AutoCo, the SDK will expand its capabilities to support development on top of these additional platforms, enabling developers to build a wide range of applications and services within the Auto ecosystem. This is an exciting journey and we’re more than happy to consider any community contributions.
+In the future, anyone who knows TypeScript or Python will be able to utilize Auto SDK. As the Auto ecosystem evolves, the SDK will expand its capabilities enabling developers to build a wide range of applications and services within the Auto ecosystem. This is an exciting journey and we’re more than happy to consider any community contributions.
