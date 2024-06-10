@@ -35,4 +35,4 @@ The more providers Alice has linked to her Auto ID, the more certainty the platf
 
 We now turn to Eve, who runs a bot farm and tries to generate as many fake accounts as possible on platforms for a variety of reasons. Before, platforms could only stop Even with captchas. Now Eve must generate or purchase multiple verified accounts across several well-known providers to obtain a reasonable human score, before she has any chance of even being able to create a new account, significantly raising the cost of sybil attacks.
 
-At Autonomys, we call this proof-of-personhood product [Auto Score](../autokit/auto-score.md).
+At Autonomys, we call this proof-of-personhood product [Auto Score](../autokit/list-of-potential-applications-built-with-auto-kit/auto-score.md).

@@ -42,7 +42,7 @@
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
 * [Auto SDK](autonomys-solutions/autokit/README.md)
-  * [Auto Score](autonomys-solutions/autokit/auto-score.md)
+  * [Auto Score Framework](autonomys-solutions/autokit/list-of-potential-applications-built-with-auto-kit/auto-score.md)
   * [LetsID.ai](autonomys-solutions/autokit/letsid.ai.md)
 * [Auto Peer](autonomys-solutions/autopeer/README.md)
   * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
