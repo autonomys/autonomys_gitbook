@@ -16,7 +16,7 @@ Autonomys also maintains the Autonomys Network software client open-source refer
 
 ### Permissionless Peer-to-peer Network
 
-The Autonomys Network is a permissionless peer-to-peer network where any peer can participate as a farmer by storing data and proposing new blocks or as an operator by executing transactions. This layer is a common ground for communication and data exchange between peers in various roles: farmers, operators, nodes, light clients and others. See the [Node Types and Roles](network-architecture/) page for more details on the different participants of the network.
+The Autonomys Network is a permissionless peer-to-peer network where any peer can participate as a farmer by storing data and proposing new blocks or as an operator by executing transactions. This layer is a common ground for communication and data exchange between peers in various roles: farmers, operators, nodes, light clients and others. See the [Node Types and Roles](https://academy.autonomys.net/subspace-protocol/network-architecture#node-types-and-roles) page for more details on the different participants of the network.
 
 ### Consensus Layer
 
@@ -24,7 +24,7 @@ The Consensus layer is the foundation layer, responsible for achieving consensus
 
 The chain data is distributed across the network of farmers who store and serve the blockchain history via the Distributed Storage Network (DSN). The DSN ensures all chain data is stored in a load-balanced, fault-tolerant, and efficiently retrievable manner across all farmers.
 
-Farmers are incentivized to store data through block rewards and fees. They do not have to store the blockchain history alongside their plot and can dedicate all available space to farming. The [hardware requirements](https://docs.subspace.network/docs/protocol/cli#system-requirements) for farmers are minimal, requiring only an SSD drive and commodity CPU to participate, one of the lowest barrier to participation than most decentralized blockchain networks.
+Farmers are incentivized to store data through block rewards and fees. They do not have to store the blockchain history alongside their plot and can dedicate all available space to farming. The [hardware requirements](https://docs.subspace.network/docs/farming-&-staking/farming/prerequisites#system-requirements) for farmers are minimal, requiring only an SSD drive and commodity CPU to participate, one of the lowest barrier to participation than most decentralized blockchain networks.
 
 ### Decoupled Execution
 
