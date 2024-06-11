@@ -17,11 +17,11 @@ Currently, farmers receive:
 
 #### Operators
 
-Currently, operators are solely earning the fees for domain transactions they execute. Since domain transactions (e.g. EVM contract calls) are usually much more computationally heavy than those performed on the consensus chain (e.g. balance transfers), they are sufficiently expensive to compensate operators fairly for their work. The operators receive the reward for the executed transactions only after the corresponding domain block has cleared the challenge period. For more details, see [Domain Block Fees](https://github.com/subspace/subnomicon/blob/main/docs/decex/domains/workflow.md#domain-block-fees).
+Currently, operators are solely earning the fees for domain transactions they execute. Since domain transactions (e.g. EVM contract calls) are usually much more computationally heavy than those performed on the consensus chain (e.g. balance transfers), they are sufficiently expensive to compensate operators fairly for their work. The operators receive the reward for the executed transactions only after the corresponding domain block has cleared the challenge period. For more details, see [Domain Block Fees](/subspace-protocol/decoupled-execution/domains/README.md#domain-block-fees).
 
 #### Nominators
 
-Currently, nominators receive a portion of the fees of the operator they nominated, based on their shares in the operator pool. For more details on how the pool shares and fees are calculated, see [Nomination Pools](https://github.com/subspace/subnomicon/blob/main/docs/decex/staking.md#nomination-pools).
+Currently, nominators receive a portion of the fees of the operator they nominated, based on their shares in the operator pool. For more details on how the pool shares and fees are calculated, see [Nomination Pools](/subspace-protocol/decoupled-execution/staking.md#nomination-pools).
 
 ### Dynamic Issuance
 

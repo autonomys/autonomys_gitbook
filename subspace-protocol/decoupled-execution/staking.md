@@ -21,7 +21,7 @@ NPoS allows for virtually all ATC holders to participate, thus maintaining high 
 
 Operators must stake an amount higher than this domain's minimum stake for a right to participate in the execution and earn execution fees. An operator's chances to become a slot leader are directly proportional to the percentage of their stake against the total amount staked by all operators of this domain. As such, operators are incentivized to recruit nominators to increase their stake. This means that each domain operator stake acts essentially as a pool for nominators. When registering as an operator, each operator specifies their minimum nominator stake and nomination tax of their pool. The nomination tax is a percentage that the operator collects on all fees earned by executing blocks, before they are shared with nominators, a commission for the operator's work. The tax amount is automatically restaked as part of the operator's stake.
 
-Any ATC token holder who has more than the minimum nominator stake (currently 1 ATC may choose to join this operator’s pool by submitting the nomination extrinsic with the deposit amount of ATC they wish to stake.
+Any ATC token holder who has more than the minimum nominator stake (currently 1 ATC may choose to join this operator’s pool by submitting the nomination extrinsic with the deposit amount of ATC they wish to stake).
 
 1. The amount of deposited ATC is added to the list of pending deposits within the operator's pool.
 2. At the end of an epoch (currently 100 blocks, \~ 10 minutes), the nominator's deposit is processed.

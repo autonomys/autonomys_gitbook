@@ -16,7 +16,7 @@ Like sovereign rollups on Celestia, domains leverage the base layer protocol for
 
 ### Permissionlessness
 
-There are several key stages of bringing a domain to existence and operating on it described in the [Workflow](https://github.com/subspace/subnomicon/blob/main/docs/decex/domains/workflow.md) and each of this stages assumes a different level of permissionlessness:
+There are several key stages of bringing a domain to existence and operating on it described in the [Workflow](/subspace-protocol/decoupled-execution/domains/README.md) and each of this stages assumes a different level of permissionlessness:
 
 * **Staking**, operating on most domains and nomination are completely permissionless as long as the prospective operator has enough funds for the minimum stake at their disposal. Operators are also free to unstake and exit at any time or choose to stake on another domain. Some domains may choose to restrict who can operate on them via an allow list, but this is not the defaul.
 * **Instantiation** (copy) of an existing domain is permissioned on the current Gemini-3h network, but the plan is to make this process permissionless in the future.

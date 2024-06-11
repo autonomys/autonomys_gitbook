@@ -12,7 +12,7 @@ To prevent grinding on block challenges, we use the Proof-of-Time outputs to dra
 
 In proof-of-work-based blockchains the "challenge" for block creation comes from the full previous block. The Subspace protocol cannot follow this approach, as changing the block content does not affect the proof-of-space validity. Instead, challenges are unique (and unpredictable), and are based on the network's Proof-of-Time component. In more detail, the blockchain progress is based on "time slots", where each slot is associated with a run of the Proof-of-Time algorithm. We use the algorithm output to draw a block challenge for this slot. By design, grinding on Proof-of-Time is extremely hard.
 
-For more information about the Proof-of-Time component see [this page](https://github.com/subspace/subnomicon/blob/main/docs/consensus/pot.md).
+For more information about the Proof-of-Time component see [this page](/subspace-protocol/consensus/proof-of-time.md).
 
 #### Costless simulation
 
@@ -30,7 +30,7 @@ To prevent long-range attacks, we use Proof-of-Time as a fundamental component i
 
 Attackers that try to bootstrap a competing and longer (i.e. heavier) chain cannot do it without cost, since they must show that sufficient time has passed for the lifespan of this fork. In other words, like in Proof-of-Work, they must spend a significant amount of sequential work in maintaining the attack.
 
-For more information about how Proof-of-Time is used see [this page](https://github.com/subspace/subnomicon/blob/main/docs/consensus/pot.md).
+For more information about how Proof-of-Time is used see [this page](/subspace-protocol/consensus/proof-of-time.md).
 
 ### Security against attacks on Proof-of-Storage
 

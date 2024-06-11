@@ -19,7 +19,7 @@ Autonomys also maintains the Autonomys Network software client open-source refer
 
 ### Permissionless Peer-to-peer Network
 
-The Autonomys Network is a permissionless peer-to-peer network where any peer can participate as a farmer by storing data and proposing new blocks or as an operator by executing transactions. This layer is a common ground for communication and data exchange between peers in various roles: farmers, operators, nodes, light clients and others. See the [Node Types and Roles](https://github.com/subspace/subnomicon/blob/main/docs/network/nodes.md) page for more details on the different participants of the network.
+The Autonomys Network is a permissionless peer-to-peer network where any peer can participate as a farmer by storing data and proposing new blocks or as an operator by executing transactions. This layer is a common ground for communication and data exchange between peers in various roles: farmers, operators, nodes, light clients and others. See the [Node Types and Roles](/subspace-protocol/network-architecture/README.md) page for more details on the different participants of the network.
 
 ### Consensus Layer
 
