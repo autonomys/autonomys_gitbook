@@ -17,11 +17,11 @@ Currently, farmers receive:
 
 #### Operators
 
-Currently, operators are solely earning the fees for domain transactions they execute. Since domain transactions (e.g. EVM contract calls) are usually much more computationally heavy than those performed on the consensus chain (e.g. balance transfers), they are sufficiently expensive to compensate operators fairly for their work. The operators receive the reward for the executed transactions only after the corresponding domain block has cleared the challenge period. For more details, see [Domain Block Fees](/subspace-protocol/decoupled-execution/domains/README.md#domain-block-fees).
+Currently, operators are solely earning the fees for domain transactions they execute. Since domain transactions (e.g. EVM contract calls) are usually much more computationally heavy than those performed on the consensus chain (e.g. balance transfers), they are sufficiently expensive to compensate operators fairly for their work. The operators receive the reward for the executed transactions only after the corresponding domain block has cleared the challenge period. For more details, see [Domain Block Fees](decoupled-execution/domains/#domain-block-fees).
 
 #### Nominators
 
-Currently, nominators receive a portion of the fees of the operator they nominated, based on their shares in the operator pool. For more details on how the pool shares and fees are calculated, see [Nomination Pools](/subspace-protocol/decoupled-execution/staking.md#nomination-pools).
+Currently, nominators receive a portion of the fees of the operator they nominated, based on their shares in the operator pool. For more details on how the pool shares and fees are calculated, see [Nomination Pools](decoupled-execution/staking.md#nomination-pools).
 
 ### Dynamic Issuance
 
@@ -51,8 +51,7 @@ $$
 
 The final formula for the block proposer reward is:
 
-$$proposer\_reward = reference\_subsidy - min(reference\_subsidy, max\_block\_fees) * blockspace\_utilization$$\
-
+$$proposer\_reward = reference\_subsidy - min(reference\_subsidy, max\_block\_fees) * blockspace\_utilization$$
 
 For each block, the protocol decides whether the current cost of storage and demand are high enough to cover the proposer's costs of farming that block. It will slightly lower the issued reference subsidy if fees are not sufficient. If fees are high, the subsidy will be significantly lower.
 
@@ -70,7 +69,7 @@ Storage fee depends on the length of the transaction and the amount of available
 
 $$storage\ fee\ per\ byte = total\ credit\ supply/total\ space\ pledged/min\ replication\ factor-history\ size * (shannons/byte)$$
 
-_**storage fee(tx)=storage fee per byte∗length(tx) 𝑠ℎ𝑎𝑛𝑛𝑜𝑛𝑠**_
+_storage fee(tx)=storage fee per byte∗length(tx) 𝑠ℎ𝑎𝑛𝑛𝑜𝑛𝑠_
 
 For the purposes of storage fee calculation, the total Auto Coin supply consists of all ATC in existence including staked or otherwise locked. The total space pledged to the network is divided by the protocol's minimum replication factor of 50, which ensures that the network is able to reliably store all the transactions that are included in the consensus chain. The history size is the total size of all the blocks in the consensus chain that are archived.
 

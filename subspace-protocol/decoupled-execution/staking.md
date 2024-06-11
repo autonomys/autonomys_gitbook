@@ -11,11 +11,7 @@ Generally speaking, any ATC token holder can stake their tokens by nominating a 
 
 NPoS allows for virtually all ATC holders to participate, thus maintaining high levels of security by putting more value at stake and allowing more people to earn a yield based on their holdings.
 
-<div align="center">
-
 <picture><source srcset="../../.gitbook/assets/Nomination-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://subnomicon.subspace.network/img/Nomination-light.svg#gh-light-mode-only" alt="Nomination"></picture>
-
-</div>
 
 ### Nomination Pools[​](https://subnomicon.subspace.network/docs/decex/staking#nomination-pools) <a href="#nomination-pools" id="nomination-pools"></a>
 
@@ -26,22 +22,13 @@ Any ATC token holder who has more than the minimum nominator stake (currently 1 
 1. The amount of deposited ATC is added to the list of pending deposits within the operator's pool.
 2. At the end of an epoch (currently 100 blocks, \~ 10 minutes), the nominator's deposit is processed.
 3. A part of the deposit is taken as a reserve towards a storage fee fund. This reserve is calculated as a percentage of the deposit (currently, 20%), and is used to pay for the storage fees of bundles created by the operator of the pool and does not affect the stake distribution. The reserved amount is transferred to the operator's storage fee fund, while the rest of the deposit remains locked in the nominator's account. This amount is partially refunded with each withdrawal.
-4.  The nominator is awarded their shares in the pool. The stake shares are the percentage of the total stake that is allocated to each nominator. The stake shares are used to calculate the share of the operator's fees that the nominator is entitled to based on the amount they have staked and for how long. The stake shares are calculated as follows:\
+4. The nominator is awarded their shares in the pool. The stake shares are the percentage of the total stake that is allocated to each nominator. The stake shares are used to calculate the share of the operator's fees that the nominator is entitled to based on the amount they have staked and for how long. The stake shares are calculated as follows:
+   1.  Compute the operator’s pool end-of-epoch _**shares\_per\_atc**_ as the total number of shares divided by the sum of all stake in the pool and fees collected during the previous epoch
 
-
-    i. Compute the operator’s pool end-of-epoch _**shares\_per\_atc**_ as the total number of shares divided by the sum of all stake in the pool and fees collected during the previous epoch\
-
-
-    $$shares\_per\_atc = total\_shares/(pool\_total\_stake + fees∗(1−nomination\_tax))$$.\
-
-
-    ii. Assign the _**shares**_ to this nominator based on the _**shares\_per\_atc**_ of the pool
-
-&#x20;        $$shares = deposit\_amount * shares\_per\_atc$$
-
-&#x20;       iii. The _**deposit\_amount**_ is added to _**pool\_total\_stake**_ of the operator's pool and domain’s total stake.
-
-&#x20;        iv. The _**shares**_ of this nominator are added to _**total\_shares**_ of the operator's pool.
+       $$shares\_per\_atc = total\_shares/(pool\_total\_stake + fees∗(1−nomination\_tax))$$.
+   2. Assign the _**shares**_ to this nominator based on the _**shares\_per\_atc**_ of the pool$$shares = deposit\_amount * shares\_per\_atc$$
+   3. The _**deposit\_amount**_ is added to _**pool\_total\_stake**_ of the operator's pool and domain’s total stake.
+   4. The _**shares**_ of this nominator are added to _**total\_shares**_ of the operator's pool.
 
 The nomination pools in Autonomys Network are "lazy": any fees earned by the operator are assigned to the pool and are not deposited to the nominators wallet unless they ask for a withdrawal. Unless withdrawn, the fees are "auto-staked" - they count towards the total stake of the pool, increasing its chance of being elected to produce bundles.
 
@@ -49,11 +36,7 @@ When the nominator decides to withdraw their stake or fees, they submit a withdr
 
 Operators can also withdraw their stake and fees at any time by submitting a `withdraw_stake` extrinsic. Operators who wish to withdraw all of their stake and earned fees have to submit a deregistration extrinsic, as it is forbidden to withdraw below the domain's minimum stake requirements. The deregistered operator will be removed from the domain and their stake and the stakes of all nominators will be returned to their accounts.
 
-<div align="center">
-
 <picture><source srcset="../../.gitbook/assets/Nomination_Pool-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://subnomicon.subspace.network/img/Nomination_Pool-light.svg#gh-light-mode-only" alt="Nomination_Pool"></picture>
-
-</div>
 
 #### Unlocking Funds[​](https://subnomicon.subspace.network/docs/decex/staking#unlocking-funds) <a href="#unlocking-funds" id="unlocking-funds"></a>
 
@@ -90,7 +73,7 @@ At the end of the epoch, the updated staking summary for the next epoch will loo
 | ----------- | ------------ | -------------------------- | ---------------- |
 | 207.88 ATC  | 185          | 46.72 ATC                  | 50.72 ATC        |
 
-Suppose after some time _**shares\_per\_atc**_ value of this pool becomes _**0.8**_ and the storage fee fund balance is **52** ATC. Suppose $$N_1$$ wants to "sell" _**withdraw\_shares=20**_. At the end of the epoch, the 20 shares will be unstaked, and the corresponding amount of **20/0.8=25 ATC** will be deducted from the pool's total stake. The total amount of credits $$N_1$$ will get is $$(withdraw\_shared/shares\_per\_atc) + storage\_fee\_fund\_balance * (storage\_fee\_deposit/total\_storage\_fee\_deposits) * (withdraw\_shares/shares) = 25 + 52 * (10/46.72) * 20/40 = 30.57  ATC$$
+Suppose after some time _**shares\_per\_atc**_ value of this pool becomes _**0.8**_ and the storage fee fund balance is **52** ATC. Suppose $$N_1$$ wants to "sell" _**withdraw\_shares=20**_. At the end of the epoch, the 20 shares will be unstaked, and the corresponding amount of **20/0.8=25 ATC** will be deducted from the pool's total stake. The total amount of credits $$N_1$$ will get is $$(withdraw\_shared/shares\_per\_atc) + storage\_fee\_fund\_balance * (storage\_fee\_deposit/total\_storage\_fee\_deposits) * (withdraw\_shares/shares) = 25 + 52 * (10/46.72) * 20/40 = 30.57 ATC$$
 
 If $$N_1$$wanted to withdraw all their stake and fees, that is sell all their _**withdraw\_shares=40**_ shares, they would get $$(40/0.8) + 52 * 10/46.72 * 40/40 = 61.13 ATC$$, earning _**11.13**_ ATC in fees. After waiting the locking period, the withdrawn amount can be unlocked in their account.
 

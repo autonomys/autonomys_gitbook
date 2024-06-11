@@ -8,9 +8,6 @@ Autonomys also maintains the Autonomys Network software client open-source refer
 
 ### The Autonomys Network Stack
 
-\
-
-
 <figure><picture><source srcset="../.gitbook/assets/Modular_Stack-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (2).png" alt=""></picture><figcaption></figcaption></figure>
 
 * Application layer allows to build any conceivable application fostering new opportunities in automated transactions and agreements, governance, gaming, and virtual economies.
@@ -19,7 +16,7 @@ Autonomys also maintains the Autonomys Network software client open-source refer
 
 ### Permissionless Peer-to-peer Network
 
-The Autonomys Network is a permissionless peer-to-peer network where any peer can participate as a farmer by storing data and proposing new blocks or as an operator by executing transactions. This layer is a common ground for communication and data exchange between peers in various roles: farmers, operators, nodes, light clients and others. See the [Node Types and Roles](/subspace-protocol/network-architecture/README.md) page for more details on the different participants of the network.
+The Autonomys Network is a permissionless peer-to-peer network where any peer can participate as a farmer by storing data and proposing new blocks or as an operator by executing transactions. This layer is a common ground for communication and data exchange between peers in various roles: farmers, operators, nodes, light clients and others. See the [Node Types and Roles](network-architecture/) page for more details on the different participants of the network.
 
 ### Consensus Layer
 
@@ -41,4 +38,4 @@ Domains can support any conceivable state transition framework and are execution
 
 This is the interface layer where decentralized applications (DApps) interact with the blockchain. DApps can send contract calls to the blockchain, which then get executed in the versatile Decoupled Execution layer. Developers can build and deploy applications without worrying about the underlying execution and consensus details. It provides abstraction, making Autonomys more accessible for developers. Applications built atop a modular blockchain stack, can leverage the security, immutability, and decentralization properties of the underlying layers.
 
-Some specialized applications and functionalities we envision built on Autonomys Network include decentralized identity (DID), decentralized autonomous organizations (DAOs), autonomous AI agents, and virtual worlds. Decentralized Identifiers enable verifiable, self-sovereign digital identities. They are a key building block for many decentralized applications including DAOs, organizations represented by rules encoded as a computer program that is transparent and controlled by shareholders. Autonomous AI agents can make decisions, execute payments or other tasks based on natural language input of the user. Agents have the potential to abstract away the complexity that has long stood barrier to mass adoption of blockchain technologies.\
+Some specialized applications and functionalities we envision built on Autonomys Network include decentralized identity (DID), decentralized autonomous organizations (DAOs), autonomous AI agents, and virtual worlds. Decentralized Identifiers enable verifiable, self-sovereign digital identities. They are a key building block for many decentralized applications including DAOs, organizations represented by rules encoded as a computer program that is transparent and controlled by shareholders. Autonomous AI agents can make decisions, execute payments or other tasks based on natural language input of the user. Agents have the potential to abstract away the complexity that has long stood barrier to mass adoption of blockchain technologies.
