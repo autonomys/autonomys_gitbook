@@ -1,12 +1,17 @@
 {
   "name": "autonomys_gitbook",
   "version": "1.0.0",
-  "description": "--- layout:   title:     visible: true   description:     visible: true   tableOfContents:     visible: true   outline:     visible: false   pagination:     visible: true ---",
+  "description": "A GitBook project for Autonomys",
   "main": "index.js",
   "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "EF",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }

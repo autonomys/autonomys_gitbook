@@ -1,5 +1,27 @@
 {
     "gitbook": "3.2.3",
     "plugins": [
-    ]
-  }
+      "summary",
+      "theme-default",
+      "highlight",
+      "search",
+      "lunr",
+      "sharing",
+      "anchors"
+    ],
+    "pluginsConfig": {
+      "sharing": {
+        "facebook": true,
+        "twitter": true,
+        "google": true,
+        "weibo": false,
+        "instapaper": false,
+        "vk": false,
+        "all": [
+          "facebook",
+          "twitter"
+        ]
+      }
+    }
+}
+  
