@@ -4,7 +4,7 @@
   "description": "A GitBook project for Autonomys",
   "main": "index.js",
   "scripts": {
-    "build": "  command: npx gitbook-cli build",
+    "build": "  gitbook build",
     "serve": "gitbook serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
