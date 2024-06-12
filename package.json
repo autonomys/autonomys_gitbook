@@ -13,5 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "gitbook-cli": "^2.3.2"
+  },
+  "engines": {
+    "node": ">=14.0.0 <16.0.0"
   }
 }
