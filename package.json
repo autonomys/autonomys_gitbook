@@ -4,7 +4,7 @@
   "description": "A GitBook project for Autonomys",
   "main": "index.js",
   "scripts": {
-    "build": "gitbook build",
+    "build": "  command: npx gitbook-cli build",
     "serve": "gitbook serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,8 @@
   },
   "engines": {
     "node": "=14.17.0"
+  },
+  "devDependencies": {
+    "@gitbook/cli": "^0.16.0"
   }
 }
