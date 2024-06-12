@@ -31,7 +31,7 @@ Please follow this pathway for *minor* contributions such as Spelling errors, Ty
 > If you are adding entirely new pages, features, etc, then please refer to the `Advanced` portion of this section
 
 1. Go to [Autonomys Gitbook](https://github.com/subspace/autonomys_gitbook), and find the page that you would like to change.
-2. Scroll to the bottom and click `Edit this page`.
+2. On the right, click on `Edit on GitHub`.
 3. This will open up GitHub, and direct you to the raw page on GitHub.
 4. In the top right click the `pencil` emoji to edit the page.
 5. GitHub will change the page to a text editor, where you will be able to make changes.
