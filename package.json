@@ -12,7 +12,8 @@
   "author": "EF",
   "license": "ISC",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "graceful-fs": "^4.2.0"
   },
   "engines": {
     "node": ">=14.0.0 <16.0.0"
