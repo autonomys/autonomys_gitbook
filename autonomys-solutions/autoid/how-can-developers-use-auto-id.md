@@ -1,6 +1,5 @@
 # Using Auto ID
 
-## How Can Someone Create and Register an Auto ID?
 
 **Auto App:** Anyone can easily create an Auto ID using the cross-platform Auto mobile app. This app simplifies and automates the process of creating your Auto ID and managing your keys, while making it easy to link your Auto ID to existing accounts and services. The Auto app is fully open-source and does not rely on any backend servers or platforms to store your personal information or secret credentials. Everything runs locally on your device, allowing you to maintain full control over your digital identity.
 
