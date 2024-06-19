@@ -41,7 +41,7 @@ Dynamic issuance was tested on the Gemini 3h testnet where $$initial\_subsidy = 
 
 On Gemini-3h, the reference subsidy issuance is expected to decay following the curve below. For example, for the first 1,296,000 blocks (\~90 days) it starts at 0.1 TSSC per block and decreases as follows.
 
-<figure><picture><source srcset="../.gitbook/assets/gemini-3h-issuance-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/gemini-3h-issuance-light.svg" alt="" width="563"></picture><figcaption><p>Dynamic Reward Issuance Gemini 3h</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/issuance-decay-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/issuance-decay-light.svg" alt=""></picture><figcaption><p>Dynamic Reward Issuance Gemini 3h</p></figcaption></figure>
 
 Apart from the reference subsidy issuance decay, the rewards for the block proposer are also dynamic based on the demand for blockspace. The subsidy presented above is a reference for the amount issued for an empty block. However, if the chain is seeing blockspace utilization, block proposers are also earning through transaction fees to cover their farming costs, and the protocol will lower the reward issued to the proposer. This allows the protocol to conserve tokens for later issuance in periods of lower demand.
 
