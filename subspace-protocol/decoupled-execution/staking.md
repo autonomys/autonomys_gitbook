@@ -40,7 +40,7 @@ Operators can also withdraw their stake and fees at any time by submitting a `wi
 
 #### Unlocking Funds[​](https://subnomicon.subspace.network/docs/decex/staking#unlocking-funds) <a href="#unlocking-funds" id="unlocking-funds"></a>
 
-Withdrawals have a lock period of 2 days (currently 28 800 blocks, \~ 48 hours). After the locking period, the withdrawn amount can be unlocked in the user's account with the `unlock_funds` extrinsic. All withdrawals requested in the same stake epoch are aggregated together and the total amount is unlocked at once. This locking period is necessary to ensure that the domain block executing the withdrawal is confirmed and not challenged by a fraud proof in order to increase the economic stability of domains.
+Withdrawals have a lock period of roughly 1 day (currently 14 400 domain blocks). After the locking period, the withdrawn amount can be unlocked in the user's account with the `unlock_funds` extrinsic. All withdrawals requested in the same stake epoch are aggregated together and the total amount is unlocked at once. This locking period is necessary to ensure that the domain block executing the withdrawal is confirmed and not challenged by a fraud proof in order to increase the economic stability of domains.
 
 #### Example[​](https://subnomicon.subspace.network/docs/decex/staking#example) <a href="#example" id="example"></a>
 
