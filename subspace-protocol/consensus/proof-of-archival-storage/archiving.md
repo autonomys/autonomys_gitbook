@@ -12,7 +12,7 @@ Combining the polynomial nature of the Reed-Solomon erasure code and KZG with th
 
 When a block reaches archiving depth, its contents are added to a raw chain history buffer. Then, the buffer is sliced into _records_.
 
-A _record_ of blockchain history is a vector of 215 _chunks_.
+A _record_ of blockchain history is a vector of $2^{15}$ _chunks_.
 
 A _chunk_ is Subspace’s smallest atomic unit of data measurement. A _chunk_ is a field element for KZG and is 254 bits in size. We usually round it up to 32 bytes by padding with zero for convenience.
 
