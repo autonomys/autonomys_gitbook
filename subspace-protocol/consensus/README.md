@@ -20,7 +20,7 @@ Formally, PoAS is a three phase protocol, consisting of:
 * a unique setup or **Plotting** phase done individually by each farmer
 * a probabilistic audit phase, known as **Farming**, based on a recurring slot challenge from a secure randomness beacon, with a frequency of one challenge per second.
 
-<figure><picture><source srcset="../../.gitbook/assets/Consensus_Phases-dark (1).svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Consensus_Phases-dark (1).svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (6).png" alt=""></picture><figcaption></figcaption></figure>
 
 Since the blockchain history is not unique, farmers cannot simply store the raw blockchain history, otherwise dishonest farmers could share a single copy of the blockchain history to emulate unlimited amount of disk space. Thus, one challenge is how to make the _plot_ each farmer stores unique. This is done as part of the plotting phase explained below.
 

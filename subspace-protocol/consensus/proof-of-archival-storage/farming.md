@@ -4,7 +4,7 @@ Farming is participating in the consensus by solving a puzzle based on a previou
 
 The plot audits are designed to be SSD-friendly by favoring the random read approach vs. large sequential reads and optimized for typical SSD read size. For illustration, a farmer only needs to read below 32KiB at a random location per sector to check for a solution, and they only need to read more if their solution is eligible to win the block.
 
-<figure><picture><source srcset="../../../.gitbook/assets/Farming-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (16).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Farming-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (22).png" alt=""></picture><figcaption></figcaption></figure>
 
 After the farmer plots at least one sector, they can begin farming. As soon as they observe a new challenge from the global randomness beacon, the farmer scans each plot sector for a solution and proposes a block if they find one, as follows:
 

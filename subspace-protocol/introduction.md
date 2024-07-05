@@ -6,7 +6,7 @@ The Autonomys Network is the first layer-one blockchain that can fully resolve t
 \
 It is an instance of the Subspace protocol, based on original multi-year research.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 We have built the Autonomys Network from the first principles to simultaneously achieve scalability, security and decentralization. At its core, Autonomys Network implements Subspace, a novel storage-based consensus protocol that separates consensus from execution. This proposer-builder separation allows Autonomys Network to independently scale transaction throughput and storage requirements while maintaining a fully decentralized blockchain.
 
@@ -48,3 +48,4 @@ This document provides a comprehensive overview of the Autonomys Network Protoco
 * [Whitepaper - _Summarized_](https://subspace.network/news/subspace-network-whitepaper)
 * [Whitepaper - _Full Length_](https://assets.website-files.com/61526a2af87a54e565b0ae92/617759c00edd0e3bd279aa29\_Subspace\_%20A%20solution%20to%20the%20farmer's%20dilemma.pdf)
 * [Reference Implementation](https://github.com/subspace/subspace)
+

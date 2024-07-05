@@ -36,11 +36,11 @@ The piece cache layer is populated as follows:
 
 The Archival Storage layer is the fundamental layer responsible for the permanent storage and durability of all chain data. It consists of all storage pledged by farmers to store encoded pieces of chain history.
 
-This layer stores the blockchain history data in the encoded form as an integral part of the [Dilithium consensus](/subspace-protocol/consensus/README.md). It stores the pieces encoded into plot sectors in SSD files.
+This layer stores the blockchain history data in the encoded form as an integral part of the [Dilithium consensus](../consensus/). It stores the pieces encoded into plot sectors in SSD files.
 
 The Archival Storage layer serves as the "cold storage" and guarantees the history pieces are available when they couldn't be retrieved from L2. Retrieval from Archival storage, however, consumes a moderate amount of time and resources and is expected to be used only in the rare event of L2 cache miss. In most cases, the L1 layers of farmers are populated with pieces received from L2.
 
-<figure><picture><source srcset="../../.gitbook/assets/DSN_Layers-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (17).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/DSN_Layers-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (23).png" alt=""></picture><figcaption></figcaption></figure>
 
 ### Cache types by peer roles
 

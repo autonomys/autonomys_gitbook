@@ -16,7 +16,7 @@ A _chunk_ is Subspace’s smallest atomic unit of data measurement. A _chunk_ is
 
 A _piece_ is a _record_ concatenated with a _KZG commitment_ and a _witness_ of inclusion in a specific _segment._
 
-<figure><picture><source srcset="../../../.gitbook/assets/Piece-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (7).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Piece-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (13).png" alt=""></picture><figcaption></figcaption></figure>
 
 The Archiving process produces _segments_ of _pieces_.
 
@@ -31,7 +31,7 @@ The blockchain history data is eligible for archiving when it reaches the archiv
 
 Step 4 allows us to show that the erasure coding of data was performed correctly with the homomorphic property of Reed-Solomon erasure code and KZG. As a result, the extended commitments (the yellow ones on the diagram below) obtained by erasure-coding the source commitments are the same as if we were to commit to the extended rows.
 
-<figure><picture><source srcset="../../../.gitbook/assets/Archived_Segment-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (8).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Archived_Segment-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (14).png" alt=""></picture><figcaption></figcaption></figure>
 
 After step 4, the Archiver has produced 256 records and 256 commitments to those records.
 

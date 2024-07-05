@@ -4,12 +4,12 @@ From the moment a transaction is submitted to the Autonomys Network to the point
 
 1. The transaction is validated and included in a consensus chain block directly or through inclusions of domain bundles.
 2. Transactions and bundles in the block are executed, activating a global and domain state change.
-3. After that block reaches a certain depth (currently 100 blocks), it is archived following the [Archiving](/subspace-protocol/consensus/proof-of-archival-storage/archiving.md) protocol alongside other blocks. At this point, it becomes a part of the Archival History of the chain.
-4. Newly archived pieces are added to farmer caches through the [Distributed Storage Network](/subspace-protocol/network-architecture/distributed-storage-network.md) and replicated multiple times throughout the network.
-5. Pieces are encoded into farmer plots on disk for permanent storage, following the [Plotting](/subspace-protocol/consensus/proof-of-archival-storage/plotting.md) protocol.
+3. After that block reaches a certain depth (currently 100 blocks), it is archived following the [Archiving](proof-of-archival-storage/archiving.md) protocol alongside other blocks. At this point, it becomes a part of the Archival History of the chain.
+4. Newly archived pieces are added to farmer caches through the [Distributed Storage Network](../network-architecture/distributed-storage-network.md) and replicated multiple times throughout the network.
+5. Pieces are encoded into farmer plots on disk for permanent storage, following the [Plotting](proof-of-archival-storage/plotting.md) protocol.
 6.  When a client requests, the original data is reconstructed from archived pieces on the fly.
 
-    <figure><picture><source srcset="../../.gitbook/assets/Data_Flow-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (5).png" alt=""></picture><figcaption></figcaption></figure>
+    <figure><picture><source srcset="../../.gitbook/assets/Data_Flow-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (11).png" alt=""></picture><figcaption></figcaption></figure>
 
 ### Block Structure and Limits
 
@@ -51,4 +51,4 @@ Each domain bundle can be seen as "a block inside a block," with its bundle head
 
 Each domain is an application-specific blockchain (app-chain) that relies on the consensus chain for data availability and settlement. Domain chains consist of domain blocks, each containing solely the bundles relevant to this domain and disregarding any transactions concerning other domains. Domain chains have separate namespaced execution environments while receiving shared security and interoperability from the consensus chain.
 
-<figure><picture><source srcset="../../.gitbook/assets/Slot_To_Execution-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (6).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Slot_To_Execution-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (12).png" alt=""></picture><figcaption></figcaption></figure>

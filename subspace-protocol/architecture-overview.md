@@ -8,7 +8,7 @@ Autonomys also maintains the Autonomys Network software client open-source refer
 
 ### The Autonomys Network Stack
 
-<figure><picture><source srcset="../.gitbook/assets/Modular_Stack-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (2).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Modular_Stack-dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (8).png" alt=""></picture><figcaption></figcaption></figure>
 
 * Application layer allows to build any conceivable application fostering new opportunities in automated transactions and agreements, governance, gaming, and virtual economies.
 * Decoupled execution domains support any state transition framework and execution environment capable of executing code of arbitrary complexity. Domains enable the App layer and integration and interoperability across different blockchains.

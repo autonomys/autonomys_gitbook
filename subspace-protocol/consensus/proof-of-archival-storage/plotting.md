@@ -10,7 +10,7 @@ The memory-bandwidth bound encoding construction comes from the paper [**Beyond 
 
 In short, the PoS plotter generates a table of permuted outputs from a set of random functions. The table size is determined by a memory bandwidth requirement parameter, _k_, set to 20, and the random functions are determined by a _seed_. When challenged at an _index_, the table outputs a short _proof-of-space_ that can be efficiently verified. We do not use the proof-of-space directly to verify that a farmer has pledged a certain amount of space, as Chia does. Instead, we use it to prove that a farmer utilized the required memory bandwidth for encoding the plot.
 
-<figure><picture><source srcset="../../../.gitbook/assets/PoS_Table-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (9).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/PoS_Table-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (15).png" alt=""></picture><figcaption></figcaption></figure>
 
 ### Workflow
 
@@ -18,7 +18,7 @@ A plot can cover the entire disk or span across multiple disks, and there is no 
 
 In addition, the farmer must save the current history size, as it will determine the point in the future when the sector will need to be updated with newer pieces.
 
-<figure><picture><source srcset="../../../.gitbook/assets/Raw_Sector-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (10).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Raw_Sector-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (16).png" alt=""></picture><figcaption></figcaption></figure>
 
 Once the farmer has obtained all 1,000 pieces for this sector from the network, they can create an encoded replica. Only the piece’s historical data, the record part, is encoded. The KZG commitment and witness included in a piece are saved separately in the sector metadata, as they will be needed later for farming.
 
@@ -31,15 +31,15 @@ For each record, the Plotting algorithm performs the following steps in memory:
 
 4. Query the generated table for enough ($$2^{15}$$) proof-of-space values to mask every chunk of the record
 
-<figure><picture><source srcset="../../../.gitbook/assets/PoS_Lookup-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (11).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/PoS_Lookup-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (17).png" alt=""></picture><figcaption></figcaption></figure>
 
 5. Encode each extended record chunk by XOR-masking it with the corresponding proof-of-space value.
 
-<figure><picture><source srcset="../../../.gitbook/assets/Piece_Encoding-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (12).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Piece_Encoding-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (18).png" alt=""></picture><figcaption></figcaption></figure>
 
 After all records in the sector have been encoded as described, the farmer spreads them into s-buckets chunk-wise. Ultimately, each bucket will contain chunks from all records. The first bucket will have the first chunks of each record; the second bucket will have the second chunks, and so on. The s-buckets are then written to disk, and the plotting process of the sector is complete in a single write operation.
 
-<figure><picture><source srcset="../../../.gitbook/assets/Encoded_Sector-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (13).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Encoded_Sector-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (19).png" alt=""></picture><figcaption></figcaption></figure>
 
 Each bucket represents a potential winning ticket in the block proposer lottery. For each challenge, a farmer will scan one s-bucket containing one chunk of each record they store in a sector and see whether any of them are eligible to win a block.
 
@@ -51,12 +51,12 @@ As the chain grows, we need a way to ensure that new data is replicated as much 
 
 When a sector reaches its expiry point, the block proposer challenge solutions coming from this sector will no longer be accepted by other peers, incentivizing the farmer to update their plot. The farmer erases the expired sector and repeats the Plotting process anew, replicating a fresh history sample. Each replotting creates a new sector in memory and saves it to disk in a single write operation.
 
-<figure><picture><source srcset="../../../.gitbook/assets/Replotting-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (14).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Replotting-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (20).png" alt=""></picture><figcaption></figcaption></figure>
 
 In a plot spanning multiple gigabytes, the sectors will be updated randomly, one at a time, so replotting is amortized over a long period. There is never a moment when a farmer needs to erase and re-create their whole plot and miss out on challenges. The plot refreshing will be practically invisible to the farmer and allow their uninterrupted participation in consensus.
 
 The bigger the chain grows and the longer the farmer participates in the network, the less frequent the replotting on their disks will be. After genesis Subspace will seed the network with 20 GiB of history, which means that farmers who join after the seeding will start plotting with initial history size of 160 segments. Assuming a 1 TB SSD plot, a farmer will on average need to replot 3.5 TB of data by the time the chain history reaches 1TB in size, 6.2 TB of data by the time history reaches 10 TiB and 8 TB by the time history reaches 50 TiB. Given a common TBW (Total Bytes Written) for consumer grade 1 TB SSDs of 300-600 TB, Subspace farming requires below 3% of the SSD's total endurance to farm over several years (for comparison, Ethereum's full chain data size is \~17 TiB as of January 2024 via [Etherscan](https://etherscan.io/chartsync/chainarchive)).
 
-<figure><picture><source srcset="../../../.gitbook/assets/Replottingby10TiB-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (15).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Replottingby10TiB-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (21).png" alt=""></picture><figcaption></figcaption></figure>
 
 The graphic shows the average TB replotted on a 1 TB SSD over the course of chain growth from genesis to 10 TiB (40 960 archived segments). The growth of the amount of data replotted slows down as the chain grows.

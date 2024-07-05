@@ -12,11 +12,11 @@ description: >-
 
 In an effort to make blockchains more energy-efficient, egalitarian, and decentralized, several protocols employ consensus based on Proof-of-Space, replacing compute-intensive mining with storage-intensive farming. PoSpace consensus introduces a unique mechanism design challenge called the farmer's dilemma, which suggests that existing constructions are not actually incentive-compatible. Simply put, farmers must decide whether to allocate scarce storage resources to maintain the chain state and history or maximize the amount of space they pledge towards consensus. Rational farmers will always choose the latter, at best becoming light clients, while at worst encouraging pooled farming under a few trusted operators
 
-<figure><picture><source srcset="../.gitbook/assets/Farmers_Dilemma-dark (1).svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (3).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Farmers_Dilemma-dark (1).svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (9).png" alt=""></picture><figcaption></figcaption></figure>
 
 To resolve this dilemma, Autonomys Network farmers maintain only minimal state and history while retaining the security properties and decentralization benefits of a full node. Consensus in Autonomys Network is based on proofs of replicated storage of the history of the blockchain itself. Farmers store the history collectively, many times over, with each farmer storing as many replicas as their disk space allows. Consensus and computation are then decoupled, so farmers only propose an ordering for transactions, while staked executor nodes maintain the state and compute transitions. This separation of concerns significantly reduces the storage and compute overhead needed to operate a farmer, even in an Ethereum-style execution model, allowing for high levels of participation.
 
-<figure><picture><source srcset="../.gitbook/assets/Farmers_Dilemma_Solution-dark (1).svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (4).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Farmers_Dilemma_Solution-dark (1).svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (10).png" alt=""></picture><figcaption></figcaption></figure>
 
 
 

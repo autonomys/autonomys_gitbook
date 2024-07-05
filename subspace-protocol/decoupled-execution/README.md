@@ -14,7 +14,7 @@ While conceptually similar to rollups on Ethereum, such as Optimism, DecEx diffe
 
 Instead, DecEx is enshrined within the semantics of the core protocol itself. Despite being implemented at the protocol level, DecEx can still provide rollup protocol designers with a flexible framework, which can support any state transition integrity framework for verifying the receipt chain, including optimistic fraud proofs and zero-knowledge validity proofs. DecEx can also currently support any smart contract execution environment that can be implemented within the Substrate framework, such as the Ethereum Virtual Machine (EVM) or WebAssembly (WASM).
 
-<figure><picture><source srcset="../../.gitbook/assets/Domain_Chains-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (18).png" alt="" width="509"></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Domain_Chains-dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/image (24).png" alt="" width="509"></picture><figcaption></figcaption></figure>
 
 ### Domains
 
