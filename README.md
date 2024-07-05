@@ -14,6 +14,7 @@ layout:
 
 # Welcome to Autonomys Academy
 # This line here is only for testing github preview purposes. If it was merged accidentally and you can see it in production for some reason, please reach out to the team and them us know. Thanks!
+# This is another small change to trigger rebuild.
 
 Hello! Thanks for taking the time to check our learning resource out. Within these pages, you will find all the information you need to understand what Autonomys is all about and the products we are building on the Autonomys Network.
 
