@@ -8,7 +8,7 @@ Let's investigate the innovative roles of operator and nominator within the Auto
 
 Operators earn[ ATC (Auto Coin)](../autonomys-network/an-introduction-to-autocoin-and-autocash.md) as compensation for their contributions through transaction fees. These fees are not just a reward; they serve as an incentive for operators to maintain high standards of reliability and efficiency in transaction processing. This system creates a self-sustaining ecosystem where the operators are motivated to support the network's growth and health, directly contributing to its scalability and security.
 
-Earning ATC through transaction fees offers operators a tangible reward for their contributions. ATC, as a versatile digital currency within the Autonomys ecosystem, can be used for various purposes, including further transactions, staking, or conversion into other cryptocurrencies or fiat money. This flexibility provides operators with multiple avenues to leverage their earned SSC, aligning with their personal or organizational goals and strategies including paying for their infrastructure.
+Earning ATC through transaction fees offers operators a tangible reward for their contributions. ATC, as a versatile digital currency within the Autonomys ecosystem, can be used for various purposes, including further transactions, staking, or conversion into other cryptocurrencies or fiat money. This flexibility provides operators with multiple avenues to leverage their earned ATC, aligning with their personal or organizational goals and strategies including paying for their infrastructure.
 
 ## Becoming an Operator
 
