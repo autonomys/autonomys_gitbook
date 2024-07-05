@@ -120,7 +120,7 @@ Short for Auto Coin, the native token of Autonomys Network. While ATC is integra
 
 ### Shannon
 
-A Shannon is the smallest unit of an ATC, equal to 10−18 ATC. ATCs are divisible up to 18 decimal places to allow for microtransactions.
+A Shannon is the smallest unit of an ATC, equal to $$10^{-18}$$ATC. ATCs are divisible up to 18 decimal places to allow for microtransactions.
 
 Shannon is named after Claude Shannon, a mathematician, electrical engineer, and cryptographer known as "the father of information theory". His work was central to the rise of digital computing and laid the foundations for the information age.
 
