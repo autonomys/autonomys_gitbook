@@ -1,4 +1,4 @@
-# Potential Applications
+# hohohoPotential Applications
 
 Below is an overview of several potential applications that could be built either off-chain with Auto SDK or deployed on-chain as smart control rollups.
 
