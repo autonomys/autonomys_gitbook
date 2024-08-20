@@ -1,11 +1,11 @@
-# Farm to earn ATC
+# Farm to Earn ATC
 
 Let's delve into the concept of a "farmer" within the Autonomys Network ecosystem, a blockchain environment powered by the Subspace protocol and designed for efficiency and sustainability. A farmer, in this context, is not tending to crops, but rather, to digital fields of data. By offering their computer's spare storage space, they play a pivotal role in maintaining and securing the network.
 
 The essence of farming revolves around the utilization of unused storage on farmers' computers to store pieces of the blockchain. This is not merely a passive activity; it requires active participation and maintenance to ensure data integrity and availability. In return for their contributions, farmers are rewarded with ATC, or Auto Coin, a form of digital currency intrinsic to the Autonomys ecosystem. A farmer's space can be pledged to the network through two routes:
 
 1. **The Advanced CLI** - a reference implementation of the Subspace client software. Split between a node and farmer it provides ultimate flexibility and composability.
-2. **Auto Peer** - an AI assisted path to farming. Offering a rich GUI and designed to be the simplest way to get started with minimal to no technical or Web3 knowledge required.
+2. **Space Acres** - an AI assisted path to farming. Offering a rich GUI and designed to be the simplest way to get started with minimal to no technical or Web3 knowledge required.
 
 Both paths have their audiences but they are common in that they use Auto ID to identify the farmer. The motivations for individuals to engage in farming are multifaceted. Primarily, it offers a means to earn ATC, which can be seen as a form of passive income. Beyond financial incentives, farmers contribute to the decentralization and robustness of the network, fostering a community-driven approach to data storage and security. This participation not only strengthens the network but also aligns with broader ideals of decentralization and privacy in the digital age by providing key infrastructure for the Autonomys stack and products.
 
