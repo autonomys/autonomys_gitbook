@@ -2,7 +2,7 @@
 
 ## Artificial General Intelligence (AGI)
 
-As we stand on the cusp of Artificial General Intelligence (AGI), a future filled with both promise and uncertainty beckons. AGI's imminent arrival, capable of performing any task a human can, poses profound questions about society's readiness for such transformative power. Drawing on insights from key researchers and the pivotal work ["Superintelligence" by Nick Bostrom](https://dorshon.com/wp-content/uploads/2017/05/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf), the need for proactive, robust preparation is clear.&#x20;
+As we stand on the cusp of Artificial General Intelligence (AGI), a future filled with both promise and uncertainty beckons. AGI's imminent arrival, capable of performing any task a human can, poses profound questions about society's readiness for such transformative power. Drawing on insights from key researchers and the pivotal work ["Superintelligence" by Nick Bostrom](https://www.fhi.ox.ac.uk/wp-content/uploads/1-s2.0-S0016328715000932-main.pdf), the need for proactive, robust preparation is clear.&#x20;
 
 The ethical quandaries of AGI development, from determining moral agency to the autonomy of AI entities, challenge us to rethink our values in this new context. Central to this ethical debate is the autonomy of both humans and AI, urging a future where AI enhances human freedom and aligns with our deepest values.
 
