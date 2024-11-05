@@ -28,7 +28,7 @@ Let’s assume Alice has several existing online identities through well-known i
 
 ### Proof-of-Personhood
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The more providers Alice has linked to her Auto ID, the more certainty the platform can have that she actually is a human, and even that she actually is Alice, should Alice choose to make her identity public. Alice can even link emerging proof-of-personhood systems to her Auto ID, such as World ID, which leverages biometrics to register unique human identities in a privacy preserving manner. We can even quantify the notion of how likely an Auto ID is to belong to a human as its _human score_, as a probability between 0 and 1. We could say that any Auto ID with a sufficiently high human score is an _implicitly_ _verified_ Auto ID. Any platform that integrates with Auto ID could then require that valid accounts have a certain human score, potentially present if a user holds an Auto verified account on their profile, and even allow the user to expose their actual human identity to promote further trust in their profile.\
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Autonomys Academy](README.md)
+* [Welcome to the Autonomys Academy](README.md)
 * [A Preface for OG Subspacers](readme-1.md)
 
 ## Autonomys Vision
