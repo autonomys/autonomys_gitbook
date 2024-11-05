@@ -5,8 +5,8 @@
 
 ## Autonomys Vision
 
-* [Defining Your Destiny in the Age of AI](autonomys-vision/the-first-network-for-humans-and-ai.md)
-* [Potential Applications](autonomys-vision/potential-applications.md)
+* [Intro to AI3.0 & The Age of Autonomy](autonomys-vision/the-first-network-for-humans-and-ai.md)
+* [Use-Cases](autonomys-vision/potential-applications.md)
 
 ## Subspace Protocol
 
