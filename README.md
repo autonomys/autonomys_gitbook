@@ -30,3 +30,7 @@ Learn about what Autonomys is building via our learning resources.
 4. **ADDITIONAL LEARNING** — Read about the basics of blockchain, web3, AI, agents & digital identity
 
 Join our [Discord](https://discord.com/invite/subspace-network) and message the team if you have any questions, and visit this [section](broken-reference) to provide feedback.
+
+***
+
+{% include ".gitbook/includes/autonomys-summary-w-socials.md" %}
