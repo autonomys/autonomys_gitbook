@@ -2,7 +2,7 @@
 
 ## Introduction
 
-LetsID.ai is a free service provided by Autonomys Labs that allows users to easily create and manage an Auto ID by connecting an existing OIDC compatible account with a verified identity, without having to manage a blockchain wallet or purchase Auto Coin.
+LetsID.ai is a free service provided by Autonomys Labs that allows users to easily create and manage an Auto ID by connecting an existing OIDC compatible account with a verified identity, without having to manage a blockchain wallet or purchase AI3.
 
 ## Inspired by Let’s Encrypt
 

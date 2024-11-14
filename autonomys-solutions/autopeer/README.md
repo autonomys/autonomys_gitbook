@@ -20,9 +20,9 @@ Space Acres provides several key features to simplify the farming process:
 
 **Sector State Visualization**: The state of farmer sectors is visually represented, providing a clear overview of their storage contribution.
 
-By participating, users not only secure the network's infrastructure but also earn Auto Coin (ATC), the native digital currency of the Autonomy Network. This incentivization model scales rewards to contributors depending on their storage offerings, fostering a scalable storage solution resistant to centralized points of failure.
+By participating, users not only secure the network's infrastructure but also earn AI3, the native digital currency of the Autonomy Network. This incentivization model scales rewards to contributors depending on their storage offerings, fostering a scalable storage solution resistant to centralized points of failure.
 
-Upon joining, users are granted an Auto ID, which serves as their unique identifier for a human or AI within the network. This ID also facilitates their ability to engage in staking activities, where participants can lock in their holdings of Auto Coin to earn yields. Staking not only rewards users for their contribution to network liquidity but also plays a crucial role in securing the network and ensuring its efficient operation. Through this innovative approach, Space Acres offers a comprehensive platform where users can not only contribute to decentralized data storage but also participate in the financial ecosystem of the Autonomy Network.\
+Upon joining, users are granted an Auto ID, which serves as their unique identifier for a human or AI within the network. This ID also facilitates their ability to engage in staking activities, where participants can lock in their holdings of AI3 to earn yields. Staking not only rewards users for their contribution to network liquidity but also plays a crucial role in securing the network and ensuring its efficient operation. Through this innovative approach, Space Acres offers a comprehensive platform where users can not only contribute to decentralized data storage but also participate in the financial ecosystem of the Autonomy Network.\
 \
 To learn more and install Space Acres, visit our [farming documentation](https://docs.autonomys.xyz/docs/farming-&-staking/farming/space-acres/space-acres-install).&#x20;
 

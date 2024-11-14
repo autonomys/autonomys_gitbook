@@ -37,7 +37,7 @@
 
 * [Competing Visions for Our AI Future](autonomys-solutions/competing-visions-for-our-ai-future.md)
 * [Autonomys Network](autonomys-solutions/autonomys-network/README.md)
-  * [An Introduction to Auto Coin](autonomys-solutions/autonomys-network/an-introduction-to-autocoin-and-autocash.md)
+  * [An Introduction to AI3 Coin](autonomys-solutions/autonomys-network/an-introduction-to-ai3-and-autocash.md)
 * [Auto ID](autonomys-solutions/autoid/README.md)
   * [Using Auto ID](autonomys-solutions/autoid/how-can-developers-use-auto-id.md)
   * [What Can Be Built with Auto ID](autonomys-solutions/autoid/what-can-be-built-with-auto-id.md)
@@ -45,8 +45,8 @@
   * [Auto Score Framework](autonomys-solutions/auto-sdk/auto-score.md)
   * [LetsID.ai](autonomys-solutions/auto-sdk/letsid.ai.md)
 * [Space Acres](autonomys-solutions/autopeer/README.md)
-  * [Farm to Earn ATC](autonomys-solutions/autopeer/farm-to-earn-atc.md)
-  * [Execute Transactions or Nominate Stake to Earn ATC](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-atc.md)
+  * [Farm to Earn AI3](autonomys-solutions/autopeer/farm-to-earn-AI3.md)
+  * [Execute Transactions or Nominate Stake to Earn AI3](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-AI3.md)
 * [Auto PKI](autonomys-solutions/auto-pki.md)
 
 ## Additional Learning

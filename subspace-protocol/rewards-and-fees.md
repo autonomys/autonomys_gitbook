@@ -3,7 +3,7 @@
 All the participants of the Autonomys Network are compensated for the work they do to keep the network live and secure. In this context, we define the following terms:
 
 * **Fees**: The payments for transactions on the Autonomys Network.
-* **Rewards**: The compensation for the work performed by the participants of the Autonomys Network via the issuance of the newly minted ATC by the protocol.
+* **Rewards**: The compensation for the work performed by the participants of the Autonomys Network via the issuance of the newly minted AI3 by the protocol.
 
 Different participants receive their compensation through a combination of the above based on their role.
 
@@ -73,7 +73,7 @@ $$storage\ fee\ per\ byte = total\ credit\ supply/total\ space\ pledged/min\ rep
 
 _storage fee(tx)=storage fee per byte∗length(tx) 𝑠ℎ𝑎𝑛𝑛𝑜𝑛𝑠_
 
-For the purposes of storage fee calculation, the total Auto Coin supply consists of all ATC in existence including staked or otherwise locked. The total space pledged to the network is divided by the protocol's minimum replication factor of 50, which ensures that the network is able to reliably store all the transactions that are included in the consensus chain. The history size is the total size of all the blocks in the consensus chain that are archived.
+For the purposes of storage fee calculation, the total AI3 supply consists of all AI3 in existence including staked or otherwise locked. The total space pledged to the network is divided by the protocol's minimum replication factor of 50, which ensures that the network is able to reliably store all the transactions that are included in the consensus chain. The history size is the total size of all the blocks in the consensus chain that are archived.
 
 Compute fee depends on the weight of the transaction and the demand on the network. Compute fees for the execution of extrinsics on the consensus chain (e.g., balance transfers) are collected by the block proposer. Compute fees for executing transaction bundles on domains are paid to the domain operators who submit the Execution Receipt (ER) containing this bundle (split equally between all operators who submit this ER) after the ER has cleared the challenge period. Autonomys implements Polkadot’s [slow adjusting fee](https://research.web3.foundation/Polkadot/overview/token-economics#2-slow-adjusting-mechanism) mechanism. The fee is slightly adjusted every block based on utilization of available block weight by normal extrinsics.
 
