@@ -45,8 +45,8 @@
   * [Auto Score Framework](autonomys-solutions/auto-sdk/auto-score.md)
   * [LetsID.ai](autonomys-solutions/auto-sdk/letsid.ai.md)
 * [Space Acres](autonomys-solutions/autopeer/README.md)
-  * [Farm to Earn AI3](autonomys-solutions/autopeer/farm-to-earn-AI3.md)
-  * [Execute Transactions or Nominate Stake to Earn AI3](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-AI3.md)
+  * [Farm to Earn AI3](autonomys-solutions/autopeer/farm-to-earn-ai3.md)
+  * [Execute Transactions or Nominate Stake to Earn AI3](autonomys-solutions/autopeer/execute-transactions-or-nominate-stake-to-earn-ai3.md)
 * [Auto PKI](autonomys-solutions/auto-pki.md)
 
 ## Additional Learning
