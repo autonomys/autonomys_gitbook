@@ -120,7 +120,7 @@ AI3 is the native token of Autonomys Network. While AI3 is integral to and neces
 
 ### Shannon
 
-A Shannon is the smallest unit of an AI3, equal to $$10^{-18}$$AI3. AI3s are divisible up to 18 decimal places to allow for microtransactions.
+A Shannon is the smallest unit of an AI3, equal to $$10^{-18}$$AI3. AI3 tokens are divisible up to 18 decimal places to allow for microtransactions.
 
 Shannon is named after Claude Shannon, a mathematician, electrical engineer, and cryptographer known as "the father of information theory". His work was central to the rise of digital computing and laid the foundations for the information age.
 
