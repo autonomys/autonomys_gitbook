@@ -114,13 +114,13 @@ Specifically, in Subspace protocol in the context of Archiving implementation me
 
 A process of transforming Archived History back into Blockchain History. Specifically, it is transforming pieces of Archived History, one Archived History Segment at a time, back into blocks of the blockchain history that can be used for starting a new Full Node from Genesis.
 
-### ATC
+### AI3
 
-Short for Auto Coin, the native token of Autonomys Network. While ATC is integral to and necessary for the operation of the Autonomys Network, it is intended as a utility currency to pay for the use of the Subspace protocol (i.e., transaction fees, domain leader election).
+AI3 is the native token of Autonomys Network. While AI3 is integral to and necessary for the operation of the Autonomys Network, it is intended as a utility currency to pay for the use of the Subspace protocol (i.e., transaction fees, domain leader election).
 
 ### Shannon
 
-A Shannon is the smallest unit of an ATC, equal to $$10^{-18}$$ATC. ATCs are divisible up to 18 decimal places to allow for microtransactions.
+A Shannon is the smallest unit of an AI3, equal to $$10^{-18}$$AI3. AI3 tokens are divisible up to 18 decimal places to allow for microtransactions.
 
 Shannon is named after Claude Shannon, a mathematician, electrical engineer, and cryptographer known as "the father of information theory". His work was central to the rise of digital computing and laid the foundations for the information age.
 

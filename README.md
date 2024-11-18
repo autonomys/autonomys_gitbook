@@ -31,6 +31,6 @@ Learn about what Autonomys is building via our learning resources.
 
 Join our [Discord](https://discord.com/invite/subspace-network) and message the team if you have any questions, and visit this [section](broken-reference) to provide feedback.
 
-***
+<!-- ***
 
-{% include ".gitbook/includes/autonomys-summary-w-socials.md" %}
+{% include ".gitbook/includes/autonomys-summary-w-socials.md" %} -->

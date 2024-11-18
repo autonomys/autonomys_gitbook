@@ -7,9 +7,9 @@ Our staking model consists of two tiers:
 * Operators stake to gain the right to execute transactions within a domain and produce blocks. They are responsible for validating and executing transactions, producing execution receipts, applying state transitions and earn rewards for their work. The operator's chances to be elected as a slot leader are weighted by stake. Operators can be nominated by farmers and currently each operator can have up to 256 nominators.
 * Farmers earn rewards proportional to their pledged storage. Farmers can nominate operators and back them with their tokens, increasing their stake and chance of being elected as slot leaders.
 
-Generally speaking, any ATC token holder can stake their tokens by nominating a domain operator, without having to become an operator or farmer themselves.
+Generally speaking, any AI3 token holder can stake their tokens by nominating a domain operator, without having to become an operator or farmer themselves.
 
-NPoS allows for virtually all ATC holders to participate, thus maintaining high levels of security by putting more value at stake and allowing more people to earn a yield based on their holdings.
+NPoS allows for virtually all AI3 holders to participate, thus maintaining high levels of security by putting more value at stake and allowing more people to earn a yield based on their holdings.
 
 <picture><source srcset="../../.gitbook/assets/Nomination-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://subnomicon.subspace.network/img/Nomination-light.svg#gh-light-mode-only" alt="Nomination"></picture>
 
@@ -17,16 +17,16 @@ NPoS allows for virtually all ATC holders to participate, thus maintaining high 
 
 Operators must stake an amount higher than this domain's minimum stake for a right to participate in the execution and earn execution fees. An operator's chances to become a slot leader are directly proportional to the percentage of their stake against the total amount staked by all operators of this domain. As such, operators are incentivized to recruit nominators to increase their stake. This means that each domain operator stake acts essentially as a pool for nominators. When registering as an operator, each operator specifies their minimum nominator stake and nomination tax of their pool. The nomination tax is a percentage that the operator collects on all fees earned by executing blocks, before they are shared with nominators, a commission for the operator's work. The tax amount is automatically restaked as part of the operator's stake.
 
-Any ATC token holder who has more than the minimum nominator stake (currently 1 ATC may choose to join this operator’s pool by submitting the nomination extrinsic with the deposit amount of ATC they wish to stake).
+Any AI3 token holder who has more than the minimum nominator stake (currently 1 AI3 may choose to join this operator’s pool by submitting the nomination extrinsic with the deposit amount of AI3 they wish to stake).
 
-1. The amount of deposited ATC is added to the list of pending deposits within the operator's pool.
+1. The amount of deposited AI3 is added to the list of pending deposits within the operator's pool.
 2. At the end of an epoch (currently 100 blocks, \~ 10 minutes), the nominator's deposit is processed.
 3. A part of the deposit is taken as a reserve towards a storage fee fund. This reserve is calculated as a percentage of the deposit (currently, 20%), and is used to pay for the storage fees of bundles created by the operator of the pool and does not affect the stake distribution. The reserved amount is transferred to the operator's storage fee fund, while the rest of the deposit remains locked in the nominator's account. This amount is partially refunded with each withdrawal.
 4. The nominator is awarded their shares in the pool. The stake shares are the percentage of the total stake that is allocated to each nominator. The stake shares are used to calculate the share of the operator's fees that the nominator is entitled to based on the amount they have staked and for how long. The stake shares are calculated as follows:
-   1.  Compute the operator’s pool end-of-epoch _**shares\_per\_atc**_ as the total number of shares divided by the sum of all stake in the pool and fees collected during the previous epoch
+   1.  Compute the operator’s pool end-of-epoch _**shares\_per\_AI3**_ as the total number of shares divided by the sum of all stake in the pool and fees collected during the previous epoch
 
-       $$shares\_per\_atc = total\_shares/(pool\_total\_stake + fees∗(1−nomination\_tax))$$.
-   2. Assign the _**shares**_ to this nominator based on the _**shares\_per\_atc**_ of the pool$$shares = deposit\_amount * shares\_per\_atc$$
+       $$shares\_per\_AI3 = total\_shares/(pool\_total\_stake + fees∗(1−nomination\_tax))$$.
+   2. Assign the _**shares**_ to this nominator based on the _**shares\_per\_AI3**_ of the pool$$shares = deposit\_amount * shares\_per\_AI3$$
    3. The _**deposit\_amount**_ is added to _**pool\_total\_stake**_ of the operator's pool and domain’s total stake.
    4. The _**shares**_ of this nominator are added to _**total\_shares**_ of the operator's pool.
 
@@ -44,8 +44,8 @@ Withdrawals have a lock period of roughly 1 day (currently 14 400 domain blocks)
 
 #### Example[​](https://subnomicon.subspace.network/docs/decex/staking#example) <a href="#example" id="example"></a>
 
-Operator _**𝑂**_ has staked _**100**_ ATC and registered as an operator with minimum nominator stake of _**10**_ _**ATC**_ and nomination tax of _**5%**_. The required storage fee reserve deposit is _**20%**_. Operator _**𝑂**_ has 2 nominators $$N_1$$ and $$N_2$$​ each staked _**50**_ ATC. Initially _**shares\_per\_atc=1**_, so _**O**_ gets 80 shares, and $$N_1$$​ and $$N_2$$ each get 40 shares and _**total\_shares=80+40+40=160**_ in the stake.\
-Each deposit transfers _**20%**_ towards a storage fee fund: _**O**_ reserves **20** ATC, $$N_1$$​ and $$N_2$$​ reserve **10** each, with total of **40** ATC reserved.
+Operator _**𝑂**_ has staked _**100**_ AI3 and registered as an operator with minimum nominator stake of _**10**_ _**AI3**_ and nomination tax of _**5%**_. The required storage fee reserve deposit is _**20%**_. Operator _**𝑂**_ has 2 nominators $$N_1$$ and $$N_2$$​ each staked _**50**_ AI3. Initially _**shares\_per\_AI3=1**_, so _**O**_ gets 80 shares, and $$N_1$$​ and $$N_2$$ each get 40 shares and _**total\_shares=80+40+40=160**_ in the stake.\
+Each deposit transfers _**20%**_ towards a storage fee fund: _**O**_ reserves **20** AI3, $$N_1$$​ and $$N_2$$​ reserve **10** each, with total of **40** AI3 reserved.
 
 The staking summary will look like this:
 
@@ -56,11 +56,11 @@ The staking summary will look like this:
 
 | Total stake | Total shares | Total storage fee deposits | Storage fee fund |
 | ----------- | ------------ | -------------------------- | ---------------- |
-| 160 ATC     | 160          | 40 ATC                     | 40 ATC           |
+| 160 AI3     | 160          | 40 AI3                     | 40 AI3           |
 
-In the next epoch, the pool has earned _**20**_ ATC of compute fees and refunded an extra _**4**_ ATC of storage fees. The operator took _**5%**_ of compute fees as tax (1 ATC) automatically restaked for 1 share and _**0.05**_ ATC deposited to storage fee fund. The pool stake is now _**160+20+1=181**_ ATC and storage reserve is now _**40+4=44**_ ATC. The pool end-of-epoch _**shares\_per\_atc**_ is now _**160/(160+20\*(1−0.05))=0.893855.**_ Notice that _**4**_ ATC of storage fees refunded do not count into _**shares\_per\_atc**_ calculation, which allows us to sustain stable stake distribution despite the fluctuating size of the storage fee fund.
+In the next epoch, the pool has earned _**20**_ AI3 of compute fees and refunded an extra _**4**_ AI3 of storage fees. The operator took _**5%**_ of compute fees as tax (1 AI3) automatically restaked for 1 share and _**0.05**_ AI3 deposited to storage fee fund. The pool stake is now _**160+20+1=181**_ AI3 and storage reserve is now _**40+4=44**_ AI3. The pool end-of-epoch _**shares\_per\_AI3**_ is now _**160/(160+20\*(1−0.05))=0.893855.**_ Notice that _**4**_ AI3 of storage fees refunded do not count into _**shares\_per\_AI3**_ calculation, which allows us to sustain stable stake distribution despite the fluctuating size of the storage fee fund.
 
-If a new nominator $$N_3$$​ stakes 33.6 ATC, 6.72 ATC will be transferred to the storage fee fund, and the _**shares**_ $$N_3$$​ will get is _**((33.6−6.72)\*0.893855)=24**_. The pool total stake becomes _**181+26.88=207.88 ATC**_, total shares _**160+24+1=185**_ and storage fee reserve _**50.72**_ ATC.
+If a new nominator $$N_3$$​ stakes 33.6 AI3, 6.72 AI3 will be transferred to the storage fee fund, and the _**shares**_ $$N_3$$​ will get is _**((33.6−6.72)\*0.893855)=24**_. The pool total stake becomes _**181+26.88=207.88 AI3**_, total shares _**160+24+1=185**_ and storage fee reserve _**50.72**_ AI3.
 
 At the end of the epoch, the updated staking summary for the next epoch will look like this:
 
@@ -71,13 +71,13 @@ At the end of the epoch, the updated staking summary for the next epoch will loo
 
 | Total stake | Total shares | Total storage fee deposits | Storage fee fund |
 | ----------- | ------------ | -------------------------- | ---------------- |
-| 207.88 ATC  | 185          | 46.72 ATC                  | 50.72 ATC        |
+| 207.88 AI3  | 185          | 46.72 AI3                  | 50.72 AI3        |
 
-Suppose after some time _**shares\_per\_atc**_ value of this pool becomes _**0.8**_ and the storage fee fund balance is **52** ATC. Suppose $$N_1$$ wants to "sell" _**withdraw\_shares=20**_. At the end of the epoch, the 20 shares will be unstaked, and the corresponding amount of **20/0.8=25 ATC** will be deducted from the pool's total stake. The total amount of credits $$N_1$$ will get is $$(withdraw\_shared/shares\_per\_atc) + storage\_fee\_fund\_balance * (storage\_fee\_deposit/total\_storage\_fee\_deposits) * (withdraw\_shares/shares) = 25 + 52 * (10/46.72) * 20/40 = 30.57 ATC$$
+Suppose after some time _**shares\_per\_AI3**_ value of this pool becomes _**0.8**_ and the storage fee fund balance is **52** AI3. Suppose $$N_1$$ wants to "sell" _**withdraw\_shares=20**_. At the end of the epoch, the 20 shares will be unstaked, and the corresponding amount of **20/0.8=25 AI3** will be deducted from the pool's total stake. The total amount of credits $$N_1$$ will get is $$(withdraw\_shared/shares\_per\_AI3) + storage\_fee\_fund\_balance * (storage\_fee\_deposit/total\_storage\_fee\_deposits) * (withdraw\_shares/shares) = 25 + 52 * (10/46.72) * 20/40 = 30.57 AI3$$
 
-If $$N_1$$wanted to withdraw all their stake and fees, that is sell all their _**withdraw\_shares=40**_ shares, they would get $$(40/0.8) + 52 * 10/46.72 * 40/40 = 61.13 ATC$$, earning _**11.13**_ ATC in fees. After waiting the locking period, the withdrawn amount can be unlocked in their account.
+If $$N_1$$wanted to withdraw all their stake and fees, that is sell all their _**withdraw\_shares=40**_ shares, they would get $$(40/0.8) + 52 * 10/46.72 * 40/40 = 61.13 AI3$$, earning _**11.13**_ AI3 in fees. After waiting the locking period, the withdrawn amount can be unlocked in their account.
 
-The example is intended for illustration, the actual calculation is performed with shannons $$(1 ATC = 10^{18}$$shannons).
+The example is intended for illustration, the actual calculation is performed with shannons $$(1 AI3 = 10^{18}$$shannons).
 
 ### Staking Epochs
 
@@ -94,4 +94,4 @@ Because of this, new operators must wait for the end of the current epoch to reg
 
 Token holders and farmers who have earned storage rewards can nominate operators to execute transactions. This system balances the power between nominating farmers (or holders) and operators, and both parties share the fees and the potential penalties (slashing). Nominated operators get a higher chance to produce blocks proportional to the amount of stake backing them, thus, higher revenues. Farmers and holders have the power to nominate operators they trust to execute transactions properly. On the other hand, operators compete to be nominated by providing good service, maintaining a good reputation within the community, and having reasonable commission. Nominators also retain the power to withdraw their nominations at any time, ensuring operators remain accountable.
 
-This two-tiered structure provides robust security guarantees. By enabling the consolidation of vast quantities of stake — far exceeding the ATC holdings of any individual party — it creates significant barriers for malicious actors trying to elect dishonest operators. Gaining the necessary backing requires building a considerable reputation, making it challenging for adversaries. Additionally, attacking the system would be prohibitively expensive, leading to large amounts of stake slashed. We anticipate that a substantial portion of the ATC supply will be staked in the NPoS system at any time.
+This two-tiered structure provides robust security guarantees. By enabling the consolidation of vast quantities of stake — far exceeding the AI3 holdings of any individual party — it creates significant barriers for malicious actors trying to elect dishonest operators. Gaining the necessary backing requires building a considerable reputation, making it challenging for adversaries. Additionally, attacking the system would be prohibitively expensive, leading to large amounts of stake slashed. We anticipate that a substantial portion of the AI3 supply will be staked in the NPoS system at any time.
