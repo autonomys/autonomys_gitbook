@@ -1,5 +1,5 @@
 ---
-description: An introduction from Subspace co-founder Jeremiah Wagstaff
+description: An Introduction from Subspace Co-founder Jeremiah Wagstaff
 ---
 
 # A Preface for OG Subspacers

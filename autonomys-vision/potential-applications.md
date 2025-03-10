@@ -1,12 +1,50 @@
+---
+description: Demos, examples and suggested applications
+---
+
 # Use-Cases
+
+## Demos
+
+{% embed url="https://youtu.be/2ot3RPp7i8U?si=obysSmUIA9Din-Pd" %}
+Autonomys Auto Chain Agent Demo
+{% endembed %}
+
+{% embed url="https://youtu.be/rQMahIUgSHw?si=EC-0mtOkyR-7Dlu_" %}
+RAG and Private Compute on Autonomys DSN Demo
+{% endembed %}
+
+## Contents
+
+A. [Future-Proofing Storage for AI3.0](potential-applications.md#a.-future-proofing-storage-for-ai3.0)
+
+B. [Content Provenance and Data Sovereignty](potential-applications.md#b.-content-provenance-and-data-sovereignty)
+
+C. [Digital Identity](potential-applications.md#c.-digital-identity)
+
+D. [Proof-of-Personhood](potential-applications.md#d.-proof-of-personhood)
+
+E. [Decentralized Reputation Systems](potential-applications.md#e.-decentralized-reputation-systems)
+
+F. [Decentralized Learning and Proof-of-Training](potential-applications.md#f.-decentralized-learning-and-proof-of-training)
+
+G. [Data Contribution and Compensation](potential-applications.md#g.-data-contribution-and-compensation)
+
+H. [Agent Infrastructure and Multi-Agent Systems](potential-applications.md#h.-agent-infrastructure-and-multi-agent-systems)
+
+I. [Agent Identities](potential-applications.md#i.-agent-identities)
+
+J. [Open Collective Intelligence and the Global DAO Mesh](potential-applications.md#j.-open-collective-intelligence-and-the-global-dao-mesh)
+
+K. [Verifiable AI3.0 Infrastructure as a Public Good](potential-applications.md#k.-verifiable-ai3.0-infrastructure-as-a-public-good)
 
 ## A. Future-Proofing Storage for AI3.0
 
 The advent of AI3.0 brings with it an unprecedented demand for vast, permanent decentralized storage capable of rapid data retrieval. As AI systems become more sophisticated and personalized, they require access to enormous datasets for training, fine-tuning, and real-time decision-making. Traditional centralized storage systems are ill-equipped to handle the scalability, security and accessibility requirements of this new paradigm.
 
-Decentralized storage solutions offer several key advantages: ensuring data integrity and availability through redundancy; mitigating single points of failure; and allowing for more equitable distribution of resources. Moreover, the permanence of data storage is crucial for maintaining historical records, enabling long-term learning, and supporting account ability in AI decision-making processes. Rapid data retrieval is equally essential, as AI3.0 agents must be able to access relevant information swiftly to provide real-time responses and make informed decisions. This combination of vast capacity, permanence, decentralization, and speed is fundamental to realizing the full potential of AI3.0—where personalized Autonomys agents operate efficiently and verifiably at scale.
+Decentralized storage solutions offer several key advantages: ensuring data integrity and availability through redundancy; mitigating single points of failure; and allowing for more equitable distribution of resources. Moreover, the permanence of data storage is crucial for maintaining historical records, enabling long-term learning, and supporting accountability in AI decision-making processes. Rapid data retrieval is equally essential, as AI3.0 agents must be able to access relevant information swiftly to provide real-time responses and make informed decisions. This combination of vast capacity, permanence, decentralization, and speed is fundamental to realizing the full potential of AI3.0—where personalized Autonomys agents operate efficiently and verifiably at scale.
 
-Autonomys addresses this growing demand via our super-fast, hyper-scalable, permanent [distributed storage network (DSN)](../subspace-protocol/network-architecture/distributed-storage-network.md) and content-delivery network (CDN) supported by multiple reliability layers; secured by PoAS consensus; and served by thousands of easy-to-setup nodes worldwide. At the core of the Autonomys economy is the concept of data sovereignty, enabled by our vast decentralized storage and systems for content contribution, provenance, and compensation. This revolutionary approach to understanding and managing personal information and intellectual property—where individuals retain control over their data assets and can opt to monetize them for AI training and optimization purposes—pioneers a novel economic model where humans may choose to share their personal data and receive fair compensation for the value their data provides in enhancing AI systems, rather than having their information exploited without remuneration, as is currently the case.
+Autonomys addresses this growing demand via our super-fast, hyper-scalable, permanent [distributed storage network (DSN)](../autonomys-network/distributed-storage-network.md) and content-delivery network (CDN) supported by multiple reliability layers; secured by PoAS consensus; and served by thousands of easy-to-setup nodes worldwide. At the core of the Autonomys economy is the concept of data sovereignty, enabled by our vast decentralized storage and systems for content contribution, provenance, and compensation. This revolutionary approach to understanding and managing personal information and intellectual property—where individuals retain control over their data assets and can opt to monetize them for AI training and optimization purposes—pioneers a novel economic model where humans may choose to share their personal data and receive fair compensation for the value their data provides in enhancing AI systems, rather than having their information exploited without remuneration, as is currently the case.
 
 ## B. Content Provenance and Data Sovereignty
 
@@ -14,7 +52,7 @@ Data sovereignty—the ability of individuals to control and maintain authority 
 
 ## C. Digital Identity
 
-Autonomys’ secure protocol for the provision of decentralized digital identities—Autonomys Identity ([Auto ID](../autonomys-solutions/autoid/))—simultaneously allows for the authentication of AI-generated content and permissioning of agentic actions. Utilizing advanced cryptographic techniques, our robust self-sovereign identity (SSI) framework (deployed as a registered runtime on Autonomys’ domain layer) enables individuals to verify their identity without resorting to invasive biometric procedures. This foundational of digital trust is crucial for facilitating economic collaboration between humans and AI.
+Autonomys’ secure protocol for the provision of decentralized digital identities—Autonomys Identity ([Auto ID](../auto-suite/autoid/))—simultaneously allows for the authentication of AI-generated content and permissioning of agentic actions. Utilizing advanced cryptographic techniques, our robust self-sovereign identity (SSI) framework (deployed as a registered runtime on Autonomys’ domain layer) enables individuals to verify their identity without resorting to invasive biometric procedures. This foundational of digital trust is crucial for facilitating economic collaboration between humans and AI.
 
 Key properties of the Auto ID system include:
 
@@ -32,7 +70,7 @@ Autonomys also offers the ability to attach cryptographic identity claims to an 
 
 ## D. Proof-of-Personhood
 
-As we transition into an agent-integrated world, the ability to distinguish between humans and artificial entities becomes increasingly crucial. [Auto ID](../autonomys-solutions/autoid/) implements proof-of-personhood (PoP) via our composable, probabilistic PoP protocol [Auto Score](../autonomys-solutions/auto-sdk/auto-score.md). This system is designed to address the growing need for verifiable human identity in digital spaces, particularly in scenarios where AI agents and humans interact seamlessly. A strong PoP system is important in the AI3.0 era for several reasons:
+As we transition into an agent-integrated world, the ability to distinguish between humans and artificial entities becomes increasingly crucial. [Auto ID](../auto-suite/autoid/) implements proof-of-personhood (PoP) via our composable, probabilistic PoP protocol [Auto Score](../auto-suite/autoid/auto-score.md). This system is designed to address the growing need for verifiable human identity in digital spaces, particularly in scenarios where AI agents and humans interact seamlessly. A strong PoP system is important in the AI3.0 era for several reasons:
 
 * _Preventing AI Impersonation:_ As AI becomes more sophisticated, the risk of AI systems impersonating humans increases. A strong PoP system helps maintain the integrity of human-to-human interactions in digital spaces.
 * _Ensuring Fair Resource Distribution:_ In a world where AI agents could potentially overwhelm systems, PoP ensures that resources and opportunities are fairly distributed among genuine human users.
@@ -40,7 +78,7 @@ As we transition into an agent-integrated world, the ability to distinguish betw
 * _Preserving Human-Centric Economies:_ As AI agents become more prevalent in economic systems, PoP helps maintain spaces for human economic activity and prevents AI from dominating marketplaces.
 * _Ethical AI Development:_ PoP systems can help ensure that AI training data comes from verified human sources, promoting more ethical and representative AI development.
 
-[Auto Score](../autonomys-solutions/auto-sdk/auto-score.md) leverages pre-existing evidence of personhood and zero-knowledge proofs (ZKPs) to generate privacy preserving, verifiable credentials that combine to offer a probabilistic proof-of-personhood score. Supporting ZKP-secured e-passport verification as a primary personhood factor, users need only scan the NFC chip in their passport and prove the correctness of the signature in a ZK-proof to achieve a high Auto Score. When combined with liveness checks, ZK-passport tech presents the strongest evidence of unique personhood and contributes to the highest possible Auto Score.
+[Auto Score](../auto-suite/autoid/auto-score.md) leverages pre-existing evidence of personhood and zero-knowledge proofs (ZKPs) to generate privacy preserving, verifiable credentials that combine to offer a probabilistic proof-of-personhood score. Supporting ZKP-secured e-passport verification as a primary personhood factor, users need only scan the NFC chip in their passport and prove the correctness of the signature in a ZK-proof to achieve a high Auto Score. When combined with liveness checks, ZK-passport tech presents the strongest evidence of unique personhood and contributes to the highest possible Auto Score.
 
 For applications that do not require government-grade identification, and users who do not possess or want to associate one with their Auto ID, Auto Score accepts alternative personhood factors. These include credit cards, social media accounts, and participation in decentralized networks. As a probabilistic PoP protocol, Auto Score functions by aggregating and evaluating various pieces of evidence supporting an entity’s claim to personhood. Each piece of evidence is assigned a weight based on its reliability and difficulty to forge. This evidence is shared utilizing ZKPs, allowing users to selectively share specific details, such as age of nationality, or prove their possession of credentials without revealing the underlying data to a verifier. Autonomys then calculates a composite score representing the probability of the user being a unique human using these weighted pieces of evidence. This score updates as users add or remove credentials, or as their digital interactions evolve, providing a dynamic measure of digital personhood.
 
@@ -93,7 +131,7 @@ Decentralized learning systems integrated with Auto ID would benefit from a pers
 
 Consumer devices, industrial hardware and other electronic equipment generate and record vast amounts of information about the world which gets discarded after expending its usefulness to the device owner. In some cases, the data is retained by the device manufacturer in a manner opaque to the device owner. Since AI models have already virtually exhausted the world’s existing Internet-accessible data sources, the often real-time data provided by Internet-of-Things (IoT)-enabled hardware like these is the next step in data acquisition for machine learning.
 
-The Auto ID framework can be leveraged to enable users to participate in decentralized learning initiatives (such as federated learning and swarm learning) by contributing their data to machine learning models, while maintaining privacy and control over their personal information. Decentralized learning allows for model training on distributed datasets without the need for centralized data storage, thereby mitigating risks associated with data breaches and unauthorized access. The integration of decentralized learning with blockchain-based identity and compensation mechanisms represents a significant step towards a more equitable and decentralized AI ecosystem. Moreover, it creates a new paradigm for data ownership and monetization, where individuals can directly benefit from the value their data creates in AI systems. This approach aligns with the principles of [data sovereignty](https://www.aeaweb.org/articles?id=10.1257/pandp.20181003) and deAI, and addresses growing concerns about data privacy and the [centralization](https://books.google.co.uk/books/about/Who\_Owns\_the\_Future.html?id=obDsAgAAQBAJ\&redir\_esc=y) of AI development.
+The Auto ID framework can be leveraged to enable users to participate in decentralized learning initiatives (such as federated learning and swarm learning) by contributing their data to machine learning models, while maintaining privacy and control over their personal information. Decentralized learning allows for model training on distributed datasets without the need for centralized data storage, thereby mitigating risks associated with data breaches and unauthorized access. The integration of decentralized learning with blockchain-based identity and compensation mechanisms represents a significant step towards a more equitable and decentralized AI ecosystem. Moreover, it creates a new paradigm for data ownership and monetization, where individuals can directly benefit from the value their data creates in AI systems. This approach aligns with the principles of [data sovereignty](https://www.aeaweb.org/articles?id=10.1257/pandp.20181003) and deAI, and addresses growing concerns about data privacy and the [centralization](https://books.google.co.uk/books/about/Who_Owns_the_Future.html?id=obDsAgAAQBAJ\&redir_esc=y) of AI development.
 
 To incentivize high-quality data contribution and ensure fair compensation, the Autonomys Network will implement a [data valuation](https://doi.org/10.48550/arXiv.2305.01657) framework inspired by [Shapley-value-based](https://proceedings.mlr.press/v97/ghorbani19c.html) methods, which quantifies individual contributions to the decentralized learning process. It considers multiple factors in its valuation algorithm, including data quality, uniqueness, relevance to the specific model being trained, and the impact on model performance improvements. This approach aims to accurately reflect the true value of each user’s data contribution, moving beyond simplistic metrics such as data volume.
 
