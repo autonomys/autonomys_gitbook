@@ -20,6 +20,12 @@ The Autonomys Network DSN is comprised of multiple distinct layers that together
 
 <figure><img src="../.gitbook/assets/infographic_cache-layers (1).png" alt=""><figcaption><p>Distributed Storage Network</p></figcaption></figure>
 
+## Information for Developers wishing to utilize the DSN (Distributed Storage Network)
+
+Developer Documentation is available via [Autonomys Developer Hub](https://develop.autonomys.xyz/).&#x20;
+
+Auto Drive (DSN) API documentation is available [here](https://mainnet.auto-drive.autonomys.xyz/api/docs).&#x20;
+
 ## (L3) Content delivery network (CDN)
 
 The topmost layer of our DSN is a content delivery network (CDN) designed for optimal performance under optimistic network conditions. The CDN layer (operated by a large permissioned network of nodes) significantly enhances retrieval speed and provides robust performance under normal network conditions. This layer provides web2-like performance for data retrieval:
