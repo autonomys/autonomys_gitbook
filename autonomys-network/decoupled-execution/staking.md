@@ -4,7 +4,7 @@ description: An overview of staking on the Autonomys Network
 
 # Staking
 
-The Autonomys Network relies on staking from both domain [operators](../network-architecture.md) and nominators (who are mostly farmers) to secure the network. Under Autonomys' Nominated Proof-of-Stake (NPoS) algorithm, nominators endorse operators who execute transactions and produce blocks, with operator stakes acting as nomination pools. NPoS allows all $AI3 token holders with the required minimum stake (MinStake) to participate in staking and earn a yield on their holdings, maintaining high levels of network security by increasing total value locked (TVL). A significant portion of the total $AI3 supply is likely to be staked in the NPoS system at any one time.
+The Autonomys Network relies on staking from both domain [operators](../nodes.md) and nominators (who are mostly farmers) to secure the network. Under Autonomys' Nominated Proof-of-Stake (NPoS) algorithm, nominators endorse operators who execute transactions and produce blocks, with operator stakes acting as nomination pools. NPoS allows all $AI3 token holders with the required minimum stake (MinStake) to participate in staking and earn a yield on their holdings, maintaining high levels of network security by increasing total value locked (TVL). A significant portion of the total $AI3 supply is likely to be staked in the NPoS system at any one time.
 
 Autonomys uses a two-tier staking model:
 

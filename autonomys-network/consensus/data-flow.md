@@ -9,7 +9,7 @@ From the moment a transaction is submitted to the Autonomys Network to the point
 1. A transaction is validated and included in a consensus chain block directly or through the inclusion of [domain](../decoupled-execution/domains/) bundles.
 2. The transactions and bundles in the block are executed, activating a global domain state change.
 3. Once the block reaches a certain depth (currently 100 blocks), it is [archived](proof-of-archival-storage/archiving.md) alongside other blocks, becoming part of the chain's archival history.
-4. Newly archived pieces are added to [farmers](../network-architecture.md)' caches through the [distributed storage network (DSN)](../distributed-storage-network.md) and replicated multiple times throughout the network.
+4. Newly archived pieces are added to [farmers](../nodes.md)' caches through the [distributed storage network (DSN)](../distributed-storage-network.md) and replicated multiple times throughout the network.
 5. Pieces are encoded into farmer [plots](proof-of-archival-storage/plotting.md) on disk for permanent storage.
 6. When a client requests the archived transaction data, the original data is reconstructed from archived pieces on the fly.
 

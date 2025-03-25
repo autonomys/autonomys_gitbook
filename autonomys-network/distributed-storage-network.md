@@ -6,7 +6,7 @@ description: >-
 
 # Distributed Storage Network (DSN)
 
-Autonomys Network chain data is distributed to [farmers](../auto-suite/spaceacrescli/farmers.md) for storing and serving as pieces of the blockchain history via our distributed storage network (DSN). Autonomys introduces a DSN to ensure all chain data is permanently stored in a load-balanced, fault-tolerant, and efficiently recoverable manner across all farmers (no matter how large it grows), and the consistency of storage over time, given the heterogeneous storage capabilities of farmers. Our DSN design guarantees the following properties:
+Autonomys Network chain data is distributed to [farmers](../auto-suite/spaceacres-cli/farmers.md) for storing and serving as pieces of the blockchain history via our distributed storage network (DSN). Autonomys introduces a DSN to ensure all chain data is permanently stored in a load-balanced, fault-tolerant, and efficiently recoverable manner across all farmers (no matter how large it grows), and the consistency of storage over time, given the heterogeneous storage capabilities of farmers. Our DSN design guarantees the following properties:
 
 * _Permissionlessness_: The system operates without central coordination, accounting for dynamic farmer availability and non-uniform growth of historical data over time.
 * _Retrievability_: Both full and single-piece retrieval are facilitated, with requests balanced evenly across all farmers, ensuring that the overhead of serving history remains negligible.
@@ -16,7 +16,7 @@ Autonomys Network chain data is distributed to [farmers](../auto-suite/spaceacre
 
 These features enable the historical data to expand beyond the storage capacity of any individual farmer, while allowing farmers to allocate storage resources according to their individual capabilities.
 
-The Autonomys Network DSN is comprised of multiple distinct layers that together serve historical data pieces to requesting [nodes](network-architecture.md), with each layer contributing to different aspects of data availability, durability and efficient retrievability. This multi-layered approach was developed to balance security and performance, and interestingly, bears similarities to other recent data availability solutions developed independently from our approach, such as [Tiramisu](https://doi.org/10.48550/arXiv.2308.07163).
+The Autonomys Network DSN is comprised of multiple distinct layers that together serve historical data pieces to requesting [nodes](nodes.md), with each layer contributing to different aspects of data availability, durability and efficient retrievability. This multi-layered approach was developed to balance security and performance, and interestingly, bears similarities to other recent data availability solutions developed independently from our approach, such as [Tiramisu](https://doi.org/10.48550/arXiv.2308.07163).
 
 <figure><img src="../.gitbook/assets/infographic_cache-layers (1).png" alt=""><figcaption><p>Distributed Storage Network</p></figcaption></figure>
 

@@ -12,17 +12,17 @@ The [Autonomys Network](terminology.md#autonomys-network)'s native utility token
 
 The smallest unit of [$AI3](terminology.md#usdai3), equal to $$10^{-18}$$$AI3 (0.000000000000000001 $AI3). Named after Claude Shannon, a mathematician, electrical engineer, and cryptographer known as the "father of information theory". Shannon's work was central to the rise of digital computing and laid the foundations for the information age.
 
-## [AI3.0](../autonomys-vision/introtoai3.md)
+## [AI3.0](../autonomys-vision/intro-to-ai3.md)
 
 Decentralized, human-centric, agentic artificial intelligence.
 
-## [Autonomys Network](architecture-overview.md)
+## [Autonomys Network](architecture.md)
 
-Hyper-scalable decentralized AI (deAI) [infrastructure stack](architecture-overview.md) encompassing high-throughput permanent [distributed storage](terminology.md#dsn), data availability and access, and [modular execution](terminology.md#domain)—all the essential components to [build](../auto-suite/auto-sdk.md) and deploy secure super dApps (AI-powered dApps) and advanced on-chain agents.
+Hyper-scalable decentralized AI (deAI) [infrastructure stack](architecture.md) encompassing high-throughput permanent [distributed storage](terminology.md#dsn), data availability and access, and [modular execution](terminology.md#domain)—all the essential components to [build](../auto-suite/auto-sdk.md) and deploy secure super dApps (AI-powered dApps) and advanced on-chain agents.
 
 ## [Auto Suite](broken-reference)
 
-Autonomys' product suite, including the [Auto SDK](../auto-suite/auto-sdk.md) and [Auto ID](../auto-suite/autoid/) for developers, and [Space Acres](../auto-suite/spaceacrescli/) and the [Autonomys CLI](terminology.md#autonomys-cli) for [farmers](terminology.md#farmer) and [operators](terminology.md#operator).
+Autonomys' product suite, including the [Auto SDK](../auto-suite/auto-sdk.md) and [Auto ID](../auto-suite/auto-id/) for developers, and [Space Acres](../auto-suite/spaceacres-cli/) and the [Autonomys CLI](terminology.md#autonomys-cli) for [farmers](terminology.md#farmer) and [operators](terminology.md#operator).
 
 ## Blockchain
 
@@ -62,11 +62,11 @@ A block interval between each [stake](terminology.md#staking) allocation readjus
 
 Distributed storage network composed of [farmers](terminology.md#farmer) that have [plotted](terminology.md#plotting) [pieces](terminology.md#piece) of [archived history](terminology.md#archived-history) and serve them to [clients](terminology.md#client). The DSN handles data storage, retrieval and replication across the network.
 
-## [Node](network-architecture.md)
+## [Node](nodes.md)
 
-A participant in [Autonomys](terminology.md#autonomys-network)' peer-to-peer (P2P) network. The main node-running roles are [farmer](terminology.md#farmer), [operator](terminology.md#operator) and [timekeeper](terminology.md#timekeeper). [Nodes](network-architecture.md) connects to other nodes via the P2P networking layer.
+A participant in [Autonomys](terminology.md#autonomys-network)' peer-to-peer (P2P) network. The main node-running roles are [farmer](terminology.md#farmer), [operator](terminology.md#operator) and [timekeeper](terminology.md#timekeeper). [Nodes](nodes.md) connects to other nodes via the P2P networking layer.
 
-### [Farmer](../auto-suite/spaceacrescli/farmers.md)
+### [Farmer](../auto-suite/spaceacres-cli/farmers.md)
 
 A [node](terminology.md#node)-running role responsible for maintaining the [history](terminology.md#history) and security of the [Autonomys Network](terminology.md#autonomys-network) [consensus chain](terminology.md#consensus-chain) and providing storage to the [DSN](terminology.md#dsn). Farmers earn [$AI3](terminology.md#usdai3) by pledging disk space to the network, [plotting](terminology.md#plotting) [pieces](terminology.md#piece) of [archived history](terminology.md#archived-history) to disk, [farming](terminology.md#farming) the created [plot](terminology.md#plot) for block and vote rewards by producing blocks for consensus, and joining the DSN as nodes for data retrieval.
 
@@ -143,7 +143,7 @@ The process of [farmers](terminology.md#farmer) participating in [Subspace](term
 
 The process of reconverting [archived history segments](terminology.md#id-2.-archived-history-segment) to [recorded history segments](terminology.md#id-1.-recorded-history-segment) for seeding new [nodes](terminology.md#node).
 
-### [Operator](../auto-suite/spaceacrescli/operators.md)
+### [Operator](../auto-suite/spaceacres-cli/operators.md)
 
 A [node](terminology.md#node)-running role responsible for running computation on [domains](terminology.md#domains) on the [Autonomys Network](terminology.md#autonomys-network). [Staked](terminology.md#staking) operators earn [$AI3](terminology.md#usdai3) by providing compute to the network, running [state](terminology.md#state) transitions, maintaining state by bundling transactions, validating state [commitments](terminology.md#commitment), and deterministically executing transaction bundles on [domain chains](terminology.md#appchain) in the order defined by the [farmers](terminology.md#farmer)' [consensus chain](terminology.md#consensus-chain) in exchange for transaction/compute fees from [clients](terminology.md#client).
 
@@ -159,9 +159,9 @@ The process of [nominators](terminology.md#nominator) pledging [$AI3](terminolog
 
 A [node](terminology.md#node)-running role responsible for running the [Proof-of-Time](consensus/proof-of-time.md) chain and maintaining the randomness beacon for the [Autonomys Network](terminology.md#autonomys-network) [consensus chain](terminology.md#consensus-chain).
 
-## [Nominator](../auto-suite/spaceacrescli/operators.md)
+## [Nominator](../auto-suite/spaceacres-cli/operators.md)
 
-[$AI3](terminology.md#usdai3) holders that [nominate](../auto-suite/spaceacrescli/operators.md) tokens towards [operators](terminology.md#operator) and earn a share of the fees as [staking](terminology.md#staking) rewards.
+[$AI3](terminology.md#usdai3) holders that [nominate](../auto-suite/spaceacres-cli/operators.md) tokens towards [operators](terminology.md#operator) and earn a share of the fees as [staking](terminology.md#staking) rewards.
 
 ## [PoAS](consensus/)
 

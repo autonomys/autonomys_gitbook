@@ -45,7 +45,7 @@ While conceptually similar to rollups on Ethereum, such as Optimism, DecEx domai
 
 Domains are the logical extension of the basic DecEx framework, taking it from a single, monolithic execution environment to a modular, interoperable network of namespaced execution environments. Each domain is its own programmable layer-2 rollup, or configurable application-specific blockchain (app-chain), that relies on the consensus chain for consensus, decentralized sequencing, data availability, and settlement. However, a smart contract, (super) dApp, or agent can use multiple domains to achieve a complex task, enabled by our unique cross-domain communication.
 
-## [Roles](../network-architecture.md)
+## [Roles](../nodes.md)
 
 ### Farmer
 

@@ -24,7 +24,7 @@ The Auto Agents Framework is still in the early stages of development. It curren
 
 * 🤖 Autonomous social media engagement
 * 🧠 Permanent agent memory storage
-* 🔄 Built-in workflow system
+* 🔄 Built-in orchestration system
 * 🐦 X/Twitter integration (with more platforms planned)
 * 🎭 Customizable agent personalities
 * 🛠️ Extensible tool system
@@ -78,6 +78,7 @@ The verifiable, permanent on-chain memory provided by the Autonomys Agent Framew
   * Market analysis agents with verifiable decision trails
   * Risk assessment systems with permanent audit records
   * Trading strategy verification and historical analysis
+  * Resolving indeterminate prediction market results with transparent, on-chain reasoning
 * **Social Media and Content Management**
   * Content moderation with transparent reasoning
   * Engagement analysis with permanent records

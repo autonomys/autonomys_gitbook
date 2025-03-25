@@ -4,7 +4,7 @@ description: An overview of Autonomys' software development kit
 
 # Auto SDK
 
-The [**Auto SDK**](http://develop.autonomys.xyz/sdk) is a powerful toolkit of JavaScript/TypeScript packages for developers to seamlessly integrate with the Autonomys Network. It provides simple APIs for interacting with the [_consensus_](../autonomys-network/consensus/) layer, utilizing [_data storage_](../autonomys-network/distributed-storage-network.md), managing [_decentralized identities_](autoid/), and (soon) handling [_$AI3 payments_](../autonomys-network/rewards-and-fees/), in addition to general-purpose functions essential for building decentralized applications (dApps)—all in JavaScript and TypeScript—abstracting away the complexities of blockchain and smart contracts.
+The [**Auto SDK**](http://develop.autonomys.xyz/sdk) is a powerful toolkit of JavaScript/TypeScript packages for developers to seamlessly integrate with the Autonomys Network. It provides simple APIs for interacting with the [_consensus_](../autonomys-network/consensus/) layer, utilizing [_data storage_](../autonomys-network/distributed-storage-network.md), managing [_decentralized identities_](auto-id/), and (soon) handling [_$AI3 payments_](../autonomys-network/rewards-and-fees/), in addition to general-purpose functions essential for building decentralized applications (dApps)—all in JavaScript and TypeScript—abstracting away the complexities of blockchain and smart contracts.
 
 ## Key features
 

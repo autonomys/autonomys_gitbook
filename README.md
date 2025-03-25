@@ -26,7 +26,7 @@ Learn about what Autonomys is building via our learning resources.
 
 1. [**AUTONOMYS VISION**](broken-reference) — Read about AI3.0, the Age of Autonomy & Autonomys' potential applications
 2. [**AUTONOMYS NETWORK**](broken-reference) — Read about the Subspace Protocol, our network architecture, (including our unique PoAS consensus, DSN & DecEx) & protocol economics for $AI3
-3. [**AUTO SUITE**](broken-reference) — Read about Autonomys' suite of software and products, including Auto ID, Auto SDK, Space Acres & the Auto PKI&#x20;
+3. [**AUTO SUITE**](broken-reference) — Read about Autonomys' suite of software and products, including the Auto SDK, Auto Agents Framework, Auto ID & Space Acres
 4. [**ADDITIONAL LEARNING**](broken-reference) — Read about the basics of blockchain, web3, AI, agents & digital identity
 
 Join our [Discord](https://discord.com/invite/subspace-network) and message the team if you have any questions, and visit this [section](broken-reference/) to provide feedback.

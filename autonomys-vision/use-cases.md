@@ -16,27 +16,27 @@ RAG and Private Compute on Autonomys DSN Demo
 
 ## Contents
 
-A. [Future-Proofing Storage for AI3.0](potential-applications.md#a.-future-proofing-storage-for-ai3.0)
+A. [Future-Proofing Storage for AI3.0](use-cases.md#a.-future-proofing-storage-for-ai3.0)
 
-B. [Content Provenance and Data Sovereignty](potential-applications.md#b.-content-provenance-and-data-sovereignty)
+B. [Content Provenance and Data Sovereignty](use-cases.md#b.-content-provenance-and-data-sovereignty)
 
-C. [Digital Identity](potential-applications.md#c.-digital-identity)
+C. [Digital Identity](use-cases.md#c.-digital-identity)
 
-D. [Proof-of-Personhood](potential-applications.md#d.-proof-of-personhood)
+D. [Proof-of-Personhood](use-cases.md#d.-proof-of-personhood)
 
-E. [Decentralized Reputation Systems](potential-applications.md#e.-decentralized-reputation-systems)
+E. [Decentralized Reputation Systems](use-cases.md#e.-decentralized-reputation-systems)
 
-F. [Decentralized Learning and Proof-of-Training](potential-applications.md#f.-decentralized-learning-and-proof-of-training)
+F. [Decentralized Learning and Proof-of-Training](use-cases.md#f.-decentralized-learning-and-proof-of-training)
 
-G. [Data Contribution and Compensation](potential-applications.md#g.-data-contribution-and-compensation)
+G. [Data Contribution and Compensation](use-cases.md#g.-data-contribution-and-compensation)
 
-H. [Agent Infrastructure and Multi-Agent Systems](potential-applications.md#h.-agent-infrastructure-and-multi-agent-systems)
+H. [Agent Infrastructure and Multi-Agent Systems](use-cases.md#h.-agent-infrastructure-and-multi-agent-systems)
 
-I. [Agent Identities](potential-applications.md#i.-agent-identities)
+I. [Agent Identities](use-cases.md#i.-agent-identities)
 
-J. [Open Collective Intelligence and the Global DAO Mesh](potential-applications.md#j.-open-collective-intelligence-and-the-global-dao-mesh)
+J. [Open Collective Intelligence and the Global DAO Mesh](use-cases.md#j.-open-collective-intelligence-and-the-global-dao-mesh)
 
-K. [Verifiable AI3.0 Infrastructure as a Public Good](potential-applications.md#k.-verifiable-ai3.0-infrastructure-as-a-public-good)
+K. [Verifiable AI3.0 Infrastructure as a Public Good](use-cases.md#k.-verifiable-ai3.0-infrastructure-as-a-public-good)
 
 ## A. Future-Proofing Storage for AI3.0
 
@@ -52,7 +52,7 @@ Data sovereignty—the ability of individuals to control and maintain authority 
 
 ## C. Digital Identity
 
-Autonomys’ secure protocol for the provision of decentralized digital identities—Autonomys Identity ([Auto ID](../auto-suite/autoid/))—simultaneously allows for the authentication of AI-generated content and permissioning of agentic actions. Utilizing advanced cryptographic techniques, our robust self-sovereign identity (SSI) framework (deployed as a registered runtime on Autonomys’ domain layer) enables individuals to verify their identity without resorting to invasive biometric procedures. This foundational of digital trust is crucial for facilitating economic collaboration between humans and AI.
+Autonomys’ secure protocol for the provision of decentralized digital identities—Autonomys Identity ([Auto ID](../auto-suite/auto-id/))—simultaneously allows for the authentication of AI-generated content and permissioning of agentic actions. Utilizing advanced cryptographic techniques, our robust self-sovereign identity (SSI) framework (deployed as a registered runtime on Autonomys’ domain layer) enables individuals to verify their identity without resorting to invasive biometric procedures. This foundational of digital trust is crucial for facilitating economic collaboration between humans and AI.
 
 Key properties of the Auto ID system include:
 
@@ -70,7 +70,7 @@ Autonomys also offers the ability to attach cryptographic identity claims to an 
 
 ## D. Proof-of-Personhood
 
-As we transition into an agent-integrated world, the ability to distinguish between humans and artificial entities becomes increasingly crucial. [Auto ID](../auto-suite/autoid/) implements proof-of-personhood (PoP) via our composable, probabilistic PoP protocol [Auto Score](../auto-suite/autoid/auto-score.md). This system is designed to address the growing need for verifiable human identity in digital spaces, particularly in scenarios where AI agents and humans interact seamlessly. A strong PoP system is important in the AI3.0 era for several reasons:
+As we transition into an agent-integrated world, the ability to distinguish between humans and artificial entities becomes increasingly crucial. [Auto ID](../auto-suite/auto-id/) implements proof-of-personhood (PoP) via our composable, probabilistic PoP protocol [Auto Score](../auto-suite/auto-id/auto-score.md). This system is designed to address the growing need for verifiable human identity in digital spaces, particularly in scenarios where AI agents and humans interact seamlessly. A strong PoP system is important in the AI3.0 era for several reasons:
 
 * _Preventing AI Impersonation:_ As AI becomes more sophisticated, the risk of AI systems impersonating humans increases. A strong PoP system helps maintain the integrity of human-to-human interactions in digital spaces.
 * _Ensuring Fair Resource Distribution:_ In a world where AI agents could potentially overwhelm systems, PoP ensures that resources and opportunities are fairly distributed among genuine human users.
@@ -78,7 +78,7 @@ As we transition into an agent-integrated world, the ability to distinguish betw
 * _Preserving Human-Centric Economies:_ As AI agents become more prevalent in economic systems, PoP helps maintain spaces for human economic activity and prevents AI from dominating marketplaces.
 * _Ethical AI Development:_ PoP systems can help ensure that AI training data comes from verified human sources, promoting more ethical and representative AI development.
 
-[Auto Score](../auto-suite/autoid/auto-score.md) leverages pre-existing evidence of personhood and zero-knowledge proofs (ZKPs) to generate privacy preserving, verifiable credentials that combine to offer a probabilistic proof-of-personhood score. Supporting ZKP-secured e-passport verification as a primary personhood factor, users need only scan the NFC chip in their passport and prove the correctness of the signature in a ZK-proof to achieve a high Auto Score. When combined with liveness checks, ZK-passport tech presents the strongest evidence of unique personhood and contributes to the highest possible Auto Score.
+[Auto Score](../auto-suite/auto-id/auto-score.md) leverages pre-existing evidence of personhood and zero-knowledge proofs (ZKPs) to generate privacy preserving, verifiable credentials that combine to offer a probabilistic proof-of-personhood score. Supporting ZKP-secured e-passport verification as a primary personhood factor, users need only scan the NFC chip in their passport and prove the correctness of the signature in a ZK-proof to achieve a high Auto Score. When combined with liveness checks, ZK-passport tech presents the strongest evidence of unique personhood and contributes to the highest possible Auto Score.
 
 For applications that do not require government-grade identification, and users who do not possess or want to associate one with their Auto ID, Auto Score accepts alternative personhood factors. These include credit cards, social media accounts, and participation in decentralized networks. As a probabilistic PoP protocol, Auto Score functions by aggregating and evaluating various pieces of evidence supporting an entity’s claim to personhood. Each piece of evidence is assigned a weight based on its reliability and difficulty to forge. This evidence is shared utilizing ZKPs, allowing users to selectively share specific details, such as age of nationality, or prove their possession of credentials without revealing the underlying data to a verifier. Autonomys then calculates a composite score representing the probability of the user being a unique human using these weighted pieces of evidence. This score updates as users add or remove credentials, or as their digital interactions evolve, providing a dynamic measure of digital personhood.
 

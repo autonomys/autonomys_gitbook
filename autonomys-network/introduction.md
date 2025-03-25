@@ -4,6 +4,10 @@ description: From the Subspace Protocol to the Autonomys Network
 
 # Introduction
 
+{% embed url="http://youtube.com/watch?v=9jTBihUeq70" %}
+
+
+
 At its core, the Autonomys Network implements [Subspace](https://cdn.prod.website-files.com/61526a2af87a54e565b0ae92/617759c00edd0e3bd279aa29_Subspace_%20A%20solution%20to%20the%20farmer's%20dilemma.pdf), a novel storage-based consensus protocol that separates transaction ordering from execution. The Subspace Protocol was designed from the ground up to enable an open and inclusive Internet by:
 
 * Providing an energy-efficient and eco-friendly alternative to proof-of-work (PoW), while still allowing for mass participation by ordinary users.
@@ -33,9 +37,9 @@ This section provides a comprehensive overview of the Autonomys Network, Subspac
 
 1. [**Introduction**](introduction.md)
 2. [**Terminology**](terminology.md)
-3. [**Architecture**](architecture-overview.md)
+3. [**Architecture**](architecture.md)
 4. [**Advancing Blockchain**](advancing-blockchain.md)
-5. [**Nodes**](network-architecture.md)
+5. [**Nodes**](nodes.md)
 6. [**Subspace Protocol (PoAS Consensus)**](consensus/)
    1. [Genesis](consensus/genesis.md)
    2. [Data Flow](consensus/data-flow.md)
@@ -54,10 +58,10 @@ This section provides a comprehensive overview of the Autonomys Network, Subspac
 
 ***
 
-* [Subspace: A Solution to the Farmer’s Dilemma](https://cdn.prod.website-files.com/61526a2af87a54e565b0ae92/617759c00edd0e3bd279aa29_Subspace_%20A%20solution%20to%20the%20farmer's%20dilemma.pdf) (Whitepaper, 2021)
+* [Subspace: A Solution to the Farmer’s Dilemma](https://gateway.autonomys.xyz/file/bafkr6ibscehgtz4l5ee6rb3tnofcceaztqympdw6k5b6efkoe77uswvoqy) (Whitepaper, 2021)
 * [Subspace Network Reference Implementation](https://github.com/autonomys/subspace)
-* [Autonomys: Foundation Layer for AI3.0](https://cdn.prod.website-files.com/66d7181179fbc331d39e9df0/6734a4bf4a74c3c5c6b01d34_autonomys_whitepaper.pdf) (Whitepaper, 2024)
-* [Autonomys: Foundation Layer for AI3.0](https://autonomys-public-assets.s3.us-east-1.amazonaws.com/autonomys-lightpaper.pdf) (Litepaper, 2024)
+* [Autonomys: Foundation Layer for AI3.0](https://gateway.autonomys.xyz/file/bafkr6ia6q74kzrtdpfl3scb5v5f2vuvsip7ilfo4qkl27ievd7uvnluw2a) (Whitepaper, 2024)
+* [Autonomys: Foundation Layer for AI3.0](https://gateway.autonomys.xyz/file/bafkr6ibiqakm4js5yqifosrm2kdtxkbncbya2z2na2a34gaubwirqxt6bi) (Litepaper, 2024)
 
 
 

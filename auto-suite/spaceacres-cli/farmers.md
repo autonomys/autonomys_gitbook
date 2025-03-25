@@ -10,7 +10,7 @@ A major barrier to mass adoption in web3 is often the technical expertise requir
 
 ## Space Acres
 
-**Space Acres**, our [farmer node](../../autonomys-network/network-architecture.md) running software, abstracts away these complexities through an intuitive graphical user interface (GUI) that allows anyone with a consumer-level computer to pledge SSD space to the Autonomys Network in exchange for [$AI3 rewards](../../autonomys-network/rewards-and-fees/), while Space Acres seamlessly handles the backend [consensus](../../autonomys-network/consensus/) and [DSN](../../autonomys-network/distributed-storage-network.md) operations. This incentivization model scales rewards to contributors based on their amount of pledged storage, fostering a scalable decentralized data storage solution.
+**Space Acres**, our [farmer node](../../autonomys-network/nodes.md) running software, abstracts away these complexities through an intuitive graphical user interface (GUI) that allows anyone with a consumer-level computer to pledge SSD space to the Autonomys Network in exchange for [$AI3 rewards](../../autonomys-network/rewards-and-fees/), while Space Acres seamlessly handles the backend [consensus](../../autonomys-network/consensus/) and [DSN](../../autonomys-network/distributed-storage-network.md) operations. This incentivization model scales rewards to contributors based on their amount of pledged storage, fostering a scalable decentralized data storage solution.
 
 Space Acres provides several key features that simplify the farming process:
 
