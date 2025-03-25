@@ -37,6 +37,7 @@ Read the following subsections for technical details of decoupled execution, dom
 1. [Domains](domains/)
    1. [Taxonomy](domains/taxonomy.md)
    2. [Auto EVM](domains/auto-evm.md)
+   3. [Cross-Domain Messaging (XDM)](domains/cross-domain-messaging-xdm.md)
 2. [Staking](staking.md)
 
 ## [Domains](domains/)

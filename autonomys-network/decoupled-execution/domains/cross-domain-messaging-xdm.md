@@ -2,9 +2,9 @@
 description: Ensuring secure communication between chains on the Autonomys Network
 ---
 
-# Cross Domain Messaging (XDM)
+# Cross-Domain Messaging (XDM)
 
-Cross-Domain Messaging, or **XDM**, is a core innovation within the Autonomys Network designed to enable seamless, secure, and trustless communication between the **consensus chain** and various specialized execution environments, known as **Domains**.
+**Cross-domain messaging (XDM)**, is a core innovation within the Autonomys Network designed to enable seamless, secure, and trustless communication between the **consensus chain** and various specialized execution environments, known as **Domains**.
 
 ### Why Cross-Domain Messaging?
 
@@ -16,7 +16,7 @@ By creating standardized pathways for data, asset transfers, and messages to mov
 
 ### Core Components of XDM
 
-To fully understand Cross-Domain Messaging, let’s introduce two important concepts at its core: **Channels** and **Messages**. Together, these form the backbone of secure, efficient, and reliable cross-domain interactions.
+To fully understand cross-domain messaging, let’s introduce two important concepts at its core: **Channels** and **Messages**. Together, these form the backbone of secure, efficient, and reliable cross-domain interactions.
 
 #### Channels: Trusted Communication Pathways
 
@@ -81,7 +81,7 @@ By clearly defining channels and messages and meticulously managing their lifecy
 
 ### Fee Model
 
-Cross Domain Messaging incorporates a transparent and fair fee structure to incentivize domain operators and ensure system sustainability:
+Cross-domain messaging incorporates a transparent and fair fee structure to incentivize domain operators and ensure system sustainability:
 
 * **Compute Fees:**
   * Computed based on the processing requirements of each message on both sender and receiver domains.
