@@ -29,6 +29,7 @@
   * [Domains](autonomys-network/decoupled-execution/domains/README.md)
     * [Taxonomy](autonomys-network/decoupled-execution/domains/taxonomy.md)
     * [Auto EVM](autonomys-network/decoupled-execution/domains/auto-evm.md)
+    * [Cross Domain Messaging (XDM)](autonomys-network/decoupled-execution/domains/cross-domain-messaging-xdm.md)
   * [Staking](autonomys-network/decoupled-execution/staking.md)
 * [Networking Protocols](autonomys-network/networking-protocols.md)
 * [$AI3 Rewards & Fees](autonomys-network/rewards-and-fees/README.md)
