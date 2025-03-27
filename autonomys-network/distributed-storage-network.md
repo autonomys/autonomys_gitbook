@@ -20,11 +20,11 @@ The Autonomys Network DSN is comprised of multiple distinct layers that together
 
 <figure><img src="../.gitbook/assets/infographic_cache-layers (1).png" alt=""><figcaption><p>Distributed Storage Network</p></figcaption></figure>
 
-## Information for Developers wishing to utilize the DSN (Distributed Storage Network)
+## Developers
 
-Developer Documentation is available via [Autonomys Developer Hub](https://develop.autonomys.xyz/).&#x20;
+Developer documentation for building on the DSN is available on the [Autonomys Developer Hub](https://develop.autonomys.xyz/).&#x20;
 
-Auto Drive (DSN) API documentation is available [here](https://mainnet.auto-drive.autonomys.xyz/api/docs).&#x20;
+Auto Drive API documentation is available [here](https://mainnet.auto-drive.autonomys.xyz/api/docs).
 
 ## (L3) Content delivery network (CDN)
 
