@@ -6,7 +6,7 @@ description: An overview of the $AI3 token and its structure for rewards and fee
 
 ## **Introduction**
 
-**$AI3** _(formerly SSC/ATC)_ is the native token used for transactions and staking on the Autonomys Network ($tAI3 on our Taurus testnet)_._
+**$AI3** _(formerly SSC/ATC)_ is the native token used for rewards, fees, transactions, and staking on the Autonomys Network ($tAI3 on our Taurus testnet)_._
 
 ## Rewards & fees
 
@@ -21,7 +21,7 @@ Different participants receive their compensation through a combination of fees 
 
 Farmers pledge SSD space to the network and receive $AI3 in the form of:
 
-* _fees_ for the transactions and bundles they include in consensus chain blocks
+* _storage fees_ for the transactions and bundles they include in consensus chain blocks
 * _block rewards_ for the blocks they propose (issued by the protocol)
 * _vote rewards_ (issued by the protocol)
 
@@ -29,15 +29,19 @@ Farmers pledge SSD space to the network and receive $AI3 in the form of:
 
 Operators pledge compute and a minimum stake to the network and receive $AI3 in the form of:
 
-* _fees_ for the [domain](../decoupled-execution/domains/) transactions/bundles they produce, validate and execute (via a nomination tax)
+* _compute fees_ for the [domain](../decoupled-execution/domains/) transactions/bundles they produce, validate and execute (via a nomination tax)
+* _compute fees_ for the [cross-domain messaging](../decoupled-execution/domains/cross-domain-messaging-xdm.md) (XDM) messages they deliver and execute (calculated based on the processing requirements of each message on both the sending and receiving domains)
+* _relay fees_ for the XDM messages they relay between domains
 
 The nomination tax is a commission collected by operators on nominator $AI3 fees before they are proportionally distributed to the nominators staked to that operator. Operators receive the fees for their executed transactions once the relevant domain block has cleared the challenge period. Domain transactions (e.g. EVM contract calls) are usually significantly more computationally intensive than consensus chain transactions (e.g. balance transfers), and are therefore more expensive in order to compensate operators fairly. For more details, see [domain block fees](../decoupled-execution/domains/#domain-block-fees).
+
+XDM compute and relay fees are collected from the sender and burned on the sending domain before being minted on the receiving domain and distributed to operators upon successful delivery and execution.
 
 ### Nominators
 
 Nominators pledge a minimum stake to an operator's nomination pool and receive $AI3 in the form of:
 
-* a share of the operator's _fees_ for increasing the size of their pool (based on the nominator's share of the pool)
+* a share of the operator's _compute fees_ for increasing the size of their pool (based on the nominator's share of the pool)
 
 $AI3 holders nominate stake to operators to increase their chances of executing and processing blocks. The larger the nomination pool, the higher the probability of producing a bundle and receiving the associated fees. Operators are thus motivated to attract as many nominators as possible to increase the size of their nomination pool. For more details on pool shares and fee calculations, see [nomination pools](../decoupled-execution/staking.md#nomination-pools).
 

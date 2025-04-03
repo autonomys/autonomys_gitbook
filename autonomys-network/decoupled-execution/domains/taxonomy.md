@@ -14,7 +14,7 @@ Sovereign rollups (on Celestia) leverage the base layer protocol for consensus a
 
 ## Enshrined rollups
 
-Enshrined rollups (domains on Autonomys) are directly integrated into the core consensus protocol of the underlying blockchain, ensuring the rollup's features and functionality are maintained and enforced by the network's consensus rules. This built-in support enhances the rollup's security, interoperability and adoption, while providing the benefits of a typical rollup, such as increased throughput and reduced transaction fees.
+Enshrined rollups ([domains](./) on Autonomys) are directly integrated into the core consensus protocol of the underlying blockchain, ensuring the rollup's features and functionality are maintained and enforced by the network's consensus rules. This built-in support enhances the rollup's security, interoperability and adoption, while providing the benefits of a typical rollup, such as increased throughput and reduced transaction fees.
 
 Domains extend Celestia's sovereign rollup model to include shared settlement by default by allowing operators to re-stake (as proposed by Free2Shard and implemented by EigenLayer on Ethereum). Autonomys enshrines the re-staking model within the semantics of the core protocol (unlike EigenLayer, which is implemented through smart contracts).
 
