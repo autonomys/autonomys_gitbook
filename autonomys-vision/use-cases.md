@@ -6,6 +6,10 @@ description: Demos, examples and suggested applications
 
 ## Demos
 
+{% embed url="https://youtu.be/TFZndQdx6To" %}
+Argu-mint Demo
+{% endembed %}
+
 {% embed url="https://youtu.be/2ot3RPp7i8U?si=obysSmUIA9Din-Pd" %}
 Autonomys Auto Chain Agent Demo
 {% endembed %}

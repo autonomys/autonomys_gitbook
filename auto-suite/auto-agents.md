@@ -20,6 +20,10 @@ By permanently archiving each interaction, decision, and reasoning process on-ch
 
 The Auto Agents Framework is still in the early stages of development. It currently uses the [Auto SDK](auto-sdk.md), including the Auto Drive API, to interact with the [PoAS consensus](../autonomys-network/consensus/) chain and interface with the [distributed storage network (DSN)](../autonomys-network/distributed-storage-network.md). Autonomys Labs is rapidly improving the framework and adding workflows and features that will expand Auto Agents' capabilities. Any feedback and contributions are appreciated.
 
+{% embed url="https://youtu.be/1zI6Mae5bis" %}
+Getting started with the Autonomys Agents Framework
+{% endembed %}
+
 ## Key features
 
 * 🤖 Autonomous social media engagement
