@@ -8,12 +8,6 @@ description: An overview of Autonomys' interface for accessing the DSN
 
 Auto Drive transforms the underlying blockspace that forms the foundation of Autonomys’ distributed storage network (DSN) into a secure, easy-to-use, interoperable data storage tool with a user experience akin to Web2 cloud platforms.
 
-## **Why Auto Drive?**
-
-Today's Web3 ecosystem faces a significant contradiction: while blockchain transactions themselves are immutable and decentralized, the actual data referenced by those transactions is often stored on centralized or temporary infrastructure, creating critical reliability issues. This is because traditional blockchain networks and storage solutions treat data storage as a separate service—either on-chain at enormous cost or off-chain with compromised security.
-
-In the Autonomys Network, storage is an intrinsic byproduct of the network's consensus mechanism—Proof-of-Archival-Storage (PoAS)—which naturally generates vast amounts of blockspace. Auto Drive makes this blockspace accessible to developers and users. Data stored via Auto Drive is secured by the network’s consensus and permanently stored in the same blockspace that maintains the Autonomys Network’s own history and state.
-
 ## Key features
 
 * **True On-chain Storage**: Unlike other "decentralized" storage solutions that often simply distribute data across servers, Auto Drive provides access to genuine on-chain blockspace. This means your data inherits the same permanence, security, and decentralization guarantees as the Autonomys Network itself.
@@ -27,6 +21,12 @@ In the Autonomys Network, storage is an intrinsic byproduct of the network's con
   * Data integrity through cryptographic verification
   * Efficient storage and retrieval
   * The ability to store files of any size within the available blockspace
+
+## **Why Auto Drive?**
+
+Today's Web3 ecosystem faces a significant contradiction: while blockchain transactions themselves are immutable and decentralized, the actual data referenced by those transactions is often stored on centralized or temporary infrastructure, creating critical reliability issues. This is because traditional blockchain networks and storage solutions treat data storage as a separate service—either on-chain at enormous cost or off-chain with compromised security.
+
+In the Autonomys Network, storage is an intrinsic byproduct of the network's consensus mechanism—Proof-of-Archival-Storage (PoAS)—which naturally generates vast amounts of blockspace. Auto Drive makes this blockspace accessible to developers and users. Data stored via Auto Drive is secured by the network’s consensus and permanently stored in the same blockspace that maintains the Autonomys Network’s own history and state.
 
 ## **Getting Started with Auto Drive**
 
