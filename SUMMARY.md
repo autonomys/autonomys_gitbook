@@ -45,6 +45,7 @@
 * [Astral](auto-suite/astral/README.md)
   * [Nominators | Stake to Earn $AI3](auto-suite/astral/nominators.md)
 * [Auto SDK](auto-suite/auto-sdk.md)
+* [Auto Drive](auto-suite/auto-drive.md)
 * [Autonomys Agents (Auto Agents)](auto-suite/auto-agents.md)
 * [Autonomys Identity (Auto ID)](auto-suite/auto-id/README.md)
   * [Auto Score](auto-suite/auto-id/auto-score.md)
