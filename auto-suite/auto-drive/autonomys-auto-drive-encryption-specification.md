@@ -52,7 +52,7 @@ This privacy protection works at multiple levels of the network interaction. Whe
 
 The decentralized nature of the network actually enhances privacy in some ways compared to centralized systems. There's no single point where your complete file exists in unencrypted form outside of your own device. The distribution across multiple independent storage providers means that no single party has a complete view of your storage activity, and the encryption ensures that partial views remain meaningless.
 
-This approach also provides privacy protection that persists over time. As the network evolves, as storage providers join and leave, and as the DSN's architecture develops, your files remain protected by the same client-side encryption that was applied when you first stored them. The privacy guarantees don't depend on the ongoing security practices of any particular storage provider or network operator
+This approach also provides privacy protection that persists over time. As the network evolves, as storage providers join and leave, and as the DSN's architecture develops, your files remain protected by the same client-side encryption that was applied when you first stored them. The privacy guarantees don't depend on the ongoing security practices of any particular storage provider or network operator.
 
 ### Performance and Efficiency Considerations
 
