@@ -46,7 +46,7 @@
   * [Nominators | Stake to Earn $AI3](auto-suite/astral/nominators.md)
 * [Auto SDK](auto-suite/auto-sdk.md)
 * [Auto Drive](auto-suite/auto-drive.md)
-* [Autonomys Auto Drive Encryption Specification](auto-suite/autonomys-auto-drive-encryption-specification.md)
+* [Auto Drive File Encryption Specification](auto-suite/auto-drive-file-encryption-specification.md)
 * [Autonomys Agents (Auto Agents)](auto-suite/auto-agents.md)
 * [Autonomys Identity (Auto ID)](auto-suite/auto-id/README.md)
   * [Auto Score](auto-suite/auto-id/auto-score.md)
