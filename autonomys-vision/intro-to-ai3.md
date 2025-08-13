@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/0_hyrf3aB85pH1ISm7.webp
 coverY: -389.99466666666666
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Intro to AI3.0 & the Age of Autonomy

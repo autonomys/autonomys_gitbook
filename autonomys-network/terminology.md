@@ -22,7 +22,7 @@ Hyper-scalable decentralized AI (deAI) [infrastructure stack](architecture.md) e
 
 ## [Auto Suite](broken-reference)
 
-Autonomys' product suite, including the [Auto SDK](../auto-suite/auto-sdk.md), [Auto Agents Framework](../auto-suite/auto-agents.md) and [Auto ID](../auto-suite/auto-id/) for developers, and [Space Acres](../auto-suite/spaceacres-cli/), [Astral](../auto-suite/astral/) and the [Autonomys CLI](terminology.md#autonomys-cli) for [farmers](terminology.md#farmer) and [operators](terminology.md#operator).
+Autonomys' product suite, including the [Auto SDK](../auto-suite/auto-sdk.md), [Auto Agents Framework](../auto-suite/auto-agents.md) and [Auto ID](../auto-suite/auto-id/) for developers, and [Space Acres](../auto-suite/spaceacres-cli/), [Astral](../auto-suite/block-explorer-and-staking-interface/) and the [Autonomys CLI](terminology.md#autonomys-cli) for [farmers](terminology.md#farmer) and [operators](terminology.md#operator).
 
 ## Blockchain
 

@@ -2,20 +2,6 @@
 description: Discover the Autonomys Network & Auto Suite
 cover: .gitbook/assets/linkedin-banner-1.png
 coverY: 32.57719162141194
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # Welcome to the Autonomys Academy
