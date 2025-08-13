@@ -8,4 +8,4 @@ Any $AI3 token holder can nominate ([stake](../../autonomys-network/decoupled-ex
 
 ## Astral
 
-To begin staking $AI3 to operators, visit [Astral](http://astral.autonomys.xyz/). To learn more, read our [nominator documentation](http://docs.autonomys.xyz/staking/stake/).
+To begin staking $AI3 to operators, visit the [Auto Portal](https://auto-portal-web.vercel.app/dashboard) (under development, expect bugs). To learn more, read our [nominator documentation](http://docs.autonomys.xyz/staking/stake/).
